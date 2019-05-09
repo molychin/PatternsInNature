@@ -73,3 +73,18 @@ decoration, expressing a sense of an orderly cosmos. Some of these Islamic artis
 
 *数学秩序  
 极其复杂的规则的几何图案在传统的伊斯兰建筑装饰中是非常常见的，其表达了一种井然有序的宇宙观。这些伊斯兰艺术家看起来非常善于绘制这些规则图形元素，而仅靠这些图形元素本身并不能被拼装成相同的重复序列，例如五边形和八边形。*
+
+![](res/pin_011.png)
+
+PATTERN EVERYWHERE
+Regularity and order pervade the natural world, both living and non-living. Sometimes it takes a microscope (or a telescope) to see it,as in the case of these pollen grains.
+随处存在的（图形）模式
+无论是生物还是非生物，规律和秩序遍布于自然界。有时需要依赖显微镜（或望远镜）才能观察到它，就像这些花粉颗粒的图像一样。
+【正因为借助于人类制造的仪器设备（显微镜、望远镜等），在近一个世纪以来，使人类大大扩展了对可见自然的视野，同时也产生了很多原来不曾有的视觉经验。这些新鲜的视觉景象，不仅停留在科学研究，同样也潜在地影响着艺术领域的创作。】
+
+In the midst of wonders  
+He didn’t get everything right, by any means, but Thompson was on the right track. In the century that has elapsed since On Growth and Form was published, many new natural patterns have been identified and explained, and today there are scientists who specialize in studying these things, aided by conceptual, experimental, and computational tools that Thompson lacked. The questions are fascinating and challenging, but it’s hard not to suspect that a big part of the allure is aesthetic: these forms and arrangements are also beautiful.
+
+在奇观中  
+Thompson并没有把所有的事情都搞定，但他走在了正确的道路上。自《生长和形态》出版以来的世纪里，有更多新的自然模式已经被识别和解释，今天有科学家专门研究这些东西，并得到了新的概念、实验条件和计算工具的帮助，而当年Thompson 缺乏这些东西。这些问题很吸引人，也很有挑战性，但是很难不去怀疑这种吸引力的很大部分来自于美学的：这些形式和排列状态是非常漂亮的。  
+`【这里特别要指出的是各类观察仪器的诞生，使人类的眼界从奈米级到光年级的尺度上都能得到自然界的图像（模式）。另外，由于拥有了超级计算速度和容量的计算机，人们可以人为地绘制（仿真、模拟）由复杂系统或非线性系统所产生的图像（模式）。这些新型的图像（模式）大大拓展了眼界，也重新引起美学上的思考。】'
