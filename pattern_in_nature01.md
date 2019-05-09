@@ -35,13 +35,13 @@ Today, we don’t need that hypothesis. It’s clear that pattern, regularity, a
 
 There are clues in how they look. Perhaps the most curious thing about natural patterns is that they come from a relatively limited palette,recurring at very different size scales and in systems that might seem to have nothing at all in common with one another. We see spirals, say, and hexagons, intricate branching forms of cracks and lightning, spots and stripes. It seems that there are types of pattern-forming process that don’t depend on the detailed specifics of a system but can crop up across the board, even bridging effortlessly the living and the non-living worlds.
 
-它们的外观中存在着线索。也许自然图案（模式）最神奇的是它们来自一个相对有限的调色盘，它们以不同大小的尺度出现，并且在系统中似乎彼此毫无共同之处。我们能观察到螺旋形、六边形、复杂分支形态的裂缝和闪电、斑点和条纹。似乎有些类型的图案（模式）形成过程并不依赖于系统的具体细节，而是可以突然出现在整个系统中【涌现】，甚至毫不费力地将生命世界（有机体）与非生命世界（无机体）连接起来。
+它们的外观中存在着线索。也许自然图案（模式）最神奇的是它们来自一个相对有限的调色盘，它们以不同大小的尺度出现，并且在系统中似乎彼此毫无共同之处。我们能观察到螺旋形、六边形、复杂分支形态的裂缝和闪电、斑点和条纹。似乎有些类型的图案（模式）形成过程并不依赖于系统的具体细节，而是可以突然出现在整个系统中`【涌现】`，甚至毫不费力地将生命世界（有机体）与非生命世界（无机体）连接起来。
 
 ![](res/pin_006.jpg)
 
 In this sense, pattern formation is universal: it doesn’t respect any of the normal boundaries that we tend to draw between different sciences or different types of phenomena.
 
-在这个意义上，模式的形成是普遍的：它不遵从于我们所倾向的在不同科学或不同类型的现象之间绘制的任何正常边界。【这也正是它的奇妙之处，也是除了模式所能呈现的惊人的美感之外更可以让人深入探究的源头所在。】
+在这个意义上，模式的形成是普遍的：它不遵从于我们所倾向的在不同科学或不同类型的现象之间绘制的任何正常边界。`【这也正是它的奇妙之处，也是除了模式所能呈现的惊人的美感之外更可以让人深入探究的源头所在。】`
 
 ![](res/pin_003.png)
 
@@ -52,7 +52,7 @@ Do these patterns have anything in common, or is the similarity in their appeara
 这些模式有什么共同点，或者它们外表上的相似性只是巧合吗？  
 第一个真正解决这个问题的人是苏格兰动物学家 D' Arcy Wentworth Thompson。1917  Thompson出版了他的《生长和形态（On Growth and Form）》的杰作，收集了所有在自然界中已知的有关模式和形态的惊人的综合体，综合体涉及生物学、自然史、数学、物理和工程学。正如标题所指出的， Thompson指出，至少在生物学上，并且在非生物的物质世界中，模式的形成不是静态的，而是由生长产生的。“一切都是这样的”他说，“因为它是生长得来的。”模式谜语的答案在于它是如何成长的。这听起来并不那么明显：一座桥、一片稻田或一颗微芯片会被“解释”为什么是看起来的样子，而不是它是如何被制造的。   
 
-![](res/pin_007.pgn)
+![](res/pin_007.png)
 
 Part of Thompson’s agenda was to put a brake on the runaway enthusiasm that had developed at that time for explaining all form and order in the living world by invoking Charles Darwin’s theory of natural selection—to say that the pattern was there because it served some adaptive purpose in helping the organism to survive. Not necessarily,Thompson cautioned. Perhaps nature simply had no choice: the shape is decided by the dictates of physical forces, not by the convenience for biology. Even living creatures have to be soundly engineered to withstand the whims of fate. It was a timely reminder of the constraints on Darwin’s theory, but it doesn’t actually conflict with it. In the living world, pattern formation seems both to restrict the options for adaptive change and to offer new adaptive opportunities—to operate, in other words, in parallel and sometimes in sympathy with Darwinian evolution. It supplies,for example, the color markings that animals put to striking use for camouflage, or as warning signs to predators, or so that members of a species can recognize each other. These patterns might not be arbitrary, but they can be useful.
 
