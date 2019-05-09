@@ -18,7 +18,7 @@ It seems that we find these structures not only pleasing but also reassuring, as
 
 这是一种我们大脑（潜意识）的习惯。从婴儿第一次反复听到的声音和经验中，认识到模式和规律有助于我们生存并走进世界。模式是科学家们的一日三餐，但任何人也都能领会它们，并从中获取愉悦而惊奇的审美和智力快感。几乎所有地球文明，从古埃及人到美洲土著及澳大利亚土著，都用规则的图形（模式）来装饰他们的（史前）器物。    
 这些图形图案似乎不仅让我们愉悦，而且令人安心，好像它们使我们相信，不管命运如何，其背后都隐藏着逻辑和秩序。  
-    
+
 ![](res/pin_004.jpg)
 
 But when we make our own patterns, it is through careful planning and construction, with each individual element cut to shape and laid in place, or woven one at a time into the fabric.
@@ -29,7 +29,7 @@ The message seems to be that making a pattern requires a patterner. That's why, 
 
 ![](res/pin_005.jpg)
 
-Today, we don’t need that hypothesis. It’s clear that pattern, regularity, and form can arise from the basic forces and principles of physics and chemistry, perhaps selected and refined by the exigencies of biological evolution. But that only deepens the mystery. How does the intricate tapestry of nature contrive to organize itself, producing a pattern without any blueprint or foresight? How do these patterns form spontaneously? 
+Today, we don’t need that hypothesis. It’s clear that pattern, regularity, and form can arise from the basic forces and principles of physics and chemistry, perhaps selected and refined by the exigencies of biological evolution. But that only deepens the mystery. How does the intricate tapestry of nature contrive to organize itself, producing a pattern without any blueprint or foresight? How do these patterns form spontaneously?
 
 但今天，我们并不需要这个（上帝存在的）假设。很明显，（图案）模式、规律和（结构）形式都可以从物理和化学基本原理和规则中产生，也许所有这些都可以通过生物进化的迫切性来选择和提炼。但这样说只会加深神秘感，自然又如何在没有先见和蓝图的情况下，自行完成这些错综复杂的设计而呈现可见的模式？
 
@@ -45,7 +45,7 @@ In this sense, pattern formation is universal: it doesn’t respect any of the n
 
 ![](res/pin_003.png)
 
-■Growth and form?
+■Growth and form?  
 Do these patterns have anything in common, or is the similarity in their appearance just coincidence? The first person to truly grapple with that question was the Scottish zoologist  D’Arcy Wentworth Thompson. In 1917 Thompson published his masterpiece, On Growth and Form, which collected together all that was then known about pattern and form in nature in a stunning synthesis of biology, natural history,mathematics, physics, and engineering. As the title indicates, Thompson pointed out that, in biology at least, and often in the non-living world, pattern formation is not a static thing but arises from growth. “Everything is what it is,” he said, “because it got that way.” The answer to the riddle of pattern lies in how it got to be that way—how the pattern grew. That’s less obvious than it sounds: a bridge or a paddy field or a microchip is “explained” by how it looks, not by how it was made.
 
 生长和形态？  
@@ -73,13 +73,3 @@ decoration, expressing a sense of an orderly cosmos. Some of these Islamic artis
 
 *数学秩序  
 极其复杂的规则的几何图案在传统的伊斯兰建筑装饰中是非常常见的，其表达了一种井然有序的宇宙观。这些伊斯兰艺术家看起来非常善于绘制这些规则图形元素，而仅靠这些图形元素本身并不能被拼装成相同的重复序列，例如五边形和八边形。*
-
-
-
-
-
-
-
-
-
-
