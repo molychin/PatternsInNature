@@ -100,29 +100,31 @@ These patterns affirm, too, what the American physicist Richard Feynman said abo
 
 这些图案（模式）也印证了美国物理学家理 Richard Feynman关于宇宙运行的说法：“自然界只用最长的丝线来编织图案，所以她的每一小块织物都隐含了整个挂毯的结构。”这些支配世界运作的原则是普遍适用的，有时你可以在一个小角落里见到清晰地见证到远景：在火炉上烧烤一个（盛水的）平底锅，你就可以看到一种对流模式呈现出来，同样的模式也适用于云在天空中翻滚；而你身体中的静脉网络也（很有理由）等同于河流跨越大陆和山脉。
 
-![](res/pin_014.jpg)
+![](res/pin_014.jpg)  
 高空拍摄的河流入海口
 
-![](res/pin_014.jpg)
+![](res/pin_014.jpg)  
 人体血管
 
 This doesn’t mean to say that one grand theory explains all these things, although some scientists have dreamed, and still dream, of such a thing. But it does make many patterns variations on a theme, and reflects the fact that they often arise from broadly similar processes—ones in which some driving force, be it gravity or heat or evolution, prevents the system from ever settling into a steady, unchanging state; in which various influences interact with each other, sometimes reinforcing and sometimes competing; in which patterns and forms might switch abruptly to a new shape and appearance when the driving force exceeds some threshold value; in which small events can have big consequences and what goes on here can influence what transpires at a distant point there; and in which accidents may get frozen into place and determine what unfolds thereafter. There is no Law of Pattern Formation, but there is perhaps a recipe book.
-这并不意味着一个宏伟的理论解释了所有事情，尽管一些科学家曾经梦想过，并仍然梦想着这样的好事。但是确实会在一个主题上产生许多模式的变化，并且反映了这样一个事实：它们通常是从大致相似的过程中产生的，其中一些驱动力，无论是重力还是热，还是进化，都防止了系统趋向稳定，趋向不变的状态。各种影响相互作用，有时加强和有时对抗；当驱动力超过某个阈值时，模式和形态可能突然转变为新的形状和外观【突现、自组织】。一个很小的事件可以有产生巨大的后果（影响），在此处发生的事情可以（遥远的）别处产生影响。或者一个事件会被暂时冻结（潜伏），但在（未知的）才再产生影响。这些模式没有固定的生成法则，但又或许其完全是依照烹饪书籍在制作。【意味着我们对具体的模式形成机制并没有完全掌握。】
-【没有变化状态，亦是没有活力的状态。无论是从中国哲学（易学）还是印度哲学，不变即将意味着死寂甚至趋向灭亡。生命的活力或世界进化的动力都是来源于阴阳的交合和变化。】
-【这里涉及的现象和论点其实都属于复杂性系统理论（混沌理论或非线性理论）的范畴。】
+
+这并不意味着一个宏伟的理论解释了所有事情，尽管一些科学家曾经梦想过，并仍然梦想着这样的好事。但是确实会在一个主题上产生许多模式的变化，并且反映了这样一个事实：它们通常是从大致相似的过程中产生的，其中一些驱动力，无论是重力还是热，还是进化，都防止了系统趋向稳定，趋向不变的状态。各种影响相互作用，有时加强和有时对抗；当驱动力超过某个阈值时，模式和形态可能突然转变为新的形状和外观【突现、自组织】。一个很小的事件可以有产生巨大的后果（影响），在此处发生的事情可以（遥远的）别处产生影响。或者一个事件会被暂时冻结（潜伏），但在（未知的）才再产生影响。这些模式没有固定的生成法则，但又或许其完全是依照烹饪书籍在制作。`【意味着我们对具体的模式形成机制并没有完全掌握。】`  
+`【没有变化状态，亦是没有活力的状态。无论是从中国哲学（易学）还是印度哲学，不变即将意味着死寂甚至趋向灭亡。生命的活力或世界进化的动力都是来源于阴阳的交合和变化。】`  
+`【这里涉及的现象和论点其实都属于复杂性系统理论（混沌理论或非线性理论）的范畴。】`
 
 This book will certainly not explain all or even most of those prescriptions That’s been done elsewhere (see Further Reading, page 283, for examples). The aim here is to offer a flavor of the recipes, but most importantly, to display the results in all their glory. This, perhaps more than any other field of scientific study, is a topic driven by wonder. I confess that some of the images in these pages are ones that science can’t yet fully explain; perhaps the general principles are clear, but not the details and nuances. There are also some images that are included not because they illustrate a clear or single scientific process but because of their sheer splendor. We need that too. We need to marvel and admire as well as to analyze and calculate. Natural patterns offer raw delights, but they also point to something deep, as Feynman intimated. They show that, sometimes, to understand the world we need not only to dissect it into its component parts but also to build it back up again. Forms and effects emerge from the rich interplay of components in a way that you would—indeed could—never guess by looking at them individually. It is not mere mysticism or anthropomorphism to suggest that this emergence of new form reveals a kind of spontaneous creativity in nature. The world uses simple principles to bring forth variety and riches, Darwin’s “endless forms most beautiful.” Some of that beauty is captured here.
-这本书当然不会解释（讨论）所有或大部分的自然模式。这些论述已经在我的其他著作中完成了（更多内容参见第283页）。这里的只是先提及这些食谱（图案）的味道，但最重要的是，展示其所有绚丽荣耀视觉感受。这也许比任何其他科学研究领域都更为神奇。我承认这些页面中的一些图像是科学无法完全解释的，也许一般原则是清楚的，但不能解释的也不仅仅只是细节和细微差别。这里还包括一些图像，不是因为它们说明了一个清晰或单一的科学过程，而是因为它们的辉煌（惊艳）。我们也需要这样图像。我们需要惊奇和钦佩，还要分析和计算。自然图案提供了原始的乐趣，但它们也指向了某种深邃的东西，正如Feynman所暗示的。它们表明，有时候，我们不仅需要了解它的组成部分，而且需要重新构建它。形式和效果会从（局部）组件的丰富相互作用中产生出来，这样你就永远无法仅通过观察它们的个体来猜测相互作用的后果。它不能仅仅归结于神秘主义或拟人主义（人格化），当这种新形式的出现揭示了自然界中一种自发的创造性。世界用简单的原则来创造多样性和丰富性，达尔文所谓的“无休止的形式最美丽”。
-【简单规则下的相互作用会创造丰富的成果或者复杂的现象背后隐藏着简单的事实，这是复杂性理论的一个基本认识和观点。正是这样简单而深刻的认识，明了地解释了多姿多态的自然为何会如此。同样将这个原理运用于艺术创作，过去，人们一直抱着直接模拟观察到的对象的外观所见而进行描绘。如果懂得了自然创生的原理，则可以采用新的创作手段，以更接近自然的创作方式。说得更明白一些，可以是，以流动表现流动，以干裂表现干裂，以起泡表现起泡......】
 
-![](res/pin_015.png)
+这本书当然不会解释（讨论）所有或大部分的自然模式。这些论述已经在我的其他著作中完成了（更多内容参见第283页）。这里的只是先提及这些食谱（图案）的味道，但最重要的是，展示其所有绚丽荣耀视觉感受。这也许比任何其他科学研究领域都更为神奇。我承认这些页面中的一些图像是科学无法完全解释的，也许一般原则是清楚的，但不能解释的也不仅仅只是细节和细微差别。这里还包括一些图像，不是因为它们说明了一个清晰或单一的科学过程，而是因为它们的辉煌（惊艳）。我们也需要这样图像。我们需要惊奇和钦佩，还要分析和计算。自然图案提供了原始的乐趣，但它们也指向了某种深邃的东西，正如Feynman所暗示的。它们表明，有时候，我们不仅需要了解它的组成部分，而且需要重新构建它。形式和效果会从（局部）组件的丰富相互作用中产生出来，这样你就永远无法仅通过观察它们的个体来猜测相互作用的后果。它不能仅仅归结于神秘主义或拟人主义（人格化），当这种新形式的出现揭示了自然界中一种自发的创造性。世界用简单的原则来创造多样性和丰富性，达尔文所谓的“无休止的形式最美丽”。   
+`【简单规则下的相互作用会创造丰富的成果或者复杂的现象背后隐藏着简单的事实，这是复杂性理论的一个基本认识和观点。正是这样简单而深刻的认识，明了地解释了多姿多态的自然为何会如此。同样将这个原理运用于艺术创作，过去，人们一直抱着直接模拟观察到的对象的外观所见而进行描绘。如果懂得了自然创生的原理，则可以采用新的创作手段，以更接近自然的创作方式。说得更明白一些，可以是，以流动表现流动，以干裂表现干裂，以起泡表现起泡......】`
+
+![](res/pin_015.png)  
 NATURAL EXUBERANCE   
 The glorious plumage of the vulturine guinea fowl, native to northeastern Africa.   
 
 丰富的自然  
 辉煌艳丽的珍珠鸡的羽毛，原产于非洲东北部。
 
-![](res/pin_017.png)
+![](res/pin_017.png)  
 THE PATTERN PALETTE  
 Certain forms, shapes, and patterns recur again and again in the natural world, in systems that seem to have nothing to do with one another.Waves of growth are one of them, as can be seen in this piece of agate.
 
