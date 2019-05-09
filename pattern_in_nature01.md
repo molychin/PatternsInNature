@@ -65,7 +65,7 @@ At the same time, however, Thompson’s book helped to show why it was not simpl
 
 然而，与此同时，汤普森的书有助于说明为什么在科学【自然】领域中反复出现相同的模式和形态并非巧合，为什么说肥皂泡的排列可能类似于活细胞群或小海绵体的网状骨架。另外，为什么蜗牛壳和公羊的角蜷缩成（数学意义上的）螺旋，为什么动物脊骨的形状像悬臂式吊桥等等。
 
-![](res/pin_010.pgn)
+![](res/pin_010.png)
 
 *MATHEMATICAL ORDER  
 Regular geometric designs of great sophistication are common in traditional Islamic architectural
