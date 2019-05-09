@@ -6,4 +6,4 @@ PATTERN IN NATURE-why the natural world looks the way it does-PHILIP BALL
 
 PHILIP BALL 2006年
 
-![adbsd](./res/pin_001.pgn)
+![adbsd](res/pin_001.pgn)
