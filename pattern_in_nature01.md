@@ -103,7 +103,7 @@ These patterns affirm, too, what the American physicist Richard Feynman said abo
 ![](res/pin_014.jpg)  
 高空拍摄的河流入海口
 
-![](res/pin_014.jpg)  
+![](res/pin_015.jpg)  
 人体血管
 
 This doesn’t mean to say that one grand theory explains all these things, although some scientists have dreamed, and still dream, of such a thing. But it does make many patterns variations on a theme, and reflects the fact that they often arise from broadly similar processes—ones in which some driving force, be it gravity or heat or evolution, prevents the system from ever settling into a steady, unchanging state; in which various influences interact with each other, sometimes reinforcing and sometimes competing; in which patterns and forms might switch abruptly to a new shape and appearance when the driving force exceeds some threshold value; in which small events can have big consequences and what goes on here can influence what transpires at a distant point there; and in which accidents may get frozen into place and determine what unfolds thereafter. There is no Law of Pattern Formation, but there is perhaps a recipe book.
@@ -117,7 +117,7 @@ This book will certainly not explain all or even most of those prescriptions Tha
 这本书当然不会解释（讨论）所有或大部分的自然模式。这些论述已经在我的其他著作中完成了（更多内容参见第283页）。这里的只是先提及这些食谱（图案）的味道，但最重要的是，展示其所有绚丽荣耀视觉感受。这也许比任何其他科学研究领域都更为神奇。我承认这些页面中的一些图像是科学无法完全解释的，也许一般原则是清楚的，但不能解释的也不仅仅只是细节和细微差别。这里还包括一些图像，不是因为它们说明了一个清晰或单一的科学过程，而是因为它们的辉煌（惊艳）。我们也需要这样图像。我们需要惊奇和钦佩，还要分析和计算。自然图案提供了原始的乐趣，但它们也指向了某种深邃的东西，正如Feynman所暗示的。它们表明，有时候，我们不仅需要了解它的组成部分，而且需要重新构建它。形式和效果会从（局部）组件的丰富相互作用中产生出来，这样你就永远无法仅通过观察它们的个体来猜测相互作用的后果。它不能仅仅归结于神秘主义或拟人主义（人格化），当这种新形式的出现揭示了自然界中一种自发的创造性。世界用简单的原则来创造多样性和丰富性，达尔文所谓的“无休止的形式最美丽”。   
 `【简单规则下的相互作用会创造丰富的成果或者复杂的现象背后隐藏着简单的事实，这是复杂性理论的一个基本认识和观点。正是这样简单而深刻的认识，明了地解释了多姿多态的自然为何会如此。同样将这个原理运用于艺术创作，过去，人们一直抱着直接模拟观察到的对象的外观所见而进行描绘。如果懂得了自然创生的原理，则可以采用新的创作手段，以更接近自然的创作方式。说得更明白一些，可以是，以流动表现流动，以干裂表现干裂，以起泡表现起泡......】`
 
-![](res/pin_015.png)  
+![](res/pin_016.png)  
 NATURAL EXUBERANCE   
 The glorious plumage of the vulturine guinea fowl, native to northeastern Africa.   
 
