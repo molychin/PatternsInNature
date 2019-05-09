@@ -18,6 +18,7 @@ It seems that we find these structures not only pleasing but also reassuring, as
 
 这是一种我们大脑（潜意识）的习惯。从婴儿第一次反复听到的声音和经验中，认识到模式和规律有助于我们生存并走进世界。模式是科学家们的一日三餐，但任何人也都能领会它们，并从中获取愉悦而惊奇的审美和智力快感。几乎所有地球文明，从古埃及人到美洲土著及澳大利亚土著，都用规则的图形（模式）来装饰他们的（史前）器物。    
 这些图形图案似乎不仅让我们愉悦，而且令人安心，好像它们使我们相信，不管命运如何，其背后都隐藏着逻辑和秩序。  
+
 ---
 ![](res/pin_004.jpg)
 But when we make our own patterns, it is through careful planning and construction, with each individual element cut to shape and laid in place, or woven one at a time into the fabric.
