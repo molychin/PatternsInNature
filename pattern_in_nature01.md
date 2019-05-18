@@ -11,7 +11,9 @@ Created on Thu May  9 22:24:01 2019
 The world is a confusing and turbulent place, but we make sense of it by finding order. We notice the regular cycles of day and night, the waxing and waning of the moon and tides, and the recurrence of the seasons. We look for similarity, predictability, regularity: those have always been the guiding principles behind the emergence of science. We try to break down the complex profusion of nature into simple rules, to find order among what might at first look like chaos. This makes us all pattern seekers.
 
 介绍    
-世界是一个混乱而令人困惑的地方，但我们总试图找出秩序来理解它。我们观察到昼夜的交替变化，月亮的盈亏和潮汐的涨落的关系，以及季节周而复始的重现。我们在寻找其中的相似性、可预测性和规律性：那些一直隐藏在（自然）现象背后的科学规律。我们试图把大量复杂的自然现象分解成简单的部分，并在最初看起来像混沌的事物中寻找秩序。这使我们都成为模式的搜寻者。`【我们试图发现复杂自然现象背后的简单模式。】`
+世界是一个混乱而令人困惑的地方，但我们总试图找出秩序来理解它。我们观察到昼夜的交替变化，，以及季节周而复始的重现。我们在寻找其中的相似性、可预测性和规律性：那些一直隐藏在（自然）现象背后的科学规律。我们试图把大量复杂的自然现象分解成简单的部分，并在最初看起来像混沌的事物中寻找秩序。这使我们都成为模式的搜寻者。`【我们试图发现复杂自然现象背后的简单模式。】`
+
+自然界中总是存在着困惑和神秘之地，但人类总是试图从中找出秩序【规律】并理解它。人们已经注意到了昼夜的交替变化，潮汐涨落与月亮盈亏的息息相关。我们在其中寻找着 **相似性 、可预测性和规律性** 。人们习惯将 **秩序和规则** 视为上帝，而将 **混乱、无序和随机** 当做魔鬼。因为秩序，意味着事物在人类智力范围之内成为可预测物，意味着在未发生之前就可以预期结果，从而尝试避祸趋利。
 
 It's a habit hardwired into our brains. From a baby's first inklings of repeated sounds and experiences, recognizing pattern and regularity  helps us to survive and make our way in the world. Patterns are the daily bread of scientists,but anyone can appreciate them, and respond to them with delight and wonder as well as with aesthetic and intellectual satisfaction. Just about every culture on earth, from the ancient Egyptians to Native Americans and Australian Aborigines,has decorated its artifacts with regular patterns.
 It seems that we find these structures not only pleasing but also reassuring, as if they help us believe that, no matter what fate brings, there is a logic and order behind it all.
