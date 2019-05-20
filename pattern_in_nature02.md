@@ -9,9 +9,12 @@ Do these patterns have anything in common, or is the similarity in their appeara
 
 #### ■生长和形态？  
 这些模式有什么共同点，或者它们外表上的相似性只是巧合吗？  
-第一个真正解决这个问题的人是苏格兰动物学家 D' Arcy Wentworth Thompson。1917  **Thompson** 出版了他的《**生长和形态（On Growth and Form）**》的杰作，收集了所有在自然界中已知的有关模式和形态的惊人的综合体，综合体涉及生物学、自然史、数学、物理和工程学。正如标题所指出的， Thompson指出，至少在生物学上，并且在非生物的物质世界中，**模式的形成不是静态的，而是由生长产生的**。“一切都是这样的”他说，“因为它是生长得来的。”模式谜语的答案在于它是如何成长的。这听起来并不那么明显：一座桥、一片稻田或一颗微芯片会被“解释”为什么是看起来的样子，而不是它是如何被制造的。   
+第一个真正解决这个问题的人是苏格兰动物学家 D' Arcy Wentworth Thompson。1917  **Thompson** 出版了他的《**生长和形态（On Growth and Form）**》的杰作，收集了所有在自然界中已知的有关模式和形态的惊人的综合体，综合体涉及生物学、自然史、数学、物理和工程学。正如标题所指出的， Thompson指出，至少在生物学上，并且在非生物的物质世界中，**模式的形成不是静态的，而是由生长产生的**。“一切都是这样的”他说，“因为它是生长得来的。”模式谜语的答案在于 **它是如何成长的**。这听起来并不那么明显：一座桥、一片稻田或一颗微芯片会被“解释”为什么是看起来的样子，而不是它是如何被制造的。   
 
 ![](res/pin_007.png)
+
+【关于一种形态是如何成长出来的，这里有一个很好的案例，我把它称为[“沙漠迷途者的足迹”](./Moly_NaturePatterns_footmark.md)。这个模式形成的原理异常简单，我想即使是小学水平的智力即能很好的理解它。】
+
 
 Part of Thompson’s agenda was to put a brake on the runaway enthusiasm that had developed at that time for explaining all form and order in the living world by invoking Charles Darwin’s theory of natural selection—to say that the pattern was there because it served some adaptive purpose in helping the organism to survive. Not necessarily,Thompson cautioned. Perhaps nature simply had no choice: the shape is decided by the dictates of physical forces, not by the convenience for biology. Even living creatures have to be soundly engineered to withstand the whims of fate. It was a timely reminder of the constraints on Darwin’s theory, but it doesn’t actually conflict with it. In the living world, pattern formation seems both to restrict the options for adaptive change and to offer new adaptive opportunities—to operate, in other words, in parallel and sometimes in sympathy with Darwinian evolution. It supplies,for example, the color markings that animals put to striking use for camouflage, or as warning signs to predators, or so that members of a species can recognize each other. These patterns might not be arbitrary, but they can be useful.
 
