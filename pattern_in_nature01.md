@@ -1,6 +1,6 @@
 ```
 Created on Thu May  9 22:24:01 2019
-Pattern in Nature
+Pattern in Nature-Philip Ball
 @author: molychin@qq.com
 ```
 

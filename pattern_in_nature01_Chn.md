@@ -1,6 +1,6 @@
 ```
 Created on Thu May  9 22:24:01 2019
-自然模式
+自然模式-原著：Philip Ball 改编：Moly Chin
 @author: molychin@qq.com
 ```
 ## 自然模式
