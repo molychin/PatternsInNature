@@ -54,4 +54,6 @@ The distribution of the 14 Bravais lattices into lattice systems and crystal fam
 下表给出了14个Bravais晶格在晶格系统和晶体族中的分布。
 ![](res/p1/p002.png)
 
----
+
+
+>待续......
