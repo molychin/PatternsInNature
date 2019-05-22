@@ -9,13 +9,23 @@ Created on  2019.05.20.22:40
 
 ### The Effect of Scale
 From what has already been demonstrated, you can plainly see the impossibility of increasing the size of structures to vast dimensions either in art or in nature; likewise the impossibility of building ships, palaces, or temples of enormous size in such a way that their oars, yards, beams, iron-bolts, and, in short, all their other parts will hold together; nor can nature produce trees of extraordinary size because the branches would break down under their own weight; so also it would be impossible to build up the bony structures of men, horses, or other animals so as to hold together and perform their normal functions if these animals were to be increased enormously in height; for this increase in height can be accomplished only by employing a material which is harder and stronger than usual, or by enlarging the size of the bones, thus changing their shape until the form and appearance of the animals suggest a monstrosity,
--CaliIeo
+-Calileo
 
 规模效应
-从已经证明的，你可以清楚地看到，无论是在艺术上还是在自然界中，都不可能将结构的尺寸扩大到广阔的空间；同样，不可能建造巨大的船体、宫殿或寺庙，从而使它们的桨、院子、梁、铁，简而言之，它们的所有其他部分将保持在一起；自然也不能产生非常大的树木，因为树枝会在它们自身的重量下分解；因此也不可能建立人、马或其他动物的骨骼结构，以便保持在一起和PE。如果这些动物在高度上有很大的增加，就会形成正常的功能，因为这种高度的增加只能通过使用比通常更坚硬更强壮的材料来完成，或者通过扩大骨骼的大小来完成，从而改变它们的形状直到形状和外观。动物的CE显示一个怪物，-CaliIeo
+
+从已经证明的情况来看，无论是在艺术上还是在自然上，你都能清楚地看到不可能将结构的尺寸增加到巨大的尺寸；同样，不可能建造大型的船只、宫殿或寺庙，其建造方式使它们的桨、院子、横梁、铁栓，总之，它们的所有其他部分都能容纳在一起；自然也不能产生非常大的树，因为树枝会在它们自身的重量下分解；因此，如果这些动物的高度要大幅度增加的话，也不可能建立起人、马或其他动物的骨骼结构，以使它们结合在一起并发挥它们的正常功能；因为在只有使用比平时更硬、更结实的材料，或者扩大骨骼的尺寸，从而改变它们的形状，直到动物的形状和外观显示出一种畸形，才能完成高度的增加。
+-Calileo
 
 THE EFFECT OF MAGNITUDE or absolute size as a determinant of form shows again how space shapes the things around us. In studying polyhedrons we are unconcerned with magnitude. We assume that a cube is a cube no matter what its size. We find, however, that the geometric relations that arise from a difference in size affect structural behavior, and that a large cube is relatively weaker than a small cube. We also find, as a corollary, that in order to maintain the same structural characteristics a difference in size must be accompanied by a difference in shape.
+
+大小或绝对大小作为形式决定因素的影响再次显示了空间如何塑造我们周围的事物。在研究多面体时，我们与数量无关。我们假设一个立方体不管大小都是一个立方体。然而，我们发现，尺寸差异引起的几何关系影响结构行为，大立方体比小立方体相对较弱。我们还发现，作为推论，**为了保持相同的结构特征，尺寸上的差异必须伴随着形状上的差异**。
+
 To understand the effects of size and how they are derived from the spreading of space, consider again the regular polyhedrons pictured in Figure 5. The following table shows the surface areas and volumes of those solids, based on a dimension d taken to be the length of an edge. The tetrahedron, octahedron, and icosahedron are the solids with four, eight, and twenty triangular faces; the cube and dodecahedron have six square and twelve pentagonal faces.
+
+为了了解大小的影响以及它们是如何从空间的扩展中衍生出来的，请再次考虑图5中所示的规则多面体。下表显示了这些实体的表面积和体积，基于作为边缘长度的尺寸D。四面体、八面体和二十面体是具有四个、八个和二十个三角形面的实体；立方体和十二面体有六个正方形和十二个五角面。
+
+![](res/p1/p012.png)
+
 作为形状决定因素的大小或绝对大小的影响再次显示了空间如何塑造我们周围的事物。在研究多面体时，我们不关心大小。我们假设立方体是一个立方体，不管它的大小。然而，我们发现，由尺寸差异引起的几何关系影响结构行为，并且大的。
 立方体比小方块相对较弱。我们还发现，作为一个推论，为了保持相同的结构特征，尺寸的差异必须伴随着形状上的差异。
 为了理解尺寸的影响以及它们是如何从空间的扩展中得到的，再次考虑图5中所示的规则多面体。下表显示了这些固体的表面积和体积，基于被视为边缘长度的尺寸D。四面体、八面体和二十面体是具有四个、八个和二十个三角形面的立体体；立方体和十二面体有六个正方形和十二个五边形面。
