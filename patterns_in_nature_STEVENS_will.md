@@ -146,52 +146,59 @@ Suppose, as shown in Figure 15, two apples are suspended, one with twice the dia
 
 ![](res/p1/p022.png)
 
-
-
 Thus the weight of the apple - the load the stem must support - is eight times as much for the large apple as for the small, whereas the strength of the stem is only four times as much. Four times as much strength to resist eight times as much load: at some point, as the apple increases in size, it must fall from the tree.
 Thus we are not surprised to see that the blossoms of the apple first stand erect on the branch; but as the apple develops, the stem is drawn to the side and down (Figure 16); and finally, when the apple is fully grown, the stem is pulled from the tree. We also observe that large fruits, like melons, squash, and pumpkins, do not hang from their stems at all but rest instead on the ground.
-因此，苹果的重量——茎必须支撑的重量——是大苹果的八倍，小的是苹果的四倍。四倍的强度来抵抗八倍的负荷：在某一点上，随着苹果的增加，它必须从树上掉下来。
-因此，我们不会惊讶地看到，苹果的第一朵花立在枝条上，但随着苹果的发展，茎被拉向一边和向下（图16）；最后，当苹果完全生长时，茎从树上拔下来。我们还观察到大的水果，如瓜、南瓜和南瓜，根本不悬挂在它们的茎上，而是在地上休息。
+
+因此，苹果的重量——茎必须支撑的重量——是大苹果的八倍，小的是苹果的四倍。四倍的强度来抵抗八倍的负荷：在某一点上，随着苹果的增加，它必须从树上掉下来。因此，我们不会惊讶地看到，苹果的第一朵花立在枝条上，但随着苹果的发展，茎被拉向一边和向下（图16）；最后，当苹果完全生长时，茎从树上拔下来。我们还观察到大的水果，如瓜、南瓜和南瓜，根本不悬挂在它们的茎上，而是在地上休息。
+
+![](res/p1/p023.png)
 
 We can turn upside down our diagram of the apples hanging from stems and suppose them to sit on little pedestals. Our analysis of the strength of the pedestal is essentially the same as for the stem, except that the pedestal is pushed down and put in compression rather than pulled down and put into tension. In both cases the cross-sectional area of the support goes up by a factor of four and the load to be supported by a factor of eight.
+
 我们可以把苹果挂在茎上的图颠倒过来，假设它们坐在小底座上。我们对底座的强度的分析与阀杆的基本相同，只是底座被压下并被压缩，而不是被拉下并拉紧。在这两种情况下，支撑的横截面积增加了四倍，负载的支撑系数为八。
 
-
 From considerations of how pedestals become relatively weaker as they and the bodies they support increase in size, we see why the trunk of a tree is proportionally thicker than the stem of a slender sapling, and the legs of an elephant are thicker and straighter too than those of a butterfly (Figure 17). We are assured, despite Gulliver's tale, that no giants have ever stalked the land. The sixty-foot Brobdingnagian that Gulliver described would have weighed ninety tonsfar too much for legs of flesh and bone. And even though steel and concrete are stronger than bone and living tissue, we observe that the Empire State Building is not as slender as a stalk of wheat - if it were, it would be only six feet wide at the base - another fact neatly observed by F. W. Went.
-考虑到底座和它们所支撑的物体的尺寸相比，底座的尺寸变得越来越弱，我们可以看到为什么树干的厚度比细长树苗的树干厚，而且大象的腿比蝴蝶的腿更粗更直。RE 17）。我们相信，尽管Gulliver的故事，没有巨人曾跟踪土地。Gulliver描述的六十英尺长的Brbnnngangi体重九十吨对于骨骼和骨骼的腿来说太多了。尽管钢和混凝土比骨和活组织强，但我们观察到帝国大厦并不像麦秆那么细长——如果是，它的底部只有六英尺宽——F. W. Went所观察到的另一个事实。
+
+考虑到底座和它们所支撑的物体的尺寸相比，底座的尺寸变得越来越弱，我们可以看到为什么树干的厚度比细长树苗的树干厚，而且大象的腿比蝴蝶的腿更粗更直。（图 17）。我们相信，尽管Gulliver的故事，没有巨人曾跟踪土地。Gulliver描述的六十英尺长的Brbnnngangi体重九十吨对于骨骼和骨骼的腿来说太多了。尽管钢和混凝土比骨和活组织强，但我们观察到帝国大厦并不像麦秆那么细长——如果是，它的底部只有六英尺宽——F. W. Went所观察到的另一个事实。
+
+![](res/p1/p024.png)
 
 Another way in which a little pedestal may break is by bending or buckling. It can crimp and kick out to the side. In the analysis of bending in Figure 18, we see a beam that is pushed down in the center and up at the ends. The beam is bent so that the bottom is stretched, or put into tensIon, while at the same time the top is shortened, or put into compression. We might theorize therefrom that bending is the combination of tension and compression and that, as the beam increases in size, its resistance to bending grows more slowly than the force of the bending. Indeed, that is true. for, to put the matter precisely, a beam with twice the dimensions of another has only 2 3 or 8 times the section modulus or strength to overcome 2 4 or 16 times the bending moment introduced by its own weight. Thus any beam will break under its own weight if it is increased enough in size. So with regard to tension, compression, and bending too, Galileo was right: given an identity of shape and material. the larger of two fonns is inevitably the weaker.
+
 一个小底座可能断裂的另一种方式是弯曲或屈曲。它可以卷曲并踢到一边。在图18中的弯曲分析中，我们看到了一个在中心被推下并在末端上的梁。梁被弯曲，使得底部被拉伸，或使其处于张紧状态，同时顶部被缩短，或被压缩。从理论上讲，弯曲是拉伸和压缩的结合，随着梁尺寸的增大，其弯曲阻力比弯曲力的增长慢得多。的确，这是真的。为了精确地考虑，一个具有两倍于另一个尺寸的梁的截面模量或强度只有2倍3倍或8倍，以克服由其自身重量引入的弯矩的2或4倍或16倍。因此，如果其尺寸足够大，任何梁将在其自身重量下断裂。因此，关于张力、压缩和弯曲，伽利略是正确的：给予形状和材料的身份。两个字体越大，不可避免的越弱。
+
+![](res/p1/p025.png)
 
 Galileo's observation has not been lost on today's engineers. When the behavior of a small model is used to simulate the behavior of a large structure, the most important consideration is to make the model weak enough, or, what amounts to the same thing, to make the loads on the model heavy enough. The engineer loads the structural members in the small model of the suspension bridge with sandbags to simulate the weight of those members when they are increased in size. Similarly, the engineer packs bags of mercury (which weighs nearly fourteen times as much as water), rather than water itself, against a small model of a dam in order to represent better the pressure of water against the real dam.
 The two stratagems used by both nature and man to overcome the effects of increasing size are either to use a stronger material or to make the structure hollow and reduce its weight. Changing the material works only up to a point. Any material will eventually break under its own weight. A free-hanging chain of pure silica glass or steel, for example, can be longer than one of aluminum, and longer still can be a freehanging length of boron - some 189.4 miles. But each material has its upper limit of size, and at some magnitude it will be unable to support itself.
-伽利略的观察并没有在今天的工程师身上消失。当一个小模型的行为被用来模拟一个大结构的行为时，最重要的考虑是使模型足够弱，或者是相同的东西，使模型上的载荷足够重。工程师用沙袋加载悬索桥的小型模型中的结构构件，以模拟这些构件在尺寸增大时的重量。同样地，工程师将袋装的水银袋（水的重量是水的十四倍），而不是水本身，与大坝的一个小模型相比较，以便更好地反映水对实际大坝的压力。
-自然界和人类用来克服增大尺寸效应的两种策略是使用更坚固的材料或使结构中空并减小其重量。改变材料只工作到一个点。任何材料最终都会在自身重量下断裂。例如，一个纯石英玻璃或钢的自由悬挂链可以比铝长一个，并且更长的时间仍然可以是一个自由长度的硼——大约189.4英里。但是每种材料都有其上限大小，而且在某种程度上，它将无法支持自身。
+
+伽利略对当今工程师的观察并没有丢失。当使用小型模型的行为来模拟大型结构的行为时，最重要的考虑是使模型足够弱，或者使模型上的负载足够重，这相当于相同的事情。工程师在悬索桥的小模型中用沙袋装载结构构件，以模拟这些构件在尺寸增加时的重量。同样，为了更好地代表水对实际大坝的压力，工程师将一袋袋水银（其重量几乎是水的14倍），而不是水本身与一个小型水坝模型进行对比。
+
+自然和人类为克服尺寸增大的影响而采取的两种策略是要么使用更坚固的材料，要么使结构空心并减轻重量。更改材质只能在一定程度上起作用。任何材料最终都会在自身重量的作用下断裂。例如，由纯硅玻璃或钢制成的自由悬挂链可以比铝长，而更长的自由悬挂链可以是硼的自由悬挂长度——大约189.4英里。但每种材料都有其尺寸上限，在某种程度上，它将无法支撑自身。
 
 The other way to overcome the effects of scale is to arrange material in a more effective configuration, to cut it away where it is not needed and to add it where it is required. That is perhaps the more frequent stratagem. It is the stratagem of design. We see in Figure 19 that with an interior cavity, an intact exterior, and a simple triangulation of ribs, the hollow pepper (a) and the seedpod (b) have less weight than they would if solid - but that they have an equivalent strength.
 The vertebra of the fish and the corrugated pith of the grass (c and d) also display hollowness, lightness, and ribbed strength. Between the top and bottom shells in both the horseshoe crab and the sea biscuit (e and f) the reinforcement is irregular, as if fonned by the solidification of a sticky fluid. Frame g shows a magnified section of bone in the human tibia, photographed by Carl Struve, while h is a photograph of a structural study by Frei Otto in collaboration with Koch and Minke. Both are variations on the same theme - the reduction of mass in order to increase strength.
+
 克服规模效应的另一种方法是将材料安排在更有效的配置中，将其切去不需要的地方，并将其添加到需要的地方。这也许是更为常见的策略。这是设计的策略。我们在图19中看到，一个内部的空腔，一个完整的外部，和一个简单的三角形的肋骨，空心胡椒（A）和种子荚（B）的重量比它们结实时要小，但它们具有同等的强度。
 鱼的脊椎和草的波纹髓（C和D）也表现出中空、轻盈和有棱的强度。在马蹄蟹和海饼干（E和F）的顶壳和底壳之间，加强筋是不规则的，就像黏性流体凝固所形成的。框架G显示了人类胫骨中骨骼的放大部分，由Carl Struve拍摄，而H是弗雷·奥托的结构研究的照片。
 科赫和明克。两者都是同一主题的变化，即为了增加力量而减少质量。
 
+![](res/p1/p026.png)
+
 The ancient Romans used the same stratagem of design when they put light pumice aggregate and hollow earthenware pots in the concrete of the dome of the Pantheon. Their use of sunken panels or coffers on the interior of the dome reduced the weight of the structure still further. The modern-day use of ribbed construction, box sections, space frames, T beams, folded plates, and trusses are likewise attempts to reduce weight while leaving enough material intact to preserve strength.
 Figure 20 shows the theme pavilions designed by AfHeck, Desbarats, Dimakopoulos, Lebensold and Sise (top three photographs) and the United States Pavilion designed by Buckminster Fuller for Montreal's Expo '67 (next three photographs). Those structures are some of man's more recent attempts to build triangulated and open networks of steel Their openness is a necessary concomitant of their size. Less material means less weight to support.
-古罗马人在万神殿穹顶的混凝土中放置轻质浮石骨料和空心陶罐时，采用了同样的设计策略。它们在穹顶内部使用沉没的嵌板或金库，进一步降低了结构的重量。现代用途的肋骨结构，箱形截面，空间框架，T梁，
-折叠板和桁架同样试图减少重量，同时保留足够的材料来保持强度。
-图20展示了由AfHeck、DeBasATS、Dimakopoulos、Lebensold和赛斯设计的主题馆（前三张照片）和Buckminster Fuller为蒙特利尔世博会67设计的美国展馆（下一张三张照片）。这些结构是人类最近建立钢的三角化和开放式网络的一些尝试，它们的开放性是
-它们的大小必须相辅相成。更少的材料意味着更少的重量来支撑。
 
+古代罗马人在万神殿圆顶的混凝土中放置轻质浮石和空心陶罐时，采用了相同的设计策略。 他们在圆顶内部使用凹陷板或金库进一步减轻了结构的重量。 现代使用的罗纹结构，箱形截面，空间框架，T形梁，折叠板和桁架同样试图减轻重量，同时保留足够的材料以保持强度。
+图20显示了由AfHeck，Desbarats，Dimakopoulos，Lebensold和Sise（前三张照片）设计的主题馆和由Buckminster Fuller为蒙特利尔67'世博会设计的美国馆（接下来的三张照片）。 这些结构是人类最近建立三角形和开放式钢网络的一些尝试。它们的开放性是其规模的必要伴随。 材料越少意味着支撑的重量越轻。
 
+![](res/p1/p027.png)
 
-
-P44
 It is interesting to observe that like any of the regular or semiregular polyhedrons that contain pentagons, Fuller's dome, if made as a complete sphere, must contain twelve and only twelve pentagons. We see one of them in the center of frame e.
 
 有趣的是，像任何包含五边形的规则或半规则多面体一样，Fuller的圆顶，如果是一个完整的球体，必须包含十二个并且只有十二个五边形。我们看到其中一个在框架E的中心。
 
-Also of interest is that the overall geometry of the dome is similar to the structure of certain microscopic viruses and radiolaria. Frame g shows some skeletal fragments of radiolaria magnified about one hundred times. Despite a sometimes similar geometry, the difference in absolute size between the radiolarian and the dome dictates important differences in their structure. Since the tubes at the bottom of the dome carry more load than the tubes at the top, they have greater
-wall thicknesses and greater strength. You cannot see that difference in tube thickness, since the outside diameters have been kept the same in order to facilitate the making of standard joints. But those differences exist, and, unlike the radiolarian - with its true spherical symmetry, able to spin, float, and bob in the waves unconcerned with which side is up or down, with such a small mass that it is uninfluenced by gravity - the dome is spherically symmetrical only in out-
-ward appearance; it cannot be flipped on its back like a radiolarian, but rather it is compelled to sit forever upright, with its weaker members at the top and its stronger members at the bottom, each specifically tailored to carry its assigned load.
+Also of interest is that the overall geometry of the dome is similar to the structure of certain microscopic viruses and radiolaria. Frame g shows some skeletal fragments of radiolaria magnified about one hundred times. Despite a sometimes similar geometry, the difference in absolute size between the radiolarian and the dome dictates important differences in their structure. Since the tubes at the bottom of the dome carry more load than the tubes at the top, they have greater wall thicknesses and greater strength. You cannot see that difference in tube thickness, since the outside diameters have been kept the same in order to facilitate the making of standard joints. But those differences exist, and, unlike the radiolarian - with its true spherical symmetry, able to spin, float, and bob in the waves unconcerned with which side is up or down, with such a small mass that it is uninfluenced by gravity - the dome is spherically symmetrical only in outward appearance; it cannot be flipped on its back like a radiolarian, but rather it is compelled to sit forever upright, with its weaker members at the top and its stronger members at the bottom, each specifically tailored to carry its assigned load.
+
 感兴趣的是圆顶的整体几何形状类似于某些显微病毒和放射虫的结构。框架G显示放射虫的一些骨骼碎片被放大约一百倍。尽管有时类似的几何形状，放射虫和穹顶之间的绝对大小的差异决定了它们结构的重要差异。由于圆顶底部的管子比顶部的管道承载更多的载荷，所以它们具有更大的载荷。
 壁厚和强度更大。您不能看到管厚度的差别，因为外径保持不变，以便于制造标准接头。但是，这些差异是存在的，并且不像放射虫，它具有真正的球面对称性，能够在波浪中旋转、漂浮、和BOB，而不考虑哪一边是向上或向下，这样小的质量，它不受重力的影响。
 病房的外观；它不能像放射虫一样在它的背上翻转，而是强迫它永远坐直，它的较弱的成员在顶部，在底部的更强壮的成员，每一个都被专门用来承载它的指定负载。
