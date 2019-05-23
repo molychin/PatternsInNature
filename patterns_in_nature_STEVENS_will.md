@@ -36,91 +36,115 @@ The table shows that the surface area of each solid is some number times d2 , wh
 
 The rules give us a measure of how space spreads. And thus they describe the outward spread of anything that distributes itself in space. Consider, for example, the spread of energy. The energy flowing through each unit area diminishes with the square of the distance from the source.
 Thus the light grows dimmer, the sound softer, and the gravitational, magnetic, and electrical fields weaker the farther from the source you place your eye, ear, weighing scale, magnetometer, or potentiometer.
+
 这些规则给我们一个衡量空间传播的尺度。因此，它们描述了在空间中分布的任何东西的向外扩散。例如，考虑能量的传播。流经各单位面积的能量随着距源的距离的平方而减小。
 因此，光线变暗，声音柔和，并且重力、磁场和电场越弱，你放置眼睛、耳朵、秤、磁力仪或电位器的源就越远。
 
 Measuring the propagation of energy is similar to measuring the expanding surface of a balloon. When you measure close to the energy source, you measure a compact halo of energy that is like the constricted surface of a small balloon. The energy is dense and the signal is loud and clear. When you measure far from the source, you measure an expanded halo that is like the expanded surface of an inflated balloon. The energy is spread and dissipated. The same amount of energy, or elastic surface, surrounds the source at every distance from the source, but the density of the energy, or the surface, diminishes with increasing distance.
-测量能量的传播类似于测量气球的膨胀表面。当你测量接近能量源时，你测量一个紧凑的能量晕，就像一个小气球收缩的表面。能量是密集的，信号是响亮和清晰的。当你测量远离源头时，你测量一个膨胀的晕圈，就像膨胀的气球膨胀的表面。能量被传播和消散。相同的能量或弹性表面在源的每一个距离处围绕着源，但是能量的密度，或表面的密度随着距离的增加而减小。
+测量能量的传播类似于测量气球的膨胀表面。当你在靠近能量源的地方测量时，你会测量一个紧凑的能量晕，就像一个小气球的收缩表面。能量密集，信号清晰。当你在远离光源的地方测量时，你会测量一个展开的光晕，它就像一个膨胀的气球的展开表面。能量扩散和消散。同样数量的能量，或弹性表面，围绕着震源在距震源的每一个距离，但能量的密度，或表面，随着距离的增加而减小。
 
 Putting the matter more directly, the inverse square law, the statement that energy diminishes, or varies inversely, as the square of its distance from the source, is not so much a description of energy as it is of the spatial arena in which the energy advances. The occurrence of the term d2 in formulas for the propagation of light, sound, gravitational and electromagnetic fields is synonymous with the occurrence of d2 in our table. It is an area term; it describes the size of the spherical surface around an energy source.
 In the same way that many phenomena vary in proportion to surface, to d2 , many others vary in proportion to volume, to IF. Chief among the properties dependent upon volume is weight. Little things are light, big things heavy. A fly is so light it can cling to the ceiling, like a piece of dust. The prowess of the fly is not so much a function of its sticky feet as of its small size. In fact, the point has been justly made that man too could walk on the ceiling, if he were small enough.
+
 更直接地说，平方反比定律，能量减少的说法，或是相反地变化，作为它与源的距离的平方，与其说是能量的描述，不如说是能量的空间竞技场的描述。在光、声、重力和电磁场传播公式中，D2的出现与我们表中D2的发生是同义的。它是一个区域术语，它描述了围绕能量源的球面的大小。
 以同样的方式，许多现象与表面成比例地变化，对于D2，许多其它的与体积成比例地变化，如果是。取决于体积的属性主要是重量。小事情轻，大事重。苍蝇是如此轻，它可以粘在天花板上，像一片灰尘。苍蝇的威力与其粘性足的大小无关。事实上，如果他足够小的话，这一点已经被正确地证明了，人也可以在天花板上行走。
 
 And flight would pose no problem either. At the size of a fly, man's concern would rather be to stay on the ground. As J. B. S. Haldane observed, weight, or the pull of gravity, presents no problem to an animal even the size of a mouse:
 You can drop a mouse down a thousand-yard mine shaft; and, on arriving at the bottom, it gets a slight shock and walks away. A rat would probably be killed, though it can fall safely from the eleventh story of a building; a man is killed, a horse splashes.
-A beached whale does not e
-ven have to fall to die; it can suffocate under its own weight stranded in shallow water.
+A beached whale does not even have to fall to die; it can suffocate under its own weight stranded in shallow water.
 We infer from our table of surfaces and volumes that as an object increases in size, its area and volume increase at strikingly different rates, the one as d2 the other as IF. The next table shows the significance of that difference.
-而且飞行也不会带来任何问题。在苍蝇大小的情况下，人类更愿意呆在地上。正如J.B.S.霍尔丹所观察到的，体重，或者重力的引力，对动物来说，即使是老鼠的大小也没有问题：
-你可以把一只老鼠从一千码的矿井里扔下，在到达底部时，它会受到轻微的震动，然后走开。一只老鼠可能会被杀死，虽然它可以安全地从建筑物的第十一层倒塌；一个人被杀死，一匹马溅水。一条被搁浅的鲸鱼甚至不必倒下死去；它可以在自己的重量被搁浅在浅水中窒息而死。
-我们从我们的表面和体积表推断，随着物体尺寸的增加，它的面积和体积以惊人的不同速率增加，一个为D2，另一个似乎增加。下表显示了差异的重要性。
 
+飞行也不会造成任何问题。像一只苍蝇那么大，人们关心的是呆在地上。正如J.B.S.Haldane所观察到的，体重或重力的拉力对动物来说都没有问题，即使是老鼠的大小：
+你可以把一只老鼠放在一千码的矿井里，当它到达底部时，会受到轻微的震动，然后走开。一只老鼠很可能会被杀死，尽管它可以从一座建筑物的第十一层安全地掉下来；一个人被杀了，一匹马被溅落了。
+搁浅的鲸鱼甚至不必摔死，它可以在自己的重量下窒息而死，搁浅在浅水中。
+我们从表面和体积的表中推断，当一个物体的尺寸增加时，它的面积和体积以惊人的速度增加，一个像d2，另一个像d2。下表显示了这种差异的重要性。
+
+![](res/p1/p013.png)
 
 An object with a linear dimension 32 times that of another has 1,024 times as much surface area and a staggering 32,768 times as much volume. A large object, therefore, has more volume in relation to its surface than a small object. In living fonns, a large organism weighs more, as we have seen, and generates more heat than a small one. Those functions depend on the volume or mass of its tissues. The large organism is also weaker and has more difficulty dissipating heat and assimilating food and oxygen. Those functions depend on its surface area.
 If the large organism is to function like its small cousin, it must compensate for its preponderance of volume by selectively increasing its critical surfaces.
-一个具有32倍于另一个的线性尺寸的物体具有1024倍的表面积和惊人的32768倍的体积。因此，一个大的物体相对于它的表面具有比一个小物体更多的体积。在生活中，一个大的生物体重量比我们所看到的要多，产生的热量比一个小的多。这些功能取决于其组织的体积或质量。大型有机体也较弱，更难消散。加热和吸收食物和氧气，这些功能取决于其表面积。
-如果大有机体像它的小表兄弟一样起作用，它必须通过选择性地增加它的临界表面来补偿它的体积优势。
+
+一个物体的线性尺寸是另一个物体的32倍，它的表面积是另一个物体的1024倍，体积是另一个物体的32768倍。因此，大物体相对于其表面的体积比小物体大。正如我们所见，在活体中，一个大的有机体比一个小的有机体更重，产生更多的热量。这些功能取决于组织的体积或质量。大型生物体也较弱，更难散热和吸收食物和氧气。这些功能取决于它的表面积。
+如果大型有机体要像它的小表亲那样运作，它必须通过选择性地增加其临界表面来补偿其体积优势。
 
 The general method of increasing surface area is to introduce complications: to Hatten, grow hairs, branch, wrinkle, elongate, and hollow out. We see examples of those adaptations all about us.
 In Figure 10, a young shoot extends Hat leaves to the sun. As growth continues, the stem will branch and put out more leaves, and then finally thicken into a tough bough to carry still more leaves and branches.
 The proliferation of branches and leaves will enable the large spray to function like the small shoot.
 In Figure 11 the stem of the celandine flattens into webs and leaves (a), and the enclosing sheath of the cornstalk folds outward into a long blade (b). We see that the celandine (c), as well as the grass (d), grows hairs, which, like thorns, cilia, fur, antennae, spines, and all the other prickly appendages of living things, keep surface commensurate with volume.
-增加表面积的一般方法是引入并发症：对哈滕，生长毛发，分支，皱纹，细长，和空出来。我们看到了那些适应我们的例子。
-在图10中，一个年轻的嫩枝将帽子延伸到太阳下。随着生长的继续，茎会分出更多的叶子，然后最终变硬，形成一个坚韧的树枝，以便携带更多的叶子和树枝。树枝和树叶的扩散将使大喷雾剂起到像小枝一样的作用。
-在图11中，白屈菜的茎扁平成网和叶（A），并且玉米秆的包围鞘向外折叠成长叶片（B）。我们看到，白屈菜（C），以及草（D），生长毛发，如刺，纤毛，毛皮，触角，棘，和所有其他刺痛的附属物，保持表面与体积相称。
 
+增加表面积的一般方法是引入并发症：生长毛发、树枝、皱纹、拉长和凹陷。我们看到了这些适应的例子。
+在图10中，一个幼芽将帽子叶子伸向太阳。随着生长的继续，茎会分枝，长出更多的叶子，然后最后变厚成为坚硬的树枝，以承载更多的叶子和树枝。
+树枝和树叶的扩散将使大喷雾剂起到像小枝一样的作用。
+
+![](res/p1/p015.png)
+
+在图11中，白屈菜的茎扁平成网和叶（a），玉米茎的包围鞘向外折叠成长的叶片（b）。我们看到白细胞（c）和草（d）都长出毛发，像刺、纤毛、毛发、触角、刺和所有其他生物的多刺附属物一样，使表面与体积相称。
+
+![](res/p1/p014.png)
 
 Networks of branches and roots increase surface area still further. According to Howard J. Dittmer at the University of Iowa, in only four months a single plant of rye grows 387 miles of root. When the root hairs are included, the length is 7,000 miles. Furthermore, large plants branch proportionately more than small ones. By way of example, Figure 12 shows the sprouting pod of the red mangrove with its few dmple leaves and unbranched stem, in comparison with a thicket of mature trees. To keep their surface commensurate with their greatly increased volume, the large trees branch prolifically and put out a multitude of leaves. All their branching enables them to function like the little sprout. All their branching comes about because they have increased in size.
-树枝和根系的网络进一步增加表面积。据爱荷华大学的Howard J. Dittmer说，只有四个月的黑麦单株生长387英里的根。当根毛被包括在内时，长度是7000英里。此外，大型植物的比例要比小植物大得多。举例来说，图12显示了
-红树的荚果发芽，其叶片数少，枝不分枝，与成熟的树丛相比。为了使它们的表面与它们的体积大大增加相称，大树繁茂地分枝，并形成了大量的叶子。它们的分枝使它们能像小芽一样起作用。它们的分枝都是因为它们的大小增加了。
 
+树枝和根系的网络进一步增加了表面积。爱荷华大学的霍华德·J·迪特米尔说，仅仅四个月，一株黑麦就可以长出387英里的根。当包含根毛时，长度为7000英里。此外，大型植物比小型植物的分枝比例更大。举例来说，图12显示了红树林的萌芽荚，与成熟树丛相比，红色红树林的萌芽荚只有很少的几片叶子和不分枝的茎。为了使它们的表面与体积的大幅度增加相称，大树枝条繁茂，长出许多叶子。它们所有的分支使它们能够像小嫩芽一样工作。它们所有的分支都是因为它们的大小增加了。
 
-
+|![](res/p1/p016.png)|![](res/p1/p017.png)|
+|---|---|
+|a|b|
 
 In Figure 13 increase in surface area is exemplified by branching. Shown there are the blood and air pathways of the human lung revealed by a latex casting (a), a mangrove thicket (b), arteries of a dog, again revealed in latex (c), and the bloom of the common smoke tree, Cotinus coggygria (d).
-The branching of the circulatory systems in the human lung and in the dog are especially interesting as attempts to increase surface area. A small singlecelled organism has no need for such complications. It does not require lungs or hearts or any system of circulation. It can breathe and absorb food directly through its cell wall, there being relatively more wall than interior tissue. When the single-celled organism grows, or when almost any cell grows for that matter, and the functions that depend upon surface can no longer sustain the inner tissue, the organism does not
-develop wrinkles, veins, or branches; it simply divides.
+The branching of the circulatory systems in the human lung and in the dog are especially interesting as attempts to increase surface area. A small singlecelled organism has no need for such complications. It does not require lungs or hearts or any system of circulation. It can breathe and absorb food directly through its cell wall, there being relatively more wall than interior tissue. When the single-celled organism grows, or when almost any cell grows for that matter, and the functions that depend upon surface can no longer sustain the inner tissue, the organism does not develop wrinkles, veins, or branches; it simply divides.
 It makes itself small again and starts over with a double identity and a comparatively greater surface for each of its parts. Thus we are not surprised to learn that cells exist within a limited range of size. They can be neither too big nor too small. Otherwise the functions dependent upon surface would not match those dependent upon volume.
-在图13中，表面积的增加以分支为例。显示有人肺的血液和空气通路，由乳胶铸造（A），红树林灌丛（B），狗的动脉，再次显示在胶乳（C），和共同的烟树，科蒂纳斯CGGYGGRA（D）的开花。
-人肺和狗体内的循环系统的分支对于增加表面积特别有趣。一个小的单体有机体不需要这样的并发症。它不需要肺、心脏或任何循环系统。它可以通过细胞壁直接呼吸和吸收食物，壁比内部组织更多。当单细胞生物体生长时，或当几乎任何细胞生长的时候，依赖于表面的功能不能再维持内部组织，生物体就不存在。
-发展皱纹，静脉或分支；它只是分裂。
-它使自己再次变小，开始以双重身份和相对更大的表面为其每个部分。因此，我们不惊讶地得知细胞存在于有限的大小范围内。它们既不能太大也不能太小。否则，依赖于表面的函数将不匹配依赖于体积的函数。
+
+在图13中，表面积的增加以分支为例。图中显示了由乳胶铸模（A）、红树林树丛（B）、狗的动脉（C）以及普通烟树cotinus coggygria（D）的开花所揭示的人肺的血液和空气通道。
+
+![](res/p1/p018.png)
+
+当试图增加肺表面积时，人肺和狗循环系统的分支尤其有趣。小的单细胞生物不需要这种并发症。它不需要肺部、心脏或任何循环系统。它可以通过细胞壁直接呼吸和吸收食物，细胞壁比内部组织要多。当单细胞有机体生长时，或者当几乎任何一个细胞为此而生长时，依赖于表面的功能不能再维持内部组织时，该有机体不会产生皱纹、静脉或分支；它只是分裂。
+它使自己再次变小，并以一个双重身份和一个相对较大的表面为每个部分重新开始。因此，当我们得知细胞存在于有限的大小范围内时，我们并不感到惊讶。它们既不能太大也不能太小。否则依赖于表面的函数将与依赖于体积的函数不匹配。
+
 P36
-
-
-
 
 A nice analogy to cell division is shown in Figure 14, in which a small stream of water has been "stopped" with a stroboscopic light to reveal its constituent drops. The tension in the skin of a drop can enclose only so much liquid. If the volume of water is too great the little skin will burst. The volume must remain commensurate with the strength of the surface.
 And thus, as with cells, we find an upper limit of size. No drops are as big as baseballs or watennelons. The point that things are restricted in size is, of course, the fundamental lesson. Different things are confined to different latitudes of dimension. Nucleons bind together to make nuclei of relatively fixed size, electrons join nuclei to make atoms of a well-defined magnitude, atoms unite to fonn molecules, molecules combine to make cells, and cells make organisms. You never find a nucleus, an atom, a molecule, or a cell as big as a man. Each fonn has its own dimensional realm, its upper and lower bounds. But each fonn combines and works together with others like itself to make larger structures and organizations.
-图14显示了一个很好的细胞分裂的类比，其中一小段水流被频闪的光“停下来”，以揭示其组成的液滴。滴在皮肤上的张力只能包围这么多液体。如果水的体积太大，小皮肤就会破裂。体积必须与表面的强度保持相称。
-因此，与细胞一样，我们发现大小的上限。没有一滴像棒球或瓦灯一样大。当然，事情的规模受到限制，这是最基本的教训。不同的事物局限于不同纬度的维度。核子结合在一起形成相对固定大小的原子核，电子加入原子核，使原子具有一个明确的大小，原子结合到Funn分子上，分子结合成细胞，细胞产生生物体。你永远不要发现原子核、原子、分子或像人一样大的细胞。每个字体都有它自己的维度域，它的上界和下界。但是每一个FANN都结合和像它一样的其他人一起工作，以制造更大的结构和组织。
+
+细胞分裂的一个很好的类比如图14所示，在图中，一小股水流被频闪灯“停止”以显示其组成的水滴。水滴表面的张力只能容纳这么多液体。如果水的体积太大，小皮肤就会破裂。体积必须与表面强度相称。
+因此，与细胞一样，我们发现大小的上限。没有一滴像棒球或瓦灯一样大。当然，事情在规模上受到限制这一点是最基本的教训。不同的事物局限于不同纬度的维度。核子结合在一起形成相对固定大小的原子核，电子结合原子核使原子具有明确的大小，原子结合成分子，分子结合成细胞，细胞形成有机体。你永远找不到一个原子核，一个原子，一个分子，或者一个像人一样大的细胞。每一方都有自己的维度领域，上下限。但是，每一个基金会结合起来，并与其他像自己这样的机构合作，形成更大的结构和组织。
+
+![](res/p1/p019.png)
 
 Even within a given class of form, the properties of the small differ from those of the large. And, at least in the animal kingdom, those properties vary in a uniform and predictable manner. Small creatures breathe faster than large creatures. Their hearts beat faster, their voices are higher, and their wings or limbs move more rapidly. They consume more food in relation to their body weight, reproduce faster, and have shorter lifetimes.
 As D'Arcy Thompson pointed out, the reason for those variations is that the small muscle, be it heart, lung, wing, or vocal cord, oscillates faster than the large muscle, just as a short thin string, when it is plucked, vibrates more rapidly than a long thick one.
 We see the principle confirmed when we tabulate heartbeats of different animals:
+
 即使在给定类型的形式中，小的性质也与大的性质不同。而且，至少在动物王国，这些特性以均匀和可预测的方式变化。小动物呼吸比大型生物快。他们的心跳加快，嗓音更高，翅膀或四肢运动得更快。他们消耗更多的食物与体重有关，繁殖更快，寿命更短。
 正如汤普森所指出的，这些变化的原因是小的肌肉，如心脏、肺、翅膀或声带，比大的肌肉振动得快，就像一根短的细绳，当它被拔起的时候，比长的粗的振动得快。
 我们看到当我们列出不同动物心跳的原理时：
 
+![](res/p1/p020.png)
+
 Since respiration is coupled with heartbeat - usually one breath is taken for every four heartbeats - the rate of breathing also decreases with increasing size. And so do wingbeats and the movement of limbs.
+
 由于呼吸与心跳耦合——通常每四次心跳一次呼吸-呼吸的速度也随着尺寸的增加而减小。翅膀的动作和肢体的运动也是如此。
+
+![](res/p1/p021.png)
 
 Apparently, the small creature lives on a shorter time scale than the large. Its life passes more quickly. With twenty-five million heartbeats per life as the rule of thumb, we find that the rat lives for only three years, the rabbit seven, man seventy, and the elephant and whale even longer. By the same token, the small creature reproduces faster than the large - in a mere twenty minutes for some of the smallest bacteria.
 We come to realize that both the small and the large have their advantages. The small creature has an edge over the large because it eats less food, in absolute amounts, because it is less complex and therefore harder to kill, and because with its high rate of reproduction it can easily breed its way out of environmental difficulty. A queen termite, for example, lays over eighty thousand eggs in a day, and in the time a single human embryo develops, a codling moth can produce over four hundred trillion descendants.
+
 显然，小生物的寿命比大生物短。它的生命通过得更快。以每只生命的二千五百万个心跳作为经验法则，我们发现老鼠只活了三年，兔子七、人七十、大象和鲸鱼甚至更长。同样，小动物繁殖的速度要比大动物快二十分钟。
 我们认识到，小的和大的都有优势。这个小动物比大动物有优势，因为它吃的食物少，绝对量，因为它不那么复杂，因此更难杀死，而且因为繁殖率高，它可以很容易地繁殖出摆脱环境困境的方法。例如，一只白蚁皇后一天产下八万个卵，在一个人类胚胎发育的时间内，一个鳕鱼蛾可以产下超过四百兆个后代。
 
 On the other side of the ledger, the larger animal is favored because it loses less heat through its relatively reduced surface. Thus it survives better in cold climates. In terms of its own body weight, the large animal consumes less food. A man, for example, eats one-fiftieth of his weight in three daily meals, whereas the pigmy shrew, which weighs less than a dime, eats continuously and devours several times its weight in a day. The large animal is a superior predator - especially man, who is big enough to wield a club effectively. Yet a man is not so big that he breaks his own bones when he falls. The large creature has more cells with which to make a brain and it has, as well, a longer life in which to use that brain. Man, with his remarkable brain, developed the use of fire, but, even apart from considerations of brain power, as F. W. Went has pointed out, only a creature of man's size could effectively control that fire. It happens that a small campfire is the smallest fire that is reliable and controllable. A still smaller flame is too easily snuffed out and a larger one too easily gets out of control. Prometheus was just large enough to feed the flames and to keep from getting burnt.
+
 在分类帐的另一边，较大的动物受到青睐，因为它通过相对减少的表面损失较少的热量。因此，它在寒冷的气候下生存得更好。就其体重而言，大动物消耗较少的食物。例如，一个人在三天的膳食中吃五十分之一的体重，而体重不到一分钱的猪鼩则连续进食，一天吃几次体重。大型动物是一种优越的捕食者——尤其是人，它足够大，可以有效地挥舞棍棒。然而，一个人没有那么大，当他跌倒时，他自己的骨头断了。大的生物有更多的细胞来制造大脑，它也有更长的生命来使用大脑。人类以其非凡的大脑发展了火的使用，但是，除了F. W. Went的大脑能力的考虑之外，只有人类大小的生物才能有效地控制这场火灾。碰巧一个小篝火是最小的火是可靠的和可控的。一个更小的火焰很容易被熄灭，而一个更大的火焰很容易失控。普罗米修斯足够大，可以给火添火，防止烧焦。
 
 Similarly, points out Went, man was smart enough to develop speech, but first, in order to make sound, he had to be large enough to require lungs and to drive a forced stream of air.
 In this review of the effects of size, we have touched on Calileo's idea that the larger of two similar forms is the weaker. Let us conclude by giving Calileo's statement a little more attention.
 Suppose, as shown in Figure 15, two apples are suspended, one with twice the diameter of the other. We know that the volume and the weight of the large apple is 2 3 or 8 times the volume and weight of the small one. If we also suppose the large stem to have twice the diameter of the small stem, we find that the strength of the stem, as given by the area of its cross section, is 2 2 or 4 times the strength of the small stem.
-同样，指出人类是足够聪明的发展语音，但首先，为了发出声音，他必须足够大，需要肺部和驾驶强制气流。
-在这篇关于大小效应的评论中，我们谈到了Calileo的观点，即两种相似形式中较大的是弱者。让我们总结一下Calileo的声明。
-假设，如图15所示，两个苹果被悬挂，一个苹果的直径是另一个的两倍。我们知道，大苹果的体积和重量是小苹果的体积和重量的2倍3倍或8倍。如果我们假设大茎的直径是小茎的两倍，我们发现茎的强度，如它的横截面面积，是小茎的强度的2倍2倍或4倍。
 
+同样地，他指出，人类足够聪明来发展语言能力，但首先，为了发出声音，他必须足够大来需要肺部和驱动气流。在这篇关于大小的影响的评论中，我们提到了卡利欧的观点，即两种相似形式中较大的是较弱的。最后，让我们多关注一下卡利欧的声明。
+假设，如图15所示，两个苹果悬空，一个直径是另一个的两倍。我们知道大苹果的体积和重量是小苹果体积和重量的2.3或8倍。如果我们还假设大茎的直径是小茎的两倍，我们发现，根据其横截面面积，茎的强度是小茎强度的2-4倍。
+
+![](res/p1/p022.png)
 
 
 
