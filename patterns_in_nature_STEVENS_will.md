@@ -1,5 +1,6 @@
 ```
 Created on  2019.05.20.22:40
+patterns_in_nature_STEVENS
 自然模式-原著：PETER S.STEVENS 改编：Moly Chin
 @author: molychin@qq.com
 ```
@@ -7,133 +8,69 @@ Created on  2019.05.20.22:40
 
 
 
-
-
-## 3 All Things Flow
-Can anyone understand the spreading of the clouds. . . ?
-- JOB 3 6 : 2 9
-
-全部是流
-任何人都可以理解云的传播…？
-
-ACCORDING to the ancient philosopher Heraclitus, the sole actuality of nature resides in change. All things are becoming. All things are flowing. At the same time, however, all things remain the same. The modern physicist wrestles with that paradox when he studies flow and turbulence. The new water chases out the old, but the pattern remains the same.
-
-根据古代哲学家赫拉克利特的观点，自然的唯一现实存在于变化中。 一切都在变。 一切都在流淌。 然而，与此同时，所有事情都保持不变。 当研究流动和湍流时，现代物理学家正在与这个悖论搏斗。 新水追逐旧水，但模式保持不变。
-
-Turbulence  
-TURBULENCE forms the primordial pattern, the chaos that was "in the beginning." Weare all familiar with turbulence. We have poured cream into coffee and watched the white marbled swirls as they curl and twist. We have watched the smoke from the fire stream upward and break into whirls and eddies. But the exact visual pattern is difficult to describe. Turbulence does not fit precisely any of the simple patterns that we generated in the last chapter. To some extent turbulence resembles the random meanders of Figures 23b and 29, and it happens that any particular particle within a turbulent flow does indeed describe an erratic and meandering path. But turbulent flows also have eddies and whirls like the configurations of Figures 23a and 30a. In fact, it is the eddies that distinguish turbulent from nonturbulent or laminar flow.
-
-湍流  
-湍流形成了原始模式，即“一开始”的混乱。 我们都熟悉湍流。 我们把奶油倒入咖啡中，看着白色大理石花纹卷曲和扭曲。 我们已经看到火焰中的烟雾向上滚动，并且变成漩涡和漩涡。 但确切的视觉模式很难描述。 湍流并不完全适合我们在上一章中生成的任何简单模式。 在某种程度上，湍流类似于图23b和29的随机曲折，并且发生湍流中的任何特定粒子确实描述了不稳定和曲折的路径。 但是湍流也具有类似于图23a和30a的配置的漩涡和旋转。 事实上，正是漩涡将湍流与非湍流或层流区分开来。
-
-We will study spiral patterns more fully in the next chapter, but here let us observe that the spiral eddy comes into existence when a stream gets stalled against its boundaries or against another stream moving in the opposite direction. The stalled stream breaks into pieces that roll over on themselves. Right at the boundary, the flow of the stream has zero velocity - which is why little particles of dust can ride on the blade of a fan without being blown off, and why you cannot blow fine pieces of dust from the surface of a tableonly large pieces that stick up into the breeze. At increasing distances from the boundary, the flow moves with higher velocities, and the difference in rates of flow causes the stream to trip over itself, to curl around on itself, just as a wave curls when it stubs its toe rushing up the beach.
-
-我们将在下一章中更全面地研究螺旋模式，但在这里让我们观察一下，当一股气流在其边界上或与另一条流向相反方向流动时，螺旋涡旋就会出现。 失速的溪流破裂成碎片滚滚而来。 在边界处，流的流动速度为零 - 这就是为什么小颗粒尘埃可以在风扇的叶片上飞行而不会被吹走，以及为什么你不能从一个大的表面吹出细小的灰尘，那些粘在微风中的碎片。 在离边界越来越远的地方，流动以更高的速度移动，并且流速的差异导致流自身跳动，自身卷曲，就像波浪在它的脚趾向上冲到海滩时卷曲一样。
-
-Although we expect to find eddies in turbulent flow, we do not know when any specific eddy will come into being or die away . We cannot yet predict how eddies interact. Similarly, we know as a general rule that any particle within a turbulent flow gets knocked about in an aimless fashion by the swirls, so that it describes an erratic meandering path, but at any given moment we cannot predict the precise location or velocity of the particle. Our inability to predict details of turbulent flow hampers us in many fields. We find it difficult to forecast the weather, interpret sunspots, ascertain the flow of material beneath the earth's crust, or even to predict the exact pressure required to force a large volume of water through a long pipe. Much about turbulence, like the spreading of the clouds, remains beyond our understanding, But even if we cannot predict all the details, we can predict something about the average case. We can consider the unpredictable local velocities and pressures as chance or random occurrences and then, with the aid of probability theory, take the mean of those occurrences and obtain mathematical descriptions of average motions in average flows.
-
-虽然我们期望在湍流中发现涡流，但我们不知道什么时候特定涡流会产生或消失。我们还不能预测涡旋是如何相互作用的。同样，我们知道，一般情况下，湍流中的任何粒子都会被漩涡以无目标的方式撞击，因此它描述了一条不规则的曲折路径，但在任何给定的时刻，我们都无法预测粒子的精确位置或速度。我们无法预测湍流的细节阻碍了我们在许多领域的发展。我们发现很难预测天气，解释太阳黑子，在地球地壳下面的物质流动，甚至预测迫使大量水通过长管道所需的精确压力。
-很多关于湍流，像云层的扩散，超出了我们的理解，但是即使我们不能预测所有的细节，我们也可以预测一些关于平均情况的事情。我们可以把不可预测的局部速度和压力看作偶然或偶然的事件，然后借助概率论，取这些事件的平均值，求平均流中平均运动的数学描述。
-
-Just because such an analysis treats the eddies as random occurrences, we should not be misled into believing that they really are random. An eddy is determined by other eddies, and those in turn are determined by still others, and so forth, back to certain specific initial conditions. But we cannot yet describe the initial conditions with enough accuracy to be able to predict all the resulting consequences. The initial conditions contain so many factors that compete with and countermand one another that we are forced to treat the resulting eddies as chance events. When we do, we get results that describe the average, that is to say, the most probable case.
-
-正因为这种分析把漩涡当作随机事件，我们不应该被误导相信它们真的是随机的。涡流是由其它涡流决定的，而涡流又由其它涡流决定，等等，回到特定的初始条件。但是，我们还不能用足够的精度来描述初始条件，从而能够预测所有产生的后果。最初的条件包含了许多因素，它们相互竞争，相互抵消，迫使我们把产生的漩涡当作偶然事件来处理。当我们这样做时，我们得到描述平均值的结果，也就是说，最可能的情况。
-
-The analysis of turbulence in terms of probability reveals several interesting things about eddies. For instance, the average eddy moves a distance about equal to its own diameter before it generates small eddies that move, more often than not, in the opposite direction. Those smaller eddies generate still smaller eddies and the process continues until all the energy dissipates as heat through molecular motion. In 1941, A. N. Kolmogoroff first set forth the idea that turbulence generates a hierarchy of eddies, thereby inspiring the beautifully apt verse of L. F. Richardson:
-Big whirls have little whirls, That feed on their velocity; And little whirls have lesser whirls, And so on to viscosity.
-Through statistical analysis, Kolmogoroff also predicted that the velocity of an eddy is proportional to the cube root of its size, that, for example, an eddy moving twice as fast as another will usually be eight times as large, or that one moving ten times as fast will be a thousand times as large.
-
-从概率的角度分析湍流揭示了涡旋的一些有趣的东西。例如，平均涡流在其产生小漩涡之前移动的距离等于其自身直径，在相反的方向上移动的漩涡更频繁。这些较小的漩涡产生更小的漩涡，并且过程继续，直到所有的能量通过分子运动作为热量消散。在1941，A. N. Kolmogoroff首先提出的想法，湍流产生一个层次的漩涡，从而激发了美丽的容易诗句L. F. Richardson：
-大漩涡有很少的漩涡，它们以它们的速度为食；小漩涡有较小的漩涡，等等。
-通过统计分析，Kolmogoroff还预言了涡流的速度与它的尺寸的立方根成正比，即，与另一个涡流相比，涡旋运动的速度是通常的八倍，或者移动十倍的速度将是一千倍大。
-
-Reynolds Number
-STILL ANOTHER WORK of a theoretical and statistical nature, this time by Werner Heisenberg, shows why density, viscosity, and the width of a stream all play a part in the visual appearance of turbulence - just as Osborne Reynolds observed (without being able to explain) about ninety years ago. Reynolds's discovery, as expressed by the concept of the Reynolds number, shows how things can change their shape in response to a change in scale, and yet, at the same time, and in seeming contradiction, have the same shape at different scales. Let us examine that idea.
-雷诺兹数
-另一个理论和统计性质的工作，这次由Werner Heisenberg，显示了为什么密度，粘度，和宽度的流都发挥了部分的视觉外观的湍流-正如Osborne Reynolds观察到（无法解释）约九十年前。雷诺兹的发现，正如雷诺兹数的概念所表达的，显示了事物如何响应于尺度的变化而改变其形状，然而，同时，在看似矛盾的情况下，在不同的尺度上也具有相同的形状。让我们来检验一下这个想法。
-
-We can arrive at the concept of the Reynolds number by asking four simple questions: 1, Does turbulence increase or decrease with an increase in the velocity of the stream? 2, Does turbulence increase or decrease with an increase in the size of an obstacle in the stream? 3, Does turbulence increase or decrease with an increase in the density of material that makes up the stream? 4, Does turbulence increase or decrease with an increase in the viscosity of the material of the stream?
-The answers, for the most part, are casy. 1, Turbulence increases as the velocity increases. The flag flutters more in the gale than in the zephyr. 2, Turbulence increases as the size of the obstacle increases. The freighter creates more wake than the dinghy. 3, Turbulence increases as the density of the material increases. With greater density, more particles are present to get jostled about: more interaction can, and therefore will, take place. 4, Turbulence decreases with an increase in viscosity. Here we need to know that viscosity is a measure of the internal friction of the stream, the ability of the stream to stick together, to withstand shear. Realizing that air or water with low viscosity is easily made turbulent when it flows around an obstacle, while oil or molasses with high viscosity oozes smoothly around an obstacle without eddies and backwash, we conclude that turbulence
-is inversely proportional to viscosity: the greater the viscosity the less the turbulence.
-我们可以通过问四个简单的问题来获得雷诺兹数的概念：1，湍流增加或减少，随着
-水流速度？2，湍流是否随着流中障碍物大小的增加而增加或减少？3，湍流是否随着构成流的材料密度的增加而增加或减少？4，湍流的增加或减少，随着材料的粘度的增加？
-答案大部分是凯西。1，湍流随着速度的增加而增加。旗帜在大风中比在西风中飘扬得多。2，
-随着障碍物大小的增加，湍流增加。货船比小艇产生更多的唤醒。3，湍流随着材料密度的增加而增加。随着密度的增加，更多的粒子会出现在一起：更多的相互作用可以，因此也会发生。4，湍流随着粘度的增加而减小。在这里，我们需要知道粘度是流的内耗的量度，是流粘在一起的能力，以承受剪切力。当低粘度的空气或水在障碍物周围流动时容易产生紊流，而高粘度的油或糖蜜在没有障碍物和反冲洗的情况下平稳地在障碍物周围渗出，从而得出湍流的结论。
-粘度与粘度成反比：粘度越大湍流越小。
-
-We can write the answers to the four questions in mathematical shorthand by saying that turbulence, T, is directly proportional to velocity, obstacle size, and density - V, S, and D - but it is inversely proportional to viscosity, v. Mathematically then:
-我们可以用数学速记法写出四个问题的答案，即紊流t与速度、障碍物大小和密度成正比，v、s和d-但它与粘度成反比，v数学上：
-
-or, putting all the terms together,
-或者，把所有的条款放在一起
-
-
-We can also go a bit further, just as Reynolds did, for, if we choose our dimensional units in the right way, we can get them to cancel so that T becomes a dimensionless number, the so-called Reynolds number R, and we have
-
-
-，
-我们也可以再往前走一步，就像雷诺兹那样，因为如果我们选择了正确的维度单位，我们就可以把它们取消，这样T就变成了无量纲的数字，即所谓的雷诺兹数R。
-
-Now, the beauty of that derivation lies in the fact that flows with the same Reynolds number look much the same, whereas flows with different Reynolds numbers look quite different. We can combine different velocities, obstacle sizes, densities, and viscosities in different ways, but if we get the same Reynolds number, we will get the same general appearance. Thus, for example, whether a fast-flowing stream is obstructed by a pebble or a slow-moving stream by a boulder, the same pattern of backwash is produced. A speck of dust falls through the air with as much difficulty as our bodies might experience in moving through molasses. Those cases of dynamic similarity are of great interest to the engineer who sets up tests of small models in order to predict the behavior of fullscale structures. The engineer plays the variables of velocity, size, density, and viscosity against one another in any number of ways, but if the variables balance out to the same result, to the same Reynolds number, to the same amount of turbulence, then the flows look roughly equivalent.
-现在，这种推导的优点在于，具有相同雷诺兹数的流看起来大致相同，而具有不同雷诺兹数的流看起来完全不同。我们可以以不同的方式组合不同的速度、障碍物的大小、密度和粘度，但是如果我们得到相同的雷诺兹数，我们将得到相同的一般外观。因此，例如，快速流动的流是否被卵石阻碍，或由巨砾缓慢流动的流，产生相同的反冲洗模式。一团灰尘在空气中飘过，就像我们的身体在通过糖蜜运动时所经历的一样困难。动态相似性的情况是工程师感兴趣的，他们建立小模型的测试，以预测全尺度结构的行为。工程师以任意数量的方式相互作用速度、大小、密度和粘度的变量，但是如果变量平衡到相同的结果，对于相同的雷诺兹数，对于相同数量的湍流，则流动看起来大致相等。
-
-Concentrating on obstacles for a moment, we can see that a change in size results in a change in pattern or form. The small object disturbs the stream but little, the large object creates a turbulent wake. Instead of considering the size of an obstruction, we can also consider the size of a pipe through which the stream might flow. Whereas the large rock directly disrupts the flow, the large pipe allows the flow to disrupt itself.
-The large pipe has more room for turbulence and thus more turbulence arises. In fact, we can generate Reynolds numbers based on diameters of pipes exactly as we can for numbers based on diameters of obstructions. In both cases the pattern of flow changes with size.
-集中注意力在一瞬间的障碍上，我们可以看到大小的改变导致模式或形式的改变。小对象干扰流，但小，大对象产生湍流尾流。除了考虑障碍物的大小之外，我们还可以考虑管道可能流过的管道的大小。而大型岩石直接破坏流动，大管道允许流动破坏自己。
-大管道有较大的湍流空间，从而产生较大的湍流。事实上，我们可以根据管道直径来生成雷诺兹数，就像我们可以根据障碍物直径来计算数字一样。在这两种情况下，流动的模式随大小而变化。
-
-Remembering, however, that decreasing the velocity or density, or increasing the viscosity, can compensate for the effect of increasing size, we see why flows of different sizes can look much the same. Changing only one variable definitely alters the appearance, but changing two or more together may well leave the appearance unaffected. The principle of compensation among variables explains why we find similar patterns at vastly different scales.
-One further point should be made about scale and turbulence. Turbulence, or its measure - Reynolds number - is itself an expression of quantity or size.
-The Reynolds number is a measure of the amount of material that is present. Considering flow in a pipe, we can see that increasing the velocity of the flow, the size of the pipe, or the density of the material are simply three different ways to get a greater quantity of material to interact with itself.
-然而，记住，降低速度或密度，或增加粘度，可以补偿增大尺寸的效果，我们可以看到为什么不同尺寸的流动看起来大致相同。只改变一个变量肯定会改变外观，但改变两个或多个一起可能会使外观不受影响。变量之间的补偿原理解释了为什么我们在不同的尺度上找到相似的模式。
-还有一点是关于尺度和湍流。湍流，或其测量值——雷诺兹数——本身就是数量或大小的表示。
-雷诺兹数是存在的物质量的量度。考虑到管道中的流动，我们可以看到，增加流速、管的尺寸或材料的密度仅仅是三种不同的方式来获得更多的材料来与自身相互作用。
-
 The Turbulence of the Universe
 
 IT IS NO COINCIDENCE that milk poured into a wet sink imitates the design of galaxies and clusters of galaxies in the sky (Figure 37). Differences in velocities, densities, and viscosities compensate for the enormous difference in size between the kitchen sink and the heavens, so that the milk and the Milky Way follow a similar plan.
 By way of illustration, Figure 37 shows four pairs of pictures. With the exception of e, in which the swirling material is a mixture of glycerin, food coloring, and ink, the first frame of each pair shows milk that has been spilled in a black slate sink. The milk covers areas a few inches across, while the gas clouds, spiral galaxies, and exploding Crab Nebula with which the milk is compared cover areas in the order of ten quintillion (10 19 ) miles across.
-Kant and Laplace first described the turbulence of stellar material; Van Gogh's painting, Starry Night, gave it visual expression (Figure 38); and Carl von Weizsacker and George Gamow have attempted to explain the physical facts.
+
+
 宇宙的湍流
 牛奶倒进湿的水池中模仿天空中星系和星系团的设计（图37）并非巧合。速度、密度和粘度的差异弥补了厨房水槽和天空之间巨大的差异，因此牛奶和银河也遵循类似的计划。
-通过说明，图37显示了四对图片。除E之外，其中漩涡材料是甘油、食用色素和墨水的混合物，每一对的第一帧显示了溢出在黑色板岩沉淀物中的牛奶。牛奶覆盖了几英寸的区域，而气体云、螺旋星系和爆炸蟹状星云则与牛奶相比较，覆盖面积为十平方英里（10到19英里）。
-康德和Laplace首先描述了恒星物质的湍流；梵高的绘画，Starry Night，给了它视觉表达（图38）；卡尔冯。
-Weizsacker和乔治·伽莫夫试图解释物理事实。
+作为说明，图37示出了四对图片。除E之外，其中漩涡材料是甘油、食用色素和墨水的混合物，每一对的第一帧显示了溢出在黑色板岩沉淀物中的牛奶。牛奶覆盖了几英寸的区域，而气体云、螺旋星系和爆炸蟹状星云则与牛奶相比较，覆盖面积为十千之六次幂（10到19）英里。
+
+|![](res/p1/2019-5-27-22-07-14.png)|
+|:---:|
+|![](res/p1/2019-5-27-22-07-32.png)|
+|![](res/p1/2019-5-27-22-07-47.png)|
+|![](res/p1/2019-5-27-22-08-00.png)|
+
+Kant and Laplace first described the turbulence of stellar material; Van Gogh's painting, Starry Night, gave it visual expression (Figure 38); and Carl von Weizsacker and George Gamow have attempted to explain the physical facts.
+
+康德和拉普拉斯首先描述了恒星材料的湍流; 梵高的绘画“星夜”给了它视觉表达（图38）; 并且Carl von Weizsacker和George Gamow试图解释物理事实。
+
+![](res/p1/2019-5-27-22-08-27.png)
 
 At an early stage, the material of the universe was a gas of nuclear particles. The gas was necessarily turbulent, that is to say, its Reynolds number was necessarily high, because the "pipe" in which it flowed, the absolute size of the universe, was large and did not restrict its flow. The turbulence of the gas gave rise to local compressions and rarefactions. Once the particles of gas were compressed, the gravitational attraction between them increased - their attraction for one another being inversely related as d 2 , the square of their separation. It happened that many of the compressed clumps could not expand again: they were held in check by their own gravity. It is interesting to know that similar clumpings of gas take place in the turbulent air around us every day, but that those clumps are too small to hold together under the influence of their own gravitational pull. The clumps of primordial gas, however, were enonnously larger. They had a mass several million times the mass of the sun.
-在早期阶段，宇宙的物质是一种核粒子的气体。气体必然是湍流的，也就是说，它的雷诺兹数必然是高的，因为它所流过的“管”，宇宙的绝对大小是大的，并没有限制它的流动。气体的湍流引起了局部的压缩和稀薄。一旦气体的粒子被压缩，它们之间的引力就增加了它们彼此吸引的吸引力与D 2的平方成反比。碰巧许多压缩的团块不能再膨胀：它们被自己的重力控制住了。有趣的是，我们知道，在我们周围的湍流空气中每天都会发生类似的气体聚集，但是这些团块太小，在它们自身引力的影响下无法聚集在一起。团块
-然而，原始气体却大得多。它们的质量是太阳质量的几百万倍。
+
+在早期，宇宙物质是由核粒子组成的气体。气体必然是湍流的，也就是说，它的雷诺数必然很高，因为它流动的“管道”（宇宙的绝对大小）很大，并不限制它的流动。气体的湍流引起局部的压缩和稀薄。一旦气体粒子被压缩，它们之间的引力就增加了它们彼此吸引的吸引力与D的平方成反比。碰巧，许多被压缩的团块不能再膨胀：它们被自身的重力控制住了。有趣的是，我们周围的湍流空气中每天都会发生类似的气体团块，但是这些团块太小，在它们自身的引力的影响下无法聚集在一起。然而，原始气体的团块却非常大。它们的质量是太阳质量的几百万倍。
 
 In such a large clump, the increased gravitational attraction pulled the particles still closer together, increasing the strength of the attraction still more, which in turn pulled the particles closer again. Thus, once a large enough clump had fonned, it collapsed on itself in an ever-accelerating gravitational rush.
 If the clump of gas was very large, the collapse might continue indefinitely - down to almost nothing.
 At this very moment there may be billions of such collapsing clumps in the sky. They are the "black holes" that astronomers are looking for, so designated because their immense gravitational attraction makes it impossible for any material to get out, not even particles of light. Of course, they are not really holes.
-在这样一个大团块中，引力的增加将粒子拉得更近，从而增加了引力的强度，这反过来又把粒子拉得更近了。因此，一旦一个足够大的块体被连接起来，它就在一个不断加速的引力急速中坍塌。
+
+在如此大的团块中，引力的增加将粒子拉得更近，从而使引力的强度更大，从而又将粒子拉得更近。因此，一旦一个足够大的团块形成，它就会在不断加速的引力波中自行坍塌。
 如果气体的团块非常大，坍塌可能会无限期地持续下去——几乎没有。
-此时此刻，天空中可能有数十亿个这样坍塌的团块。它们是天文学家正在寻找的“黑洞”，之所以如此，是因为它们巨大的引力使得任何物质都不可能出去，甚至光粒子也不可能。当然，它们并不是真正的洞。
+就在这个时刻，天空中可能会有几十亿个这样的坍塌的团块。它们是天文学家正在寻找的“黑洞”，之所以被指定，是因为它们巨大的引力使得任何物质都不可能从中出来，甚至光的粒子也不可能。当然，它们不是真正的洞。
 
 Just the opposite: they are immense concentrations of material that suck everything around them, including light itself, into their interiors. Since no light escapes, we have no way of seeing them directly. Consequently, they have the appearance of black emptinesses.
 What happens in the hole, and how matter escapes from becoming inHnitely collapsed, remains one of the most pressing questions in physics. What happens in the hole may foretell what will happen to the entire universe, when and if it collapses on itself prior to its next round of expansion. Somehow, according to John Wheeler, material in the hole has the opportunity to take on new spatial properties. Somehow, a new cycle with a new spatial topology starts over again.
-恰恰相反：它们是大量的物质，它们吸收周围的一切东西，包括光本身，进入它们的内部。因为没有光逃逸，我们无法直接看到它们。因此，它们具有黑色空洞的外观。
-在黑洞中发生的事情，以及物质如何逃逸成为一个严重的问题，仍然是物理学中最紧迫的问题之一。洞里发生的事预示着会发生什么。
-在整个宇宙中，在它的下一轮扩张之前，如果它自己崩溃。不知何故，据John Wheeler说，材料在洞有机会采取新的空间属性。不知何故，一个新的空间新的循环重新开始。
+
+恰恰相反：它们是巨大的物质聚集体，将周围的一切，包括光本身，吸入它们的内部。既然没有光逃逸，我们就无法直接看到它们。因此，它们具有黑色空虚的外观。
+在黑洞中发生了什么，以及物质如何从本质上的崩溃中逃逸，仍然是物理学中最紧迫的问题之一。在这个洞里发生的事情可能预示着整个宇宙将会发生什么，当它在下一轮膨胀之前，如果它自己崩溃的话。不知何故，据John Wheeler说，材料在洞有机会采取新的空间属性。不知何故，一个新的空间拓扑循环又重新开始了。
 
 When the clumps of primordial nuclear gas are small, the contraction is stopped by centrifugal force before the stage of the black hole is reached. The random motions within the small clump inevitably cause it to rotate, to behave like an eddy, and the more it shrinks, the faster it spins, like a whirling skater when he pulls in his arms. That increase in rotation leads to an increase in centrifugal force that tends to throw material outward, and soon, in the plane of rotation, material gets flung away from the center in long spiral arms. Perpendicular to the plane of rotation, however, material still moves inward, collapse still goes on, and the whole system flattens into the familiar disk of a spiral galaxy.
 The mechanism that keeps the spiral arms of the galaxy spread out, that prevents them from wrapping up, is still not completely understood. As an analogy though, you might consider a rotating water sprinkler that throws out spiral arms of water. Like that sprinkler, a galaxy flings out arms, and the material in the arms feeds into the system from above and below the rotating disk.
-当原始核气体团块小时，在黑洞到达阶段之前，离心力会阻止收缩。这个
-小团内的随机运动不可避免地使它旋转，表现得像一个漩涡，而且它收缩的越多，它旋转的速度就越快，就像一个旋转的滑冰手拉着他的胳膊一样。旋转的增加导致离心力增加，倾向于向外抛出材料，很快，在旋转平面中，材料在长螺旋臂中从中心抛出。然而，垂直于旋转平面，物质仍然向内移动，坍塌仍在继续，整个系统变为一个螺旋星系的熟悉的圆盘。
-保持星系螺旋臂伸展的机制，阻止它们缠绕，仍然没有完全理解。作为一个类比，你可以考虑一个旋转喷水器抛出水的螺旋臂。就像喷水器一样，星系喷出手臂，手臂中的材料从旋转盘上方和下方进入系统。
+
+当原始核气体团较小时，在到达黑洞阶段之前，离心力阻止了收缩。小团块内的随机运动不可避免地会使它旋转，表现得像一个漩涡，而且它收缩得越多，它旋转得越快，就像一个旋转的滑冰者，当他拉入臂弯时。旋转的增加会导致离心力的增加，离心力倾向于向外抛掷材料，很快，在旋转平面上，材料就会从长螺旋臂的中心被抛出去。然而，垂直于旋转平面，物质仍然向内移动，崩塌仍在继续，整个系统扁平化为我们熟悉的螺旋星系圆盘。
+保持银河系旋臂展开的机制，阻止旋臂缠绕，目前还不完全清楚。不过，作为一个类比，你可以考虑一个旋转的喷水器，它可以喷出螺旋形的水臂。像喷水器一样，星系伸出手臂，手臂中的物质从旋转盘的上方和下方进入系统。
 
 Figure 39 shows another analogue of the spiral galaxy, an old millstone that has been cut with spiral tracks that carry ground grain outward from the center as the stone revolves.
 When clumps of gas rotate slowly, they do not Bing themselves out into spiral arms; they remain smooth and their collapse results in elliptical galaxies.
 A similar theory of turbulence and rotation accounts tor the formation of the solar system. Laplace assumed that the sun and planets condensed out of a great revolving gaseous cloud. Today we postulate that collections of dust as well as condensations of gas are at work. The particles of dust, incidentally, may have been driven together initially by the pressure of starlight - a force that once again varies inversely with d 2 , the square of the separation between particles.
-图39显示了螺旋星系的另一个类似物，这是一个旧的磨石，它被螺旋轨道切割，当石头旋转时，螺旋石将地面颗粒从中心向外传送。
-当气体的团块缓慢旋转时，它们不会自转成螺旋状的臂；它们保持平稳，而它们的坍塌导致椭圆星系。
-类似的湍流和旋转理论解释了太阳系的形成。拉普拉斯认为太阳和行星是从一个巨大的旋转气体云中凝聚出来的。今天我们假设尘埃的集合以及气体的冷凝都在起作用。顺便说一下，尘埃粒子最初可能是由星光的压力驱使的，这是一种力，它再次与颗粒2之间的平方反比。
+
+图39显示了另一个类似螺旋星系的情况，这是一个旧的磨盘，它被切割成螺旋轨道，当石头旋转时，螺旋轨道将磨粒从中心向外运送。当气体的团块缓慢旋转时，它们不会自转成螺旋状的臂；它们保持平稳，而它们的坍塌导致椭圆星系。
+类似的湍流和旋转理论解释了太阳系的形成。拉普拉斯假设太阳和行星是由一个巨大的旋转气体云凝结而成的。今天，我们假设尘埃的聚集和气体的冷凝正在起作用。顺便说一句，尘埃颗粒最初可能是由星光的压力驱动在一起的——这个力再次与d 2（颗粒间分离的平方）成反比。
+
+![](res/p1/2019-5-27-23-15-41.png)
 
 According to modem theory, flows of gas and dust break up into turbulent eddies. Those eddies conHict with one another and kill each other off, except for the ones that stay clear of collisions. It happens, not unexpectedly, that the eddies that remain, those that avoid collisions, are spaced at regular intervals from one another. Those eddies condense further and give birth to planets, so that the planets too end up with a regular spacing. The particulars of the theory thus explain why each successive planet in the solar system is about twice as far from the sun as the previous one.
-In that story of the creation of the planes we see a kind of evolutionary theory at work. We see the decimation of the unfit, the swirls that collide with one another, and the survival of the fit, the swirls that were originally positioned so as to avoid collision. The end result is an orderly arrangement that appears more a product of design than chance. Order is born out of chaos. It is interesting, however, that the chaos persists. In fact, considering the dissipated heat generated by the collisions of the eddies, and by the condensation of the dust and gas in forming the planets, the disorder or entropy of the system has actually increased. The order of the local events - the spacing of the planets - is more than recompensed by the disorder - the heat gain - in the rest of the universe.
+In that story of the creation of the planets we see a kind of evolutionary theory at work. We see the decimation of the unfit, the swirls that collide with one another, and the survival of the fit, the swirls that were originally positioned so as to avoid collision. The end result is an orderly arrangement that appears more a product of design than chance. Order is born out of chaos. It is interesting, however, that the chaos persists. In fact, considering the dissipated heat generated by the collisions of the eddies, and by the condensation of the dust and gas in forming the planets, the disorder or entropy of the system has actually increased. The order of the local events - the spacing of the planets - is more than recompensed by the disorder - the heat gain - in the rest of the universe.
+
 根据现代理论，气体和灰尘的流动分解成湍流漩涡。那些漩涡彼此相撞，互相残杀，除了那些避开碰撞的人。它发生，而不是出乎意料的是，留下的漩涡，那些避免碰撞的漩涡，是以规则的间隔彼此间隔的。这些漩涡进一步凝结并产生行星，因此行星也以规则的间隔结束。这一理论的细节可以解释为什么太阳系中的每一颗行星都是太阳的两倍。
 在创造飞机的故事中，我们看到了一种进化理论在起作用。我们看到不适的抽取，互相碰撞的漩涡，以及适合的生存，最初被定位的漩涡以避免碰撞。最终的结果是一种有序的安排，看起来更多的是设计而不是偶然的产物。秩序是从混乱中诞生的。然而，有趣的是，混乱依然存在。事实上，考虑到涡旋碰撞产生的耗散热，以及形成行星的尘埃和气体的凝结，系统的无序或熵实际上增加了。局部事件的顺序——行星的间距——不仅仅是由宇宙中的无序-热增益所补偿的。
+
+根据现代理论，气流和尘埃分解成湍流涡流。那些漩涡互相连接，互相残杀，除了那些远离碰撞的漩涡。这种情况并非出乎意料地发生了，仍然存在的涡流，那些避免碰撞的涡流，彼此之间以规则的间隔间隔间隔间隔分布。这些漩涡进一步浓缩，并产生行星，因此行星也以规则的间距结束。因此，该理论的细节解释了为什么太阳系中每一个连续的行星距离太阳的距离是前一个行星的两倍。
+在行星创造的故事中，我们看到一种进化论正在起作用。我们看到不适合的抽取，相互碰撞的漩涡，以及适合的生存，最初定位以避免碰撞的漩涡。最终的结果是一个有序的安排，看起来更像是设计的产物而不是偶然。秩序是从混乱中诞生的。然而，有趣的是，混乱依然存在。事实上，考虑到涡流的碰撞和尘埃和气体在行星形成过程中的凝结所产生的散热，系统的无序或熵实际上已经增加。局部事件的顺序-行星的间距-比宇宙其他部分的无序-热增益-所补偿的还要多。
 
 Vortex Streets
 
