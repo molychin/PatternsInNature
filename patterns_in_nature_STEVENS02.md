@@ -10,8 +10,8 @@ Patterns in Nature Author:PETER S.STEVENS
 nothing puzzles me more than time and space; and yet nothing troubles me less, as I never think about them.
 -CHARLES LAMB
 
-空间的本质
-没有什么比时间和空间更让我困惑了；但是再也没有什么会令我烦恼了，因为我已不去想它们。
+空间的本质  
+没有什么比时间和空间更让我困惑了；但是再也没有什么会令我烦恼了，因为我已不去想它们。  
 -CHARLES LAMB
 
 OF ALL THE CONSTRAINTS ON NATURE, the most farreaching are imposed by space. For space itself has a structure that influences the shape of every existing thing. The idea that space has structure may sound strange, since we usually think of space as a kind of nothingness that is the absence of structure. We think of space as the emptiness within an empty container, as the passive backdrop for the lively play of all material things.
@@ -41,15 +41,16 @@ There is nothing in the world except empty curved space. Matter, charge, electro
 Wheeler goes still further. He supposes that the space of our universe is only one of an infinite number of spaces, that our space is only a single point in Superspace, which is the totality of all spatial possibilities. And if and when the universe, after its present expansion, contracts and then expands again for another round, it will most probably have a different spatial character, and since the one follows the other, it will contain very different forms.  
 So the puzzle of space that Charles Lamb chose not to think about lies at the heart of the problems faced by contemporary physics. We will leave the exploration of that puzzle to the physicists, and, rather than delve deeper into things unseen, we will stay with the visible world, for even there we discover ourselves controlled by the properties of space.
 
-### 轮回  
+#### 轮回  
 世界上除了空旷的弯曲空间之外，什么都没有。物质、电荷、电磁学和其他领域只是空间弯曲的表现。惠勒更进一步。他假设我们宇宙的空间只是无限多空间中的一个，我们的空间只是超空间中的一个点，这是所有空间可能性的总和。如果宇宙在它现在的膨胀之后收缩然后再膨胀到另一轮，它很可能会有一个不同的空间特征，因为一个紧随着另一个，它会包含非常不同的形式。  
 因此，查尔斯·兰姆选择不去思考的**空间之谜，这是当代物理学所面临问题的核心所在**。我们将把探索这个谜留给物理学家，而不是深入探究那些看不见的东西，我们将留在可见的世界里，因为即使在那里，我们也发现自己被空间的属性所控制。
 
-Curvature 【弯曲】
+#### Curvature
+
 "... And nature must obey necessity."
--SHAKESPEARE,Julius Caesar, Act IV, SC.3
-弯曲  
-自然必须服从必然性
+-SHAKESPEARE,Julius Caesar, Act IV, SC.3  
+#### 弯曲的结构  
+自然必须服从必然性。
 
 SPACE IS UNIFORMLY SPREAD OUT. It is the same here and there as everywhere else. We become aware of how that spreading of space affects shape when we play with a piece of modeling clay.
 Suppose you make a small disk of clay like that in the first frame of Figure 1. It is obvious that with a rolling pin you can spread the clay into a larger disk.
@@ -65,7 +66,7 @@ From playing with the clay, we are led to the discovery of a fundamental rule: i
 
 ![](res/p1/p003.png)
 
-Here is another manifestation of the same principle.
+Here is another manifestation of the same principle.  
 这是同样原理的另一种表现形式。
 
 When you play with equilateral triangles, you find that you can arrange six triangles neatly around a central point so that all the triangles lie Hat, as shown again in Figure 1. Five triangles around a central point, however, take the form of a tent or an inverted bowl (frame e). And seven triangles around a point make an undulating saddle (frame f). The result is the same as for the clay: varying the extension of the perimeter with respect to the center transforms planes into bowls and saddles, The reason for those transformations lies in the nature of space. The transformations have nothing to do with our intentions to make one form or another.
@@ -83,7 +84,7 @@ Similar differences of growth lead to the development of more complicated struct
 The living tissue and the paper both bend and warp in accord with the differential expansion of their surfaces.
 The cups and saddles tell us even more about the nature of space. Suppose we wish to make the cup lie flat. We can do either of two things: we can stretch the perimeter of the cup so that it expands as much as the center, or we can tear the perimeter to make serrated pieces that can be forced to lie flat. That stretching or tearing, or both together, illustrate the age-old difficulty of drawing a map of the spherical earth on a flat sheet of paper. The surface of the earth must be distorted or torn (Figure 4). The reason we cannot map the earth on a piece of paper is that fonns are more closely bunched around the perimeter of a given area when they are distributed on a sphere than when they are distributed on a plane: the perimeter of a spherical area is too tight to lie flat. If the surface of the earth were shaped like a saddle, we would face the opposite problem. When we force a saddle to lie in a plane, the perimeter curls and folds because it is too loose.
 
-类似的生长差异导致了更复杂的结构的发展，如图3所示的人类耳朵的外耳廓。外耳的卷曲就像在被水洒过的一张纸上卷曲。
+**类似的生长差异导致了更复杂的结构的发展**，如图3所示的人类耳朵的外耳廓。外耳的卷曲就像在被水洒过的一张纸上卷曲。
 活体组织和纸张的弯曲和翘曲都符合其表面的差异膨胀。
 
 ![](res/p1/p005.png)
@@ -99,7 +100,7 @@ What we observe in those examples is that differential growth determines the sha
 Mathematically, however, we can describe curvature of three-dimensional space very well We can even describe curvatures of four-dimensional spacetime. For example, Einstein conceived that the universe has a four-dimensional space-time curvature that is something like the curvature of a sphere. Other conceptions see the univcrse as shaped like a saddle.
 Either way, the structure of space and the makeup of the visible world are indivisibly united.
 
-然而，在数学上，我们可以很好地描述三维空间的曲率，甚至可以描述四维时空的曲率。例如，爱因斯坦设想宇宙有一个四维时空曲率，类似于球体的曲率。其他的概念把宇宙看作一个马鞍形。不管怎样，空间结构和可见世界的构成都是不可分割的统一。
+然而，在数学上，我们可以很好地描述三维空间的曲率，甚至可以描述四维时空的曲率。例如，**爱因斯坦设想宇宙有一个四维时空曲率，类似于球体的曲率**。其他的概念把宇宙看作一个马鞍形。不管怎样，空间结构和可见世界的构成都是不可分割的统一。
 
 
 
