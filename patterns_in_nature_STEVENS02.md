@@ -1,7 +1,7 @@
 ```
 Created on  2019.05.20.22:40
 Patterns in Nature Author:PETER S.STEVENS
-编译：Moly Chin
+自然模式 编译：Moly Chin
 @author: molychin@qq.com
 ```
 
@@ -16,25 +16,31 @@ nothing puzzles me more than time and space; and yet nothing troubles me less, a
 
 OF ALL THE CONSTRAINTS ON NATURE, the most farreaching are imposed by space. For space itself has a structure that influences the shape of every existing thing. The idea that space has structure may sound strange, since we usually think of space as a kind of nothingness that is the absence of structure. We think of space as the emptiness within an empty container, as the passive backdrop for the lively play of all material things.
 
+![](res/p1/0ee8651.jpg)
+
 在所有对自然的限制中，最深远的影响是由空间造成的。**因为空间本身的结构影响着每一个现存事物的形状**。空间有结构的想法听起来很奇怪，**因为我们通常认为空间是一种虚无，即没有结构**。我们认为空间是一个空容器内的空虚，是所有物质事物活动的被动背景。
 
 It turns out, however, that the backdrop, the all pervading nothingness, is not so passive. The nothingness has an architecture that makes real demands on things. Every form, every pattern, every existing thing pays a price for its existence by conforming to the structural dictates of space.
 
-然而，事实证明，这个背景，无处不在的虚无，并不是那么被动。虚无有一种对事物作出真实要求的架构。每一种形式，每一种模式，每一件现存的事物都要为它的存在付出代价，因为它要符合空间的结构要求。
+然而，事实证明，这个背景，无处不在的虚无，并不是那么被动。虚无有一种对事物作出真实要求的架构。每一种形式，每一种模式，每一件现存的事物都要为它的存在付出代价，**因为它要符合空间的结构要求**。
+
+![](res/p1/65b14004.jpg)
 
 Our ignorance about the effects of space parallels the ignorance of fish about the effects of water. And just as fish would understand their environment better through studies of buoyancy, pressure, and streamlining in different liquids, so we have come to understand our own environment better through studies of transformation, extension, and curvature in different spaces. We did not recognize the special character of our space until the non-Euclidean geometers of the nineteenth century and Einstein in the twentieth century showed that there are other spaces, and that patterns and forms in those other spaces differ from the ones we see in ours. Since our brains and perceptual processes have evolved to suit our own space, we cannot visualize those other spaces, but we have devised self-consistent mathematical descriptions of them, and we have come to recognize that the spaces in the world of the very small, in the world of the fundamental particles, and in the world of the very large, at the scale of the universe as a whole, differ dramatically from the space in which we live.
 
-我们对空间效应的无知与鱼对水的影响的无知相类似。正如鱼会通过研究浮力、压力和在不同液体中流线一样更好地了解它们的环境，所以我们通过研究不同空间中的变换、伸展和曲率来更好地了解我们自己的环境。我们没有认识到我们的空间的特殊性质，直到非欧几里得几何十九世纪和二十世纪的爱因斯坦展示了还有其他空间，那些空间中的模式和形式不同于我们在我们的空间中看到的。因为我们的大脑和知觉过程已经进化成适合我们自己的空间，所以我们无法想象这些空间，但是我们已经设计了它们的自洽的数学描述。并且我们已经认识到世界上的空间非常小，在基本粒子的世界里，在非常大的世界里，在宇宙作为一个整体的规模，与我们生活的空间有很大的不同。
+**我们对空间效应的无知与鱼对水的影响的无知相类似**。正如鱼会通过感知浮力、压力和在不同液体中流线一样更好地了解它们的环境，所以 **我们通过研究不同空间中的变换、伸展和曲率来更好地了解我们自己的环境**。我们没有认识到我们的空间的特殊性质，直到非欧几里得几何十九世纪和二十世纪的爱因斯坦展示了还有其他空间，那些空间中的模式和形式不同于我们在我们的空间中看到的。**因为我们的大脑和知觉过程已经进化成适合我们自己的空间，所以我们无法想象这些空间**，但是我们已经设计了它们的自洽的数学描述。并且我们已经认识到世界上的空间非常小，在基本粒子的世界里，在非常大的世界里，在宇宙作为一个整体的规模，与我们生活的空间有很大的不同。
 
 What kind of stuff makes space and precisely how it affects the shape of things are pressing questions in modern physics. At the turn of the century Mendeleev, who discovered the periodicity of the elements, posed the idea that space consists of particles a million times smaller than the hydrogen atom, and that combinations of those particles produce atoms. That was a strange speculation. Mendeleev, you see, did not say that space was filled with little particles but that it was little particles. P. A. M. Dirac, John A. Wheeler, and other physicists have developed Mendeleev's idea and have likened space to a perhaps inHnite array of tiny grains or a froth of bubbles. Perhaps, somehow, the shifting of those grains or bubbles produces the fundamental particles that form the basis for all material structures.
 
-什么样的物质创造了空间，以及空间如何精确地影响物体的形状，是现代物理学中的一个紧迫问题。在世纪之交，发现元素周期性的门捷列夫提出了这样的观点：空间由比氢原子小一百万倍的粒子组成，这些粒子的组合产生原子。这是一个奇怪的猜测。你看，门捷列夫并没有说空间里充满了小颗粒，而是说它是小颗粒。P·A·M·狄拉克、约翰·A·惠勒和其他物理学家发展了门捷列夫的理论，并将空间比作可能是一排微小的颗粒或泡沫。也许，不知何故，这些颗粒或气泡的移动产生了基本粒子，这些基本粒子构成了所有物质结构的基础。
+**什么样的物质创造了空间，以及空间如何精确地影响物体的形状，是现代物理学中的一个紧迫问题**。在世纪之交，发现元素周期性的门捷列夫提出了这样的观点：空间由比氢原子小一百万倍的粒子组成，这些粒子的组合产生原子。这是一个奇怪的猜测。你看，门捷列夫并没有说空间里充满了小颗粒，而是说它是小颗粒。P·A·M·狄拉克、约翰·A·惠勒和其他物理学家发展了门捷列夫的理论，并将空间比作可能是一排微小的颗粒或泡沫。也许，不知何故，这些颗粒或气泡的移动产生了基本粒子，这些基本粒子构成了所有物质结构的基础。
 
 More and more in physics, the idea seems to be taking hold that space has real material structure. That thought shocks most of us. Space is no longer considered a passive background like a set of coordinates; it is thought to be a real agent that gives rise to all the rest of the material world. It is the primeval stuff from which all else springs. Thus our commonsense idea that space is a big nothing has been replaced with the more sophisticated thought that space is a big everything. Wheeler nicely summed up Einstein's conception of the modern view:
 Einstein, above his work and writing, held a long-term vision: There is nothing in the world except curved empty space. Geometry bent one way here describes gravitation. Rippled another way somewhere else it manifests all the qualities of an electromagnetic wave. Excited at still another place, the magic material that is space shows itself as a particle. There is nothing that is foreign and "physical" immersed in space.
 
-在物理学中，越来越多的人认为空间具有真实的物质结构。这个想法让我们大多数人震惊。空间不再像一组坐标那样被视为一种被动的背景；它被认为是一种产生物质世界其余部分的真正的媒介。它是最原始的东西，其他一切都是从它而来的。因此，我们的常识，即空间是一个大的东西，已经被更复杂的思想所取代，即空间是一个大的一切。惠勒很好地总结了爱因斯坦的现代观点：
-爱因斯坦，在他的作品和写作之上，有一个长期的愿景：世界上除了弯曲的空白空间之外，什么都没有。这里弯曲的几何描述了万有引力。它以另一种方式在别处波动，体现了电磁波的所有特性。在另一个地方被激发，空间这种神奇的物质显示出它自己是一个粒子。没有什么外来的和“物理的”沉浸在空间中。
+**在物理学中，越来越多的人认为空间具有真实的物质结构。这个想法让我们大多数人震惊**。空间不再像一组坐标那样被视为一种被动的背景；它被认为是一种产生物质世界其余部分的真正的媒介。它是最原始的东西，其他一切都是从它而来的。因此，我们的常识，即空间是一个大的东西，已经被更复杂的思想所取代，即空间是一个大的一切。惠勒很好地总结了爱因斯坦的现代观点：
+爱因斯坦，在他的作品和写作之上，有一个长期的愿景：**世界上除了弯曲的空白空间之外，什么都没有**。这里弯曲的几何描述了万有引力。它以另一种方式在别处波动，体现了电磁波的所有特性。在另一个地方被激发，空间这种神奇的物质显示出它自己是一个粒子。没有什么外来的和“物理的”沉浸在空间中。
+
+![](res/p1/e7c8b70.jpg)
 
 #### And again
 There is nothing in the world except empty curved space. Matter, charge, electromagnetism, and other fields are only manifestations of the bending of space.  
@@ -43,7 +49,7 @@ So the puzzle of space that Charles Lamb chose not to think about lies at the he
 
 #### 轮回  
 世界上除了空旷的弯曲空间之外，什么都没有。物质、电荷、电磁学和其他领域只是空间弯曲的表现。惠勒更进一步。他假设我们宇宙的空间只是无限多空间中的一个，我们的空间只是超空间中的一个点，这是所有空间可能性的总和。如果宇宙在它现在的膨胀之后收缩然后再膨胀到另一轮，它很可能会有一个不同的空间特征，因为一个紧随着另一个，它会包含非常不同的形式。  
-因此，查尔斯·兰姆选择不去思考的**空间之谜，这是当代物理学所面临问题的核心所在**。我们将把探索这个谜留给物理学家，而不是深入探究那些看不见的东西，我们将留在可见的世界里，因为即使在那里，我们也发现自己被空间的属性所控制。
+因此，查尔斯·兰姆选择不去思考的 **空间之谜，这是当代物理学所面临问题的核心所在**。我们将把探索这个谜留给物理学家，而不是深入探究那些看不见的东西，我们将留在可见的世界里，因为即使在那里，我们也发现自己被空间的属性所控制。
 
 #### Curvature
 
@@ -52,12 +58,15 @@ So the puzzle of space that Charles Lamb chose not to think about lies at the he
 #### 弯曲的结构  
 自然必须服从必然性。
 
+![](res/p1/8647bbc.jpg)
+
 SPACE IS UNIFORMLY SPREAD OUT. It is the same here and there as everywhere else. We become aware of how that spreading of space affects shape when we play with a piece of modeling clay.
 Suppose you make a small disk of clay like that in the first frame of Figure 1. It is obvious that with a rolling pin you can spread the clay into a larger disk.
 Under the action of the rolling pin, the clay spreads evenly in all directions - just like the space in which it lies. Now, suppose you press or flatten only the center of the disk. You can do that by manipulating the clay with your fingers. Flattening the center causes the center to spread and grow faster than the perimeter, and the disk naturally takes the shape of a bowl, as shown in the second frame.
 You can also squeeze the perimeter of the disk so that it grows faster than the center. Again the disk will not lie flat. Instead, it thrusts itself simultaneously both forward and back to make a saddle. The saddle comes about just as naturally as the bowl. The clay is not molded into those forms but the forms arise naturally, depending upon where you press the clay.
 From playing with the clay, we are led to the discovery of a fundamental rule: if the center and perimeter both grow at the same rate, the material spreads in a plane; if the center grows faster than the perimeter, or the perimeter grows faster than the center, a bowl or a saddle results.
 
+【学陶艺的同学赶快过来，表示以下部分能看懂。】  
 空间是均匀分布的，到处都是一样的。当我们玩一块模型粘土时，我们会意识到空间的扩展是如何影响形状的。假设您在下图的第一个框架中制作一个这样的小粘土盘。很明显，用擀面杖可以把粘土铺成一个更大的圆盘。在擀面杖的作用下，粘土向各个方向均匀分布，就像它所在的空间一样。现在，假设您只碾压或扩展黏土盘的中心（你可以用手指捻压粘土来做到这一点）。中心变平会，使中心比周长扩展和增长得更快，并且圆盘自然地呈碗状，如第二幅中所示。  
 您还可以挤压黏土盘的周边，使其增长速度快于中心。同样，黏土盘不会水平展开。相反，它同时向前和向后推动自己，形成一个马鞍。马鞍和碗一样自然。粘土不是人为被塑造成这些形式，形式是自然产生，这取决于你压粘土的地方。  
 从玩粘土开始，我们发现了一个基本规律：如果中心和周长都以相同的速度增长，材料就会在一个平面上扩散；如果中心比周长增长得更快，或者周长比中心增长得更快，就会形成碗状或马鞍状。

@@ -1,17 +1,18 @@
 ```
 Created on  2019.05.20.22:40
 Patterns in Nature Author:PETER S.STEVENS
-编译：Moly Chin
+自然模式 编译：Moly Chin
 @author: molychin@qq.com
 ```
 
+![](res/p1/d4038f8770d.jpg)
 
 ### Polyhedrons and Mosaics
-多面体和镶嵌图
 
 THE MAKING OF AN OPEN CUP from five equilateral triangles poses an interesting question. If you continue to add triangles to the rim, will the cup wrap back on itself to make a complete enclosure? The answer is yes. Fifteen additional triangles, joined five at a time at the corners, will automatically make a closed container - a regular polyhedron with twenty triangular faces" It is pictured in the top right-hand frame of Figure 5. When you make that polyhedron, you cannot help but be impressed by the way all the triangles fall into place. They fit perfectly. You do not have to trim any edges, defonn any corners, or force the fit in any way. Such a polyhedron is beautifully unequivocal; it either comes out perfectly or not at all. The conditions for its existe"nce have been determined since the world began.
 
-用五个等边三角形做一个开口碗提出了一个有趣的问题。如果你继续在边缘添加三角形，杯子会自动包裹起来形成一个完整的外壳吗？答案是肯定的。另外15个三角形，在角落处一次连接5个，将自动形成一个封闭的容器——一个有20个三角形面的正多面体”，如图5右上框所示。当你做多面体的时候，你会不由自主地对所有三角形的落点印象深刻。它们很合身。您不必修剪任何边缘、修剪任何角或以任何方式强制粘合。这样一个多面体是美丽而明确的；它要么完美地出现，要么根本不出现。它的存在条件自世界开始以来就已确定。
+### 多面体和镶嵌图
+用五个等边三角形做一个开口碗提出了一个有趣的问题。如果你继续在边缘添加三角形，杯子会自动包裹起来形成一个完整的外壳吗？答案是肯定的。另外15个三角形，在角落处一次连接5个，将自动形成一个封闭的容器——一个有20个三角形面的正多面体”，如图5右上框所示。当你做多面体的时候，你会不由自主地对所有三角形的落点印象深刻。它们很合身。您不必修剪任何边缘、修剪任何角或以任何方式强制粘合。这样一个多面体是美丽而明确的；它要么完美地出现，要么根本不出现。**它的存在条件自世界开始以来就已确定**。
 
 ![](res/p1/p007.png)
 
@@ -33,7 +34,9 @@ Here are some of the limitations on those polyhedrons. Every form has three-, fo
 Further limitations on how elements can join show up when we combine the regular and semiregular polyhedrons to fill space without leaving gaps or holes.
 Including combinations that use regular prisms (a form that has a regular polygonal top and bottom joined by a belt of squares), we find only twenty-two space-filling clusters. Only polyhedrons with some triangular or square faces can join in such combinations.
 
-当我们将规则多面体和半规则多面体组合起来填充空间而不留空隙或孔洞时，元素如何连接的进一步限制就显现出来了。包括使用规则棱柱的组合（有规则多边形顶部和底部由一条正方形带连接的形式），我们只找到22个充满空间的簇。只有具有一些三角形或方形面的多面体才能加入这种组合。
+![](res/p1/e4f7fdf96.jpg)
+
+**当我们将规则多面体和半规则多面体组合起来填充空间而不留空隙或孔洞时，元素如何连接的进一步限制就显现出来了**。包括使用规则棱柱的组合（有规则多边形顶部和底部由一条正方形带连接的形式），我们只找到22个充满空间的簇。只有具有一些三角形或方形面的多面体才能加入这种组合。
 
 Polyhedrons with pentagonal faces cannot be used. A portion of one of those clusters is shown in Figure 7. It is a group of truncated octahedrons which picture the molecular geometry of the aluminosilicates and the statistically "ideal" soap froth which we will investigate further.
 Analogous to the limited number of regular and semiregular three-dimensional polyhedrons is the limited number of regular and semiregular twodimensional mosaics. A portion of one of those mosaics was shown in the group of six equilateral triangles of Figure 1 (d). The triangles lie flat and if we add more triangles, still keeping six around each point, we can extend the array as much as we please in any direction. A little experimentation reveals the existence of only two other mosaics that have regular and identical pieces and that can be extended indefinitely. All three mosaics are pictured in Figure 8. We also find eight and only eight semiregular mosaics that combine regular polygons of more than one type while maintaining identical joints. They are pictured in Figure g. Each of those mosaics combines triangles or squares or both together. Only three-, four-, or five-way joints are allowed.
@@ -45,6 +48,8 @@ Note the absence of pentagons in the groups of rcgular and semiregular mosaics. 
 
 类似于有限数量的正规和半正规三维多面体是有限数量的正规和半正规二维镶嵌。其中一个马赛克的一部分显示在图1（d）的六个等边三角形组中。三角形是平的，如果我们增加更多的三角形，在每个点周围保持6个，我们可以在任意方向上扩展数组。一个小小的实验揭示了只有另外两个镶嵌物的存在，它们有规则的和相同的部分，并且可以无限期地扩展。所有三个马赛克如图8所示。我们还发现了八个并且只有八个半规则的镶嵌，它们结合了不止一种类型的规则多边形，同时保持相同的关节。它们如图G所示。每一个马赛克将三角形或正方形或两者结合在一起。仅允许三通、四通或五通接头。
 
+![](res/p1/b74ebfa.jpg)
+
 注意在古罗马和半规则马赛克中没有五边形。五边形不与自身或其他规则的人物结合来填充空间。具有五边形面的多面体也不会相互结合来填充空间。
 
 ![](res/p1/p010.png)
@@ -52,11 +57,13 @@ Note the absence of pentagons in the groups of rcgular and semiregular mosaics. 
 Thus we find that crystals, which are repetitive assemblages of molecules, never have regular five-sided faces. In fact, no inanimate form exhibits pentagonal symmetry. No regularly pentagonal snowflake has ever fallen from the sky. Only animate forms, complicated forms, structures beyond the interminable stacking of identical molecules, have shapes with five equal sides.
 The regular and semi regular mosaics and polyhedrons provide the most explicit demonstration that nature's forms are limited. Seldom, however, must nature create such perfectly regular shapes. Seldom is she constrained to work with equilateral triangles or to make forms with identical corners. More often she can introduce variations. She can push and pull and add and take away. But in all her manipulations, she must bend and warp in accord with the amount of material at hand. Her planes, bowls, and saddles may not extend to infinity, make perfect polyhedrons, or curve with absolute precision, but they must lie flat, bend around on themselves, and undulate forward and back, in keeping with the limited ways in which material can be distributed in space.
 
-因此我们发现，晶体是分子的重复组合，从来没有规则的五边形面。事实上，没有一种无生命的形式表现出五角对称。从来没有一片五边形的雪花从天空落下。只有生命形式、复杂形式、超越了相同分子无休止叠加的结构，才有五条等边的形状。
+因此我们发现，**晶体是分子的重复组合，从来没有规则的五边形面。事实上，没有一种无生命的形式表现出五角对称。从来没有一片五边形的雪花从天空落下**。只有生命形式、复杂形式、超越了相同分子无休止叠加的结构，才有五条等边的形状。
 
-规则和半规则的镶嵌和多面体提供了最明确的证明，**自然的形式是有限的**。然而，大自然很少能创造出如此完美规则的形状。她很少被限制使用等边三角形或用相同的角制作形状。她可以更频繁地引入变种。她可以推、拉、加、取。但在她所有的操作中，她必须根据手头的材料数量弯曲和弯曲。她的平面、碗和鞍座可能不会延伸到无穷远，不会形成完美的多面体，或者曲线具有绝对精度，但它们必须平躺，围绕自身弯曲，并向前和向后起伏，以保持材料在空间中分布的有限方式。
+规则和半规则的镶嵌和多面体提供了最明确的证明，**自然的形式是有限的。然而，大自然很少能创造出如此完美规则的形状**。她很少被限制使用等边三角形或用相同的角制作形状。**她可以更频繁地引入变种，她可以推、拉、加、取**。但在她所有的操作中，她必须根据手头的材料数量弯曲和弯曲。她的平面、碗和鞍座可能不会延伸到无穷远，不会形成完美的多面体，或者曲线具有绝对精度，但它们必须平躺，围绕自身弯曲，并向前和向后起伏，以保持材料在空间中分布的有限方式。
 
 ![](res/p1/p011.png)
+
+
 
 
 >待续...
