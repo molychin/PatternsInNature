@@ -67,19 +67,40 @@ Chaos theory predicts that while the laws of physics are deterministic, even
 混沌理论预测，虽然物理定律是确定性的，但自然界中的事件和模式从未完全重复，因为起始条件的极小差异可能导致广泛不同的结果。许多自然模式由这种明显的随机性塑造，包括涡街和其他影响 湍流如河流中的曲折。
 
 Waves, dunes
-
 Dune ripple
 Waves are disturbances that carry energy as they move. Mechanical waves propagate through a medium – air or water, making it oscillate as they pass by. Wind waves are surface waves that create the chaotic patterns of the sea. As they pass over sand, such waves create patterns of ripples; similarly, as the wind passes over sand, it creates patterns of dunes.
 
-Bubbles, foam
+![](res/b95be8a.jpg)
 
+波浪、沙丘
+波是在移动时携带能量的扰动。机械波通过介质（空气或水）传播，使其在经过时振荡。风浪是产生混沌海洋图案的表面波。当它们越过沙子时，这种波浪会产生涟漪图案; 同样地，当风越过沙子时，它会产生沙丘的图案。
+
+---
+Bubbles, foam
 Foam of soap bubbles
 Foams obey Plateau's laws, which require films to be smooth and continuous, and to have a constant average curvature. Foam and bubble patterns occur widely in nature, for example in radiolarians, sponge spicules, and the skeletons of silicoflagellates and sea urchins.
+
+![](res/45148baf.jpg)
+
+泡沫,泡泡
+肥皂泡的泡沫
+泡沫材料遵循Plateau定律，要求薄膜光滑连续，且具有恒定的平均曲率。泡沫和泡沫模式在自然界中广泛存在，例如放射虫、海绵骨针和硅藻骨架和海胆的骨架中。
 
 Cracks
 
 Shrinkage Cracks
 Cracks form in materials to relieve stress: with 120 degree joints in elastic materials, but at 90 degrees in inelastic materials. Thus the pattern of cracks indicates whether the material is elastic or not. Cracking patterns are widespread in nature, for example in rocks, mud, tree bark and the glazes of old paintings and ceramics.
+
+裂缝
+
+收缩裂缝
+材料产生裂缝以释放应力：弹性材料中有120度接头，而非弹性材料中有90度接头。因此，裂纹模式表明材料是否具有弹性。裂缝图案在自然界中广泛存在，例如岩石、泥土、树皮以及旧绘画和陶瓷的釉料中。
+
+裂缝
+
+收缩裂缝
+材料产生裂缝以缓解压力：弹性材料采用120度接头，非弹性材料采用90度接头。 因此，裂缝的图案表明材料是否是弹性的。 裂纹图案在自然界中很普遍，例如在岩石，泥土，树皮以及旧画和陶瓷的釉料中。
+
 
 Spots, stripes
 

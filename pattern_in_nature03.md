@@ -32,7 +32,7 @@ In general, shape and form in nature arise not from the “building up” of sym
 |![](res/ab8a5c9.jpg)|![](res/bce6d0.jpg)|
 |万花筒1|万花筒2|
 
-所以从这点上来说，我并不喜欢绝对的，完美的对称，因为自然界中并不容易找到这样的范例。而且，一般人类的完美制品，往往是借助机械设备来完成的，少了手工的味道。这也是为什么，我会更喜欢日本民间生活瓷器的原因。
+所以从这点上来说，我 **并不喜欢绝对的，完美的对称，因为自然界中并不容易找到这样的范例**。而且，一般人类的完美制品，往往是借助机械设备来完成的，少了手工的味道。这也是为什么，我会更喜欢日本民间生活瓷器的原因。
 
 |![](res/d36c66e0b.jpg)|![](res/c28431.jpg)|
 |---|---|
@@ -56,14 +56,14 @@ The modes he describes include the following which are described here in terms o
 #### Flow
 All things flow, following paths of least resistance. Flow can be seen in water, stone, the growth of trees. Meander patterning is related to the idea of flow, and is built on the repetition of an undulating line. In this detail from a textile hanging made up of knotted threads, the meandering color lines resulting from the technique quite naturally create this type of pattern.
 
-![](res/pin_021.gif)
+![](res/ffd7da.jpg)
 
 #### 流模式
 所有流动的东西，都会沿着阻力最小的路径前进。流的形态可以在水、石头、树木的生长（纹理）中观察到。曲折图案与流动的概念相关，并且建立在波浪线的重复上。一件编制中的挂毯由打结的线组成，曲折的颜色线产生的所产生的细节自然地形成了流模式这种类型的图案。
 
 Branching is an obvious form of patterning in the plant world, but it can also be seen in geological formations such as river deltas and certain crystalline formations.
 
-![](res/pin_022.gif)
+![](res/afghanistan_s.jpg)
 
 #### 分枝模式
 分枝在植物界是一种最常见的图案形式，但也可以在诸如河流三角洲和某些结晶形态中看到。
