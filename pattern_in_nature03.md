@@ -26,15 +26,20 @@ In general, shape and form in nature arise not from the “building up” of sym
 
 但作为人类的制品，却偏向爱好绝对的对称（或者说，努力追求完美的对称），万花筒、中国瓷器等是我们观察对称性的可见的很好的例子。
 
-|中国瓷器1|中国瓷器2|
+|![](res/bottle_vase___studio_pottery_by_heathwreed.jpg)|![](res/paul_schneider_ceramics_by_nmotus.jpg)|
 |---|---|
+|中国瓷器1|中国瓷器2|
+|![](res/ab8a5c9.jpg)|![](res/bce6d0.jpg)|
 |万花筒1|万花筒2|
 
 所以从这点上来说，我并不喜欢绝对的，完美的对称，因为自然界中并不容易找到这样的范例。而且，一般人类的完美制品，往往是借助机械设备来完成的，少了手工的味道。这也是为什么，我会更喜欢日本民间生活瓷器的原因。
 
-|日本茶器1|日本茶器2|
+|![](res/d36c66e0b.jpg)|![](res/c28431.jpg)|
 |---|---|
 |日本茶器1|日本茶器2|
+|![](res/bfed8bcaae.jpg)|![](res/c0c361.jpg)|
+|日本茶器3|日本茶器4|
+
 -------------------
 Pattern is an underlying structure that organizes surfaces or structures in a consistent, regular manner. Pattern can be described as a repeating unit of shape or form, but it can also be thought of as the "skeleton" that organizes the parts of a composition.
 
