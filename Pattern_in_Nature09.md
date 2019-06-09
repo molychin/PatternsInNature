@@ -5,6 +5,7 @@ Pattern in Nature Author：Philip Ball
 @author: molychin@qq.com
 ```
 
+![](res/002/np200.png)
 
 
 2 FRACTALS  
@@ -15,6 +16,8 @@ Why mountains look like molehills
 If we look at an aerial photograph of a jagged coastline, without a scale bar we can’t be sure if we’re seeing a stretch that is a mile long, or ten miles, or even a hundred.
 
 This indistinguishable appearance at different scales of magnification is a property called fractal. It is a remarkably common feature of nature: think of the fluffy edge of a cloud, or the way a twig from a branch tip mimics the shape of the whole tree, or the repeated branching of the lung’s passageways. In fact, fractals have even been called the geometry of nature. Many natural fractals look disorderly when you first see them: there’s no exact symmetry in a tree or a mountain profile. But the fractal property discloses a kind of “hidden logic” to the pattern: there’s a hierarchical repetition of the same general form at decreasing scales. What are the processes that create this logic? And why is it useful for living organisms?
+
+![](res/np201.png)
 
 如果我们看一幅锯齿状海岸线的航拍照片，没有刻度尺，我们就不能确定我们看到的是一英里长、十英里、甚至一百英里的伸展。  
 在不同的放大倍数下，这种不可区分的外观是一种称为分形的性质。这是大自然的一个非常普遍的特征：想象云的边缘，或者树枝尖的枝条模仿整个树的形状，或者是肺部通道的重复分支。事实上，分形甚至被称为自然几何学。许多自然分形在你第一次看到它们时看起来是无序的：在树或山轮廓中没有确切的对称性。但分形属性揭示了一种“隐性逻辑”的模式：在递减的尺度上有相同的一般形式的层级重复。创建这种逻辑的过程是什么？为什么它对活的有机体有用呢？
