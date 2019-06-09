@@ -60,7 +60,7 @@ Mathematicians call these rotations,reflections, and translations “symmetry op
 One of the most common kinds of symmetry that we see in the natural world is called bilateral symmetry. An object with this symmetry looks unchanged if a mirror passes cleanly through its middle. To put it another way, the object has a left side and a right side that are mirror images of each other. This, of course, is a characteristic of the human body, although little random quirks and accidents of our life history make the symmetry imperfect. There’s some evidence that people whose faces are more symmetrical are deemed more attractive on average, and it has also been claimed that other animals with bilaterally symmetrical bodies have more mates the more symmetrical they are.  
 Bilateral symmetry seems almost to be the default shape for animals. Fish, mammals, insects, and birds all share this attribute.
 
-[补充一张人体对称的图片]
+![](res/001/np0037.png)
 
 #### 身体  
 自然界中最常见的对称体之一称为 **双侧对称**。如果一个镜子通过它的中间部分，这个对称的物体看起来是不变的。换一种说法，物体的左侧和右侧是镜像。当然，这是人体的一个特征，虽然我们在生活中有可能会遭受几乎不会发生的随机怪事或事故，从而造成身体的不对称性。有证据表明，脸部更匀称的人在平均情况下更具吸引力甚至还有人声称，其他具有双侧对称体的动物会吸引更多的配偶，因为他们更对称。  
