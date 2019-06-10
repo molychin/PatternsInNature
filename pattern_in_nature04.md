@@ -83,19 +83,10 @@ Foams obey Plateau's laws, which require films to be smooth and continuous, an
 |泡沫,泡泡|
 
 #### Cracks
-
-Shrinkage Cracks
 Cracks form in materials to relieve stress: with 120 degree joints in elastic materials, but at 90 degrees in inelastic materials. Thus the pattern of cracks indicates whether the material is elastic or not. Cracking patterns are widespread in nature, for example in rocks, mud, tree bark and the glazes of old paintings and ceramics.
 
-裂缝
-
-收缩裂缝
-材料产生裂缝以释放应力：弹性材料中有120度接头，而非弹性材料中有90度接头。因此，裂纹模式表明材料是否具有弹性。裂缝图案在自然界中广泛存在，例如岩石、泥土、树皮以及旧绘画和陶瓷的釉料中。
-
-裂缝
-
-收缩裂缝
-材料产生裂缝以缓解压力：弹性材料采用120度接头，非弹性材料采用90度接头。 因此，裂缝的图案表明材料是否是弹性的。 裂纹图案在自然界中很普遍，例如在岩石，泥土，树皮以及旧画和陶瓷的釉料中。
+#### 碎裂
+材料产生裂缝以释放应力：弹性材料中有120度分裂角，而非弹性材料中有90度分裂角。因此，裂纹模式表明材料是否具有弹性。裂缝样式在自然界中广泛存在，例如岩石、泥土、树皮或者老油画和陶瓷的釉面（开片）中。
 
 |![](res/001/31a80a41.jpg)|
 |:---:|
@@ -105,32 +96,81 @@ Cracks form in materials to relieve stress: with 120 degree joints in elastic m
 Spots, stripes
 
 Giant pufferfish skin
-Main article: Pattern formation
 Alan Turing,[16] and later the mathematical biologist James D. Murray and other scientists, described a mechanism that spontaneously creates spotted or striped patterns, for example in the skin of mammals or the plumage of birds: a reaction-diffusion system involving two counter-acting chemical mechanisms, one that activates and one that inhibits a development, such as of dark pigment in the skin. These spatiotemporal patterns slowly drift, the animals' appearance changing imperceptibly as Turing predicted.
 
-Art and architecture
+斑点，条纹
+巨型河豚鱼皮
+Alan Turing[16]后来数学生物学家James D.Murray和其他科学家描述了一种自发产生斑点或条纹图案的机制，例如在哺乳动物的皮肤或鸟类的羽毛中：一种包含两种反作用化学物质的反应-扩散系统。l机制，一种激活和抑制发育的机制，如皮肤中的黑色色素。这些时空模式缓慢漂移，动物的外观如图灵所预测的那样在不知不觉中发生变化。
 
-Elaborate ceramic tiles at Topkapi Palace
-Further information: Mathematics and art and Mathematics and architecture
+--
+斑点，条纹
+
+巨型河豚皮
+主要文章：模式形成
+Alan Turing，[16]以及后来的数学生物学家James D. Murray和其他科学家描述了一种自发产生斑点或条纹图案的机制，例如在哺乳动物的皮肤或鸟类的羽毛中：一种涉及两个的反应 - 扩散系统 反作用化学机制，一种激活，一种抑制发育，如皮肤中的暗色素。 这些时空模式慢慢漂移，动物的外观在图灵预测中不知不觉地变化。
+
 
 Tilings
-Further information: Tessellation and Tile
-In visual art, pattern consists in regularity which in some way "organizes surfaces or structures in a consistent, regular manner." At its simplest, a pattern in art may be a geometric or other repeating shape in a painting, drawing, tapestry, ceramic tiling or carpet, but a pattern need not necessarily repeat exactly as long as it provides some form or organizing "skeleton" in the artwork.[19] In mathematics, a tessellation is the tiling of a plane using one or more geometric shapes (which mathematicians call tiles), with no overlaps and no gaps.[20]
+
+In visual art, pattern consists in regularity which in some way "organizes surfaces or structures in a consistent, regular manner." At its simplest, a pattern in art may be a geometric or other repeating shape in a painting, drawing, tapestry, ceramic tiling or carpet, but a pattern need not necessarily repeat exactly as long as it provides some form or organizing "skeleton" in the artwork. In mathematics, a tessellation is the tiling of a plane using one or more geometric shapes (which mathematicians call tiles), with no overlaps and no gaps.
+
+瓷砖
+
+在视觉艺术中，图案是有规律的，在某种程度上“以一致、规则的方式组织表面或结构”。最简单的说，艺术中的图案可以是一幅绘画绘画挂毯瓷砖或地毯中的几何或其他重复形状，但图案不必重复，只要它提供艺术作品中的某种形式或组织“骨架”。在数学中，“镶嵌”是指使用一个或多个几何图形（数学家称之为“瓷砖”）对平面进行平铺，没有重叠和间隙。
+
+--
+拼接
+在视觉艺术中，模式包含规律性，以某种方式“以一致，规则的方式组织表面或结构”。 最简单的是，艺术中的图案可以是绘画，绘画，挂毯，陶瓷瓷砖或地毯中的几何或其他重复形状，但只要图案提供某种形式或组织“骨架”，图案就不一定完全重复。 艺术品。 在数学中，曲面细分是使用一个或多个几何形状（数学家称为瓦片）平面的平铺，没有重叠且没有间隙。
 
 In architecture
-
 Patterns in architecture: the Virupaksha temple at Hampi has a fractal-like structure where the parts resemble the whole.
 Main articles: Pattern (architecture) and Mathematics and architecture
 In architecture, motifs are repeated in various ways to form patterns. Most simply, structures such as windows can be repeated horizontally and vertically (see leading picture). Architects can use and repeat decorative and structural elements such as columns, pediments, and lintels.[21] Repetitions need not be identical; for example, temples in South India have a roughly pyramidal form, where elements of the pattern repeat in a fractal-like way at different sizes.
 
-Science and mathematics
+在建筑中
 
+建筑图案：汉普的Virupaksha神庙具有分形结构，各部分与整体相似。
+
+主要文章：模式（建筑学）和数学与建筑学
+
+在建筑中，图案以各种方式重复以形成图案。最简单的是，像窗口这样的结构可以水平和垂直地重复（参见主图片）。建筑师可以使用和重复装饰和结构元素，如柱、山脚和过梁[21]重复不需要相同；例如，印度南部的寺庙有一个大致的金字塔形，图案元素以分形的方式以不同尺寸重复。
+
+--
+在建筑中
+建筑中的图案：亨比的Virupaksha寺有一个分形的结构，其中的部分类似于整体。
+主要文章：模式（建筑）和数学与建筑
+在建筑中，图案以各种方式重复以形成图案。 最简单的是，窗户等结构可以水平和垂直重复（见前图）。 建筑师可以使用和重复装饰和结构元素，如柱子，山形墙和门楣。[21] 重复不必相同; 例如，印度南部的寺庙具有大致金字塔形状，其中图案的元素以不同尺寸的分形方式重复。
+
+Science and mathematics
 Fractal model of a fern illustrating self-similarity
 Mathematics is sometimes called the "Science of Pattern", in the sense of rules that can be applied wherever needed. For example, any sequence of numbers that may be modeled by a mathematical function can be considered a pattern. Mathematics can be taught as a collection of patterns.
+
+科学与数学
+
+蕨类植物自相似分形模型
+
+数学有时被称为“模式科学”，在规则的意义上，可以在任何需要的地方应用。例如，任何可以由数学函数建模的序列都可以被视为模式。数学可以作为模式的集合来教授。
+
+--
+科学和数学
+蕨的分形模型说明自相似性
+数学有时被称为“模式科学”，在可以在任何需要的地方应用的规则意义上。 例如，可以将由数学函数建模的任何数字序列视为模式。 数学可以作为一组模式来教授。
 
 Fractals
 Some mathematical rule-patterns can be visualised, and among these are those that explain patterns in nature including the mathematics of symmetry, waves, meanders, and fractals. Fractals are mathematical patterns that are scale invariant. This means that the shape of the pattern does not depend on how closely you look at it. Self-similarity is found in fractals. Examples of natural fractals are coast lines and tree shapes, which repeat their shape regardless of what magnification you view at. While self-similar patterns can appear indefinitely complex, the rules needed to describe or produce their formation can be simple (e.g. Lindenmayer systems describing tree shapes).
 In pattern theory, devised by Ulf Grenander, mathematicians attempt to describe the world in terms of patterns. The goal is to lay out the world in a more computationally friendly manner.
 In the broadest sense, any regularity that can be explained by a scientific theory is a pattern. As in mathematics, science can be taught as a set of patterns.
 
-From <https://en.wikipedia.org/wiki/Pattern>
+分形
+
+一些数学规则模式可以可视化，其中包括解释自然模式的那些模式包括对称、波浪、曲流和分形的数学。分形是比例不变的数学模式。这意味着图案的形状不取决于你看得有多近。自我相似性在分形中被发现。自然分形的例子是海岸线和树的形状，它们重复它们的形状，而不管你以什么样的放大率观看。虽然自相似模式可能会无限复杂，但描述或产生其形成所需的规则可能很简单（例如Lindenmayer系统描述树形状）。
+
+在ulf grenander设计的模式理论中，数学家试图用模式来描述世界。目标是以一种更便于计算的方式来布局世界。
+
+从广义上讲，任何可以用科学理论解释的规律性都是一种模式。在数学中，科学可以作为一套模式来教授。
+
+--
+分形
+一些数学规则模式可以被可视化，其中包括解释自然模式的那些，包括对称性数学，波浪，曲折和分形。分形是数学模式，是规模不变的。这意味着图案的形状不取决于您对它的看法。在分形中发现自相似性。天然分形的例子是海岸线和树形，无论你看到什么样的放大倍数，都会重复它们的形状。虽然自相似模式可能看起来无限复杂，但描述或生成其形成所需的规则可以很简单（例如，描述树形状的Lindenmayer系统）。
+在模式理论中，由Ulf Grenander设计，数学家试图用模式来描述世界。目标是以更加计算友好的方式布置世界。
+从最广泛的意义上讲，任何可以用科学理论解释的规律性都是一种模式。与数学一样，科学可以作为一组模式来教授。
