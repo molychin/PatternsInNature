@@ -63,7 +63,7 @@ All things flow, following paths of least resistance. Flow can be seen in water,
 
 Branching is an obvious form of patterning in the plant world, but it can also be seen in geological formations such as river deltas and certain crystalline formations.
 
-![](res/afghanistan_s.jpg)
+![](res/afghanistan_s.jpg)  
 
 #### 分枝模式
 分枝在植物界是一种最常见的图案形式，但也可以在诸如河流三角洲和某些结晶形态中看到。
