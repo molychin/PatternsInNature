@@ -5,4 +5,4 @@ Pattern in Nature Author：Philip Ball
 @author: molychin@qq.com
 ```
 
-自然模式：分形
+自然模式：分形概念

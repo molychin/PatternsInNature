@@ -5,4 +5,4 @@ Pattern in Nature Author：Philip Ball
 @author: molychin@qq.com
 ```
 
-自然模式：
+自然模式：树的形态仿真
