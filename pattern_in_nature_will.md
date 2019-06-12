@@ -15,31 +15,42 @@ These basic principles are elaborated in many different ways in different specie
 这并不奇怪，他们观察到气泡层的一些“规则”，形成一个大致六边形的排列，其中边缘以120的距离连接在三个。
 这些基本原理在不同物种中以许多不同的方式阐述。像这样的放射虫通常大约0.1到0.2毫米宽。
 
+--
+海洋的微观蜂窝组织
+放射虫的复杂穿孔外骨骼就像“冷冻泡沫”：它们是通过在结构沉积时暂时形成的泡状囊泡之间的连接处的硬矿物结晶而制成的。
+因此，他们观察到气泡层的一些“规则”，形成一个大致六边形的排列，其中边缘以大约120°的角度连接成三个，这就不足为奇了。
+这些基本原则在不同物种中以许多不同的方式阐述。 像这样的放射虫通常宽约0.1-0.2mm。
 
 MAKING USE OF BUBBLES
 Bubbles and foams are put to use in nature. Here the common purple snail (Janthina janthina) hangs onto the surface of the sea from a buoyant raft made of bubbles coated with mucus. This enables the snail to feed on small creatures that live at the water’s surface.
 利用泡沫
 气泡和泡沫在自然界中被使用。在这里，普通的紫色蜗牛（JANTYNA JANTINA）悬挂在海面上，由一个浮力筏制成，上面覆盖着粘液的气泡。这使得蜗牛可以吃生活在水面上的小生物。
 
-
+--
+使用泡沫
+泡沫和泡沫在自然界中使用。 在这里，常见的紫色蜗牛（Janthina janthina）悬挂在海面上，浮筏由涂有粘液的气泡组成。 这使蜗牛能够以生活在水面上的小生物为食。
 
 STRUCTURAL COLOR
-Tiny parallel ridges on the surfaces of the scales of butterfly wings cause interference in the reflected light that picks out certain colors—in
-other words, some of these colors (particularly the iridescent blues and greens) are made not by light-absorbing pigments but by light-scattering structural patterns.
-However, even closer inspection of the wing scales of some butterfly species shows a still finer and more intricate structure, as we will see
-on the next page.
+Tiny parallel ridges on the surfaces of the scales of butterfly wings cause interference in the reflected light that picks out certain colors—in other words, some of these colors (particularly the iridescent blues and greens) are made not by light-absorbing pigments but by light-scattering structural patterns.
+However, even closer inspection of the wing scales of some butterfly species shows a still finer and more intricate structure, as we will see on the next page.
 结构色彩
 蝴蝶翅膀鳞片表面的微小平行脊会在反射光中干扰，从而吸收某些颜色。
 换句话说，这些颜色中的一些（特别是虹彩蓝调和绿色）不是由光吸收颜料而是由光散射结构图案制成。
 然而，对一些蝴蝶种类的翅膀鳞片的更仔细的检查显示出一个更精细和更复杂的结构，正如我们将在下一页看到的。
 
+--
+结构颜色
+蝴蝶翅膀鳞片表面上的微小平行脊会对反射光产生干扰，从而剔除某些颜色 - 换句话说，这些颜色中的一些（特别是彩虹色的蓝色和绿色）不是由吸光颜料制成的，而是由 光散射结构模式。
+然而，正如我们将在下一页看到的那样，即使仔细观察一些蝴蝶物种的翅膀鳞片，也会显示出更精细，更复杂的结构。
 
 BUTTERFLY FOAM
 These cross-sections of the wing scales of the green hairstreak butterfly (Callophrys rubi) show that the fabric, made from the glucose-based material chitin, is perforated with an ordered, threedimensional labyrinth of channels that has the same structure as a mathematical “periodic minimal surface” known as a gyroid. It is thought to be formed on a foamlike template made of soft membrane. The structure is strong and lightweight, but its key function is to cause interference of the reflected light rays so as to make the wing scales appear green.
 蝶形泡沫
 这些绿鳞蝶（Callophrys rubi）翅鳞片的横截面表明，由基于葡萄糖的材料甲壳素制成的织物被穿孔，其具有与数学“周期最小冲浪相同的结构”的有序的三维迷宫。“被称为陀螺状”。它被认为是在由软薄膜制成的泡沫状模板上形成的。结构坚固，重量轻，但其主要作用是引起反射光线的干涉，使机翼鳞片呈现绿色。
 
-
+--
+BUTTERFLY FOAM
+绿色hairstreak蝴蝶（Callophrys rubi）的翅膀鳞片的这些横截面显示，由葡萄糖基材料几丁质制成的织物穿孔有有序的三维迷宫通道，其具有与数学相同的结构“ 周期性最小表面“称为陀螺仪。 它被认为是在由软膜制成的泡沫状模板上形成的。 结构坚固轻巧，但其关键功能是引起反射光线的干扰，使机翼鳞片显得绿色。
 
 
 MINERAL MESH
@@ -47,20 +58,24 @@ The filigree porous skeletons of sponges, such as this Venus’s flower basket, 
 矿物筛网
 海绵的丝状多孔骨架，如维纳斯的花篮，是由棘状或类似于玻璃状物质的“针状物”编织而成的。
 
-
+矿物网
+海绵的金银丝多孔骨架，例如这个维纳斯的花篮，是由编织在一起的玻璃状材料的刺或“针状”制成的。
 
 SEA SCULPTURES
 Many marine organisms, including coccolithophores (1), diatoms (2 and 4), and dinoflagelletes (3), have hard exoskeleton shells that are delicately patterned, often with a porous, foamlike appearance. While it seems likely that they, too, are created by the deposition of a hard mineral on a template of soft organic material, the details of this process are in many cases not fully understood.
 海雕
 许多海洋生物，包括颗石藻（1）、硅藻（2和4）和甲藻（3），具有坚硬的外骨骼壳，它们被精细地图案化，通常具有多孔的、泡沫状的外观。虽然它们也可能是由硬矿物在软有机材料模板上沉积而形成的，但在许多情况下，这种过程的细节还没有完全理解。
 
+海雕塑
+许多海洋生物，包括球藻生物（1），硅藻（2和4）和dinoflagelletes（3），都有坚硬的外骨骼壳，这些外壳是精美的图案，通常具有多孔的泡沫状外观。 虽然它们似乎也可能是通过在软质有机材料模板上沉积硬质矿物而产生的，但在许多情况下，这一过程的细节尚未完全了解。
 
 KEEP YOUR DISTANCE
 The sea urchin Cidaris rugosa defends itself with an armor cladding of spines, made from hard calcium carbonate patterned with intricate textures. This patterning continues down to the microscopic scale,where the mineral turns out to have the ordered, porous structure shown below.
 保持距离
 海胆Cidaris rugosa用盔甲包裹自己，由坚硬的碳酸钙制成，纹理复杂。这种图样继续向下延伸到微观尺度，其中矿物呈现出有序的多孔结构，如下所示。
 
-
+保持距离
+海胆Cidaris rugosa以铠甲包裹的方式自我保护，由硬质碳酸钙制成，图案复杂。 这种图案继续下降到微观尺度，其中矿物质具有如下所示的有序多孔结构。
 
 
 BUBBLE VISION
@@ -68,7 +83,8 @@ The compound eyes of insects are packed hexagonally, just like the bubbles of a 
 气泡视觉
 昆虫的复眼被包装成六角形，就像泡筏的气泡一样，事实上，每个小面都是一个透镜，连接在下面的一个又长又薄的视网膜细胞上。由生物细胞团形成的结构通常具有由与泡沫和气泡筏相同的规则所支配的形式，例如，只有三个细胞壁在任何顶点相遇。苍蝇眼的微观结构超出了这里所能看到的，这是最好的例子之一。每个小面都包含一组四个感光细胞，它们的形状与四个普通气泡的形状相同。
 
-
+气泡视觉
+昆虫的复眼是六角形的，就像泡泡筏的气泡一样 - 尽管事实上，每个刻面都是一个连接到下方细长视网膜细胞的镜片。 由生物细胞簇形成的结构通常具有与泡沫和泡沫筏大致相同的规则 - 例如，在任何顶点处仅有三个细胞壁相遇。 苍蝇眼睛的微观结构 - 超出了这里可见的 - 提供了一个最好的例子。 每个小平面包含一组四个光敏单元，其形状与四个普通气泡的簇相同。
 
 
 
@@ -77,7 +93,8 @@ When water sits on a water-repellent surface, it may break up into droplets. The
 形成液滴
 当水在防水表面上时，它可能分解成液滴。这些液滴的形状受表面张力的支配，表面张力将它们拉成大致球形的形状，以及重力（这将使水平表面上的液滴变平）和作用在水和下表面之间的力。如果后一种作用力足够强，液滴就会被拉成透镜状的煎饼。如果表面没有强烈的防水性，水滴可能会扩散到平坦光滑的薄膜中。
 
-
+塑造一个水滴
+当水位于防水表面时，它可能会分解成水滴。 这些液滴的形状由表面张力控制，表面张力将它们拉成大致球形，以及通过重力（这将使液滴在水平表面上变平）以及在水和下面的表面之间起作用的力。 如果后者的力足够强，则将液滴拉成透镜状薄饼。 如果表面不具有强防水性，则液滴可能会扩散成平坦，光滑的薄膜。
 
 
 7 ARRAYS & TILINGS
@@ -85,12 +102,16 @@ Why crystals aren’t fve-sided—and how to make impossible ones that are
 阵列与倾斜
 为什么晶体不是边缘的，如何制造不可能的
 
+7种阵列和平铺
+为什么水晶不是十分平衡 - 以及如何制造不可能的水晶
 
 Some early philosophers suspected that the world was, at root, geometric:
 built by God according to simple mathematical rules. It was an understandable assumption if you think about crystals—the very stuff of the earth—with their orderly, faceted shapes. Miners and explorers of underground caverns could find themselves in a geometric universe, where all around nature was organized into glittering mathematical perfection. Wasn’t this evidence of nature’s fundamental order imprinting itself on matter?
 一些早期哲学家怀疑这个世界是根深蒂固的几何：
 由上帝根据简单的数学规则建造的。这是一个可以理解的假设，如果你认为水晶是地球上非常有序的、有刻面的形状的东西。地下洞窟的矿工和探险家们可以发现自己处于一个几何的宇宙中，周围的自然界被组织成闪闪发光的数学完美。这难道不是自然界的基本秩序在物质上烙印的证据吗？
 
+一些早期的哲学家怀疑世界是从根本上说是几何的：
+由上帝按照简单的数学规则建造。 如果你想到水晶 - 地球上的东西 - 它们有序，刻面的形状，这是一个可以理解的假设。 地下洞穴的矿工和探险家可以发现自己处于一个几何宇宙中，在这里，大自然周围的一切都被组织成闪闪发光的数学完美。 难道这不是自然界基本秩序的证据吗？
 
 CRYSTAL TAPESTRY
 Crystals of magnesium chloride, seen under polarized light.
@@ -100,10 +121,15 @@ Crystals of magnesium chloride, seen under polarized light.
 In the early seventeenth century, German astronomer Johannes Kepler wondered if there was a more tangible reason than God’s will for the shapes of crystals. In particular, he asked why snowflakes always have six points. He knew that if cannonballs are stacked compactly together, each ball is surrounded by six others at the corners of a hexagon. Might the sixfold symmetry of the icy snowflake come from the stacking of “globules” of frozen water?
 十七世纪初，德国天文学家开普勒想知道是否有比水晶意志更真实的原因。特别是，他问雪花为什么总是有六点。他知道如果炮弹紧紧地堆积在一起，每个球在六边形的角上被六个球包围。冰雪的六重对称性是否来自冰冻水的“小球”堆积？
 
+在十七世纪早期，德国天文学家约翰内斯·开普勒想知道是否有一个比上帝对水晶形状的意志更为切实的理由。 特别是，他问为什么雪花总是有六分。 他知道如果炮弹紧密地堆叠在一起，每个球在六角形的角落处被六个其他球包围。 冰冷的雪花的六重对称性可能来自冷冻水“小球”的堆积？
+
 Kepler never got to the bottom of the snowflake problem—that took another four centuries. But his intuition about the cause of crystals’ regularity was right. The eighteenth century French priest and botanist René Just Haüy figured that crystal shapes are indeed dictated by the arrangements of their atoms. In his book on mineralogy in 1801—the founding text of the science of crystallography—Haüy showed how atom-stacking produces facets rather like the triangular faces of an ancient stepped pyramid.
 Because of this atomic-scale structure, the shapes of crystals often echo those of the smallest repeating cluster of atoms in the crystal lattice. For ordinary rock salt (sodium chloride) this cluster is cube-shaped, and so are the crystals—as you can see by looking at table salt under a microscope.
 开普勒从来没有到达雪花问题的底部，又花了四个世纪。但是他对晶体规律性原因的直觉是正确的。十八世纪的法国牧师和植物学家仁埃尔只是哈伊认为晶体的形状确实是由原子的排列决定的。在他的1801年的矿物学著作《晶体学》的创刊中，Huy展示了原子堆积是如何产生面的，就像古阶梯金字塔的三角面一样。
 由于这种原子尺度结构，晶体的形状常常与晶格中最小的原子簇重复。对于普通岩盐（氯化钠），这个簇是立方体形状的，晶体也可以通过显微镜下观察食盐来观察。
+
+开普勒从来没有深入到雪花问题的底层 - 这又花了四个世纪。 但他对水晶规律性原因的直觉是正确的。 十八世纪的法国牧师和植物学家RenéJustHaüy认为水晶形状确实取决于它们原子的排列。 在他1801年的矿物学着作中 - 结晶学科学的创始文本 - Haüy展示了原子堆叠如何产生小平面，而不是像古代阶梯金字塔的三角形面。
+由于这种原子级结构，晶体的形状经常与晶格中最小的重复原子簇的形状相呼应。 对于普通的岩盐（氯化钠），这个簇是立方体形状，晶体也是如此 - 正如你在显微镜下观察食盐所看到的那样。
 
 Calcite, a mineral form of the compound calcium carbonate, has rhombus-shaped facets because that, too, is how the atomic building blocks
 are arranged. These crystal shapes, or so-called “habits,” of minerals are diverse and beautiful, but all in some way bear the imprint, at scales we can see and touch, of the arrangements of the atoms that constitute them.
@@ -111,21 +137,33 @@ These crystal structures can be classified by their symmetry properties, just li
 方解石是复合碳酸钙的一种矿物形式，具有菱形晶面，因为这也是原子块的排列方式。这些晶体的形状，或者所谓的“习惯”矿物是多样的和美丽的，但在某种程度上，它们承载着我们能看见和触摸的组成原子的排列的印记。
 这些晶体结构可以根据它们的对称性质来分类，就像我们在第一章中看到的那样，它们是否可以被旋转或反射，比如说，使它们的外观不变。排列物体的方式只有固定的数量，所以它们会以完美的排列一次又一次地重复。这些不同的重复模式被称为一组，因为它有一组相关联的对称操作。
 
-In two dimensions, for example, we can pack together squares, hexagons, and equilateral triangles this way into “tiling” patterns. If the tiles
-are not regular polygons of this sort—if they are rectangles, say, like the arrangement of bricks in a wall—then there are other tiling groups, too.
+方解石是一种矿物形式的复合碳酸钙，具有菱形小平面，因为它也是原子结构的方式
+安排。 这些水晶形状，或所谓的“习性”，矿物质多样而美丽，但在某种程度上，它们在我们可以看到和触摸的尺度上承载构成它们的原子排列的印记。
+这些晶体结构可以根据它们的对称性进行分类，就像我们在第1章中看到的形式一样 - 它们是否可以旋转或反射，比如保持其外观不变。 只有固定数量的方法来排列对象，以便它们以完美的阵列一次又一次地重复。 这些不同的重复模式中的每一个被称为组，因为它具有相关的对称操作组。
+
+In two dimensions, for example, we can pack together squares, hexagons, and equilateral triangles this way into “tiling” patterns. If the tiles are not regular polygons of this sort—if they are rectangles, say, like the arrangement of bricks in a wall—then there are other tiling groups, too.
 There are precisely 17 of these two-dimensional “wallpaper” groups, many of which have been used in decorative schemes for walls and floors by various cultures since ancient times.
 Crystals are made by stacking atoms in three dimensions. In this case, there are 230 symmetry groups (called space groups): 230 different ways of arranging objects into regular 3-D arrays. All crystals must belong to one of these groups—otherwise they couldn’t be true crystals, because they wouldn’t be made up of elements whose arrangement repeats again and again. (As we’ll see, though, this depends on how you want to define a crystal.)
 例如，在两个维度中，我们可以将正方形、六边形和等边三角形以这种方式打包成“平铺”图案。如果砖块不是矩形的，如果它们是矩形，比如墙中砖的排列，那么也有其他瓷砖组。
 有17个这样的二维“壁纸”群体，其中许多已经被用来装饰墙壁和地板的各种文化自古以来。
 晶体是由原子在三个维度上堆积而成的。在这种情况下，有230个对称群（称为空间群）：将对象排列成规则的3-D阵列的230种不同方式。所有晶体都必须属于这些基团中的一个，否则它们不可能是真正的晶体，因为它们不会由排列重复的元素构成。（正如我们将看到的，这取决于你想要如何定义一个水晶。）
 
+例如，在二维中，我们可以将正方形，六边形和等边三角形组合在一起形成“平铺”图案。 如果瓷砖不是这种类型的正多边形 - 如果它们是矩形，比如墙壁中砖块的排列 - 那么也有其他的拼贴组。
+这些二维“壁纸”组中恰好有17个，其中许多自古以来就被用于各种文化的墙壁和地板的装饰方案中。
+通过三维堆叠原子制造晶体。 在这种情况下，有230个对称组（称为空间组）：230种不同的方式将对象排列成常规的3-D数组。 所有晶体必须属于这些晶体中的一种 - 否则它们不能是真正的晶体，因为它们不会由排列重复的元素组成。 （正如我们所看到的，这取决于你想要如何定义水晶。）
+
 The simplest crystals, such as metals, are made of identical atoms. Since all the atoms are the same size, they can be efficiently packed together into hexagonal arrays, like the cannonball piles noted by Kepler. This is the densest possible way to stack spheres—a fact proved only in 1994—and it is called hexagonal close-packing. It has only about 25 percent empty space between the spheres. Some metals, such as iron, chromium, and tungsten, instead adopt a so-called “bodycentered cubic lattice”, in which the repeating unit consists of eight atoms at the corners of a cube and one in the middle. For cannonballlike spheres, this has 32 percent empty space. In diamonds,carbon atoms are packed into repeating patterns of eight atoms, again with a cubic shape, which for spheres leaves as much as 66 percent of the space empty. For crystals containing several or many different types of atoms, the atomic-scale structures can get pretty complicated, but the repeating patterns still have to correspond to one of the 230 space groups.
 最简单的晶体，如金属，是由相同的原子构成的。因为所有的原子都是相同的大小，所以它们可以被有效地包装成六角形的阵列，就像开普勒所指出的炮弹堆一样。这是堆积球体的最密集的方法——事实证明只有在1994，它被称为六边形密堆积。球体之间只有约25%的空隙。一些金属，如铁、铬和钨，则采用所谓的“体心立方晶格”，其中重复单元由立方体的角上的八个原子和中间的一个组成。对于炮弹状的球体，它有32%个空的空间。在钻石中，碳原子被包装成八个原子的重复图案，再次呈立方形状，其中球体留下的空隙多达66%。对于含有多种或多种不同类型原子的晶体，原子尺度结构可能变得相当复杂，但重复的模式仍然必须对应于230个空间群中的一个。
+
+最简单的晶体，如金属，由相同的原子组成。由于所有原子都是相同的大小，它们可以有效地组装成六边形阵列，就像开普勒所记录的炮弹桩一样。这是堆积球体的最密集的方式 - 事实证明仅在1994年 - 它被称为六边形密堆积。它在球体之间只有大约25％的空隙。一些金属，例如铁，铬和钨，取而代之的是所谓的“体心立方晶格”，其中重复单元由立方体的角上的八个原子和中间的一个原子组成。对于cannonballlike球体，这有32％的空间。在钻石中，碳原子被填充成八个原子的重复图案，同样具有立方体形状，对于球体，空间留下多达66％的空间。对于包含几种或许多不同类型原子的晶体，原子级结构可能变得相当复杂，但重复模式仍然必须对应于230个空间组中的一个。
+
 The interference between X-rays bouncing off regular arrays of atoms and molecules produces a pattern of bright spots in the scattered beam from which the positions of the atoms can be deduced. This technique, called X-ray crystallography, was first used in the early twentieth century to deduce the crystal structures of simple minerals, but from the middle of the century it began to reveal the atomic structures of complex biological molecules such as proteins, enabling scientists to understand how life works at the molecular scale. In 1953 X-ray crystallography was used to study the crystals formed by DNA, and thereby to show that this vital biomolecule has its famous double-helix structure.
 When a crystal melts to a liquid, it loses its atomic-scale order; there is no longer any regularly repeating array. However, some substances can melt in one direction while remaining ordered in others. In particular, some long, rod-shaped molecules may form liquids that flow, even though the molecules stay lined up roughly parallel to each other, a little like logs floating on a river. These are liquid crystals. In some liquid crystals the aligned molecules stack up in regularly spaced layers even though, within a given layer,the molecules move around and jostle like people in a crowd. The alignment of molecules in liquid crystals can make them scatter polarized light into spectacular patterns, from which it is possible to deduce something about the molecular order that the liquid crystal contains.
 X射线在原子和分子的规则阵列上的碰撞产生散射光束中的亮点，由此可以推断出原子的位置。这种技术被称为X射线晶体学，最早在二十世纪初被用来推断简单矿物的晶体结构，但从本世纪中期开始，它揭示了诸如蛋白质等复杂生物分子的原子结构，从而使科学家们得以研究。坚持生命如何在分子尺度上运转。在1953，X射线晶体学被用来研究由DNA形成的晶体，从而表明这个重要的生物分子具有其著名的双螺旋结构。
 当晶体熔化成液体时，它失去了原子级的顺序，不再有规则的重复排列。然而，一些物质可以在一个方向上熔化，而其余的则是有序的。特别是，一些长而杆状的分子可以形成流动的液体，即使分子大致平行地排列在一起，有点像漂浮在河上的原木。这些是液晶。在一些液晶中，排列的分子堆积在规则间隔的层中，即使在给定的层内，分子像一群人一样在周围移动和挤挤。液晶分子的排列可以使偏振光散射成壮观的图案，由此可以推断出液晶分子的分子有序性。
 
+X射线在规则的原子阵列和分子之间反射之间的干涉在散射光束中产生亮点图案，从中可以推导出原子的位置。这种称为X射线晶体学的技术最早在二十世纪初用于推断简单矿物的晶体结构，但从本世纪中叶开始，它开始揭示复杂生物分子如蛋白质的原子结构，使科学家们能够了解生活如何在分子尺度上发挥作用。 1953年，X射线晶体学用于研究由DNA形成的晶体，从而表明这种重要的生物分子具有其着名的双螺旋结构。
+当晶体熔化成液体时，它会失去原子级的顺序;不再有任何规则重复阵列。但是，某些物质可以在一个方向上熔化，而在另一个方向上保持有序特别是，一些长的棒状分子可能形成流动的液体，即使分子保持大致彼此平行排列，有点像漂浮在河上的原木。这些是液晶。在一些液晶中，对齐的分子以规则间隔的层堆叠，即使在给定的层内，分子像人群中的人一样四处移动和挤压。液晶中分子的排列可以使它们将偏振光散射成壮观的图案，从中可以推断出液晶所含的分子顺序。
 
 1 GROWING ICE
 Ice crystals, like these on a window in winter, can grow into beautiful and complex branched shapes in a process called dendritic growth. The same process creates the shape of snowflakes.
@@ -140,6 +178,9 @@ This reflects the hexagonal arrangement of water molecules in the ice crystal, t
 这反映了冰晶中的水分子的六边形排列，转化为一个可以用肉眼看到的尺度，但也通过薄片的生长过程阐述了奇异的模式。
 矿物景观
 
+2 STAR QUALITY
+雪花呈六倍（六角形）对称。
+这反映了冰晶中水分子的六边形排列，转化为可以用肉眼看到（仅）的尺度 - 但也通过薄片的生长过程细化成奇异的图案。
 
 MINERAL LANDSCAPES
 Crystals may form complex structures and patterns over many different size scales, from the atomic level up, as seen in this sample of the mineral sphalerite (zinc sulfide).
@@ -149,20 +190,31 @@ Crystals may form complex structures and patterns over many different size scale
 The law of tiling, and how to break it The patterns of crystalline lattices are governed by strict geometrical rules that “forbid” certain types of symmetry. For the 17 two-dimensional tiling patterns, for example, the tiles can have the same symmetry as squares, rectangles, hexagons,rhombi, or triangles. You can rotate the pattern symmetrically by half a full revolution (for rhombic or rectangular tiles), or a quarter, a third, or a sixth—but not a fifth. There are no tile shapes that can be fitted together perfectly, with no gaps,to create a tiling lattice with fivefold symmetry:
 瓷砖的规律，以及如何打破它的晶体晶格的模式是严格的几何规则，“禁止”某些类型的对称性。对于17个二维拼接图案，例如，瓦片可以具有与正方形、矩形、六边形、菱形或三角形相同的对称性。你可以通过半个完整的旋转（菱形或矩形瓦片），或四分之一，第三，第六，而不是第五的方式对称地旋转图案。没有瓷砖形状可以完美地配合在一起，没有缝隙，形成一个五重对称的瓷砖格子：
 
+平铺定律以及如何破坏平纹定律晶格的模式受严格的几何规则控制，即“禁止”某些类型的对称性。 例如，对于17个二维平铺图案，平铺可以具有与正方形，矩形，六边形，菱形或三角形相同的对称性。 您可以将图案对称地旋转半整圈（对于菱形或矩形瓦片），或四分之一，三分之一或六分之一但不是五分之一。 没有瓦片形状可以完美地装配在一起，没有间隙，以创建具有五重对称性的平铺点阵：
+
 you can’t tile pentagons perfectly. The same is true for all tiles with more than sixfold symmetry (sevenfold, eightfold, and so on). This applies to 3-D space groups, too: you can’t make an orderly framework in three dimensions from units with fivefold symmetry. This might seem unfair on the pentagon, but it’s just a fact of basic geometry.
 At least, so we thought until three decades ago, when a material that seemed to be crystalline was found to have one of these “forbidden” symmetries. In 1984, researchers working in the USA discovered an alloy of aluminum and the metal manganese that, according to X-ray crystallography, seemed to have tenfold crystal symmetry: X-rays bounced off this material to produce rings of ten equally spaced spots. That seemed to imply a crystal lattice with tenfold (or fivefold) symmetry, which was impossible according to the laws of geometry. What was going on?
 你不能完美地瓦解五边形。对于具有六倍对称性的所有瓦片（七倍，八倍，等等）也是如此。这也适用于3-D空间组：你不能在三个维度上从五重对称的单元中形成有序的框架。这在五角大楼看来是不公平的，但这只是一个基本几何学的事实。
 至少，我们认为，直到三年前，当一个似乎是晶体的材料被发现有一个“禁止”对称。1984，在美国工作的研究人员发现了一种铝和金属锰的合金，根据X射线晶体学，它们似乎具有十倍的晶体对称性：X射线从这一材料反弹出来，产生十个等间距的斑点。这似乎意味着一个具有十倍（或五倍）对称性的晶格，这是不可能的几何定律。发生了什么事？
+
+你不能完美地平铺五边形。 对于具有六倍以上对称性（七倍，八倍等）的所有瓷砖也是如此。 这也适用于三维空间群：您不能从具有五重对称性的单位在三维空间中构建有序框架。 这对五角大楼来说似乎不公平，但这只是基本几何的一个事实。
+至少，所以我们想到三十年前，当一种似乎是结晶的材料被发现具有这些“禁止”的对称性之一。 1984年，在美国工作的研究人员发现了一种铝和金属锰的合金，根据X射线晶体学，它看起来有十倍的晶体对称性：X射线从这种材料上弹回来产生十个等距斑点的环。 这似乎意味着具有十倍（或五倍）对称性的晶格，根据几何定律这是不可能的。 发生了什么事？
 
 This material was the first so-called “quasicrystal.” Over the following decade or so, scientists realized that it is possible to organize atoms into patterns with fivefold (and eightfold, tenfold, and twelvefold) symmetry that don’t quite repeat exactly, as crystals were known to do.
 These patterns look at a casual glance as though they are pentagonlike lattices, but every so often the pattern slips, so that it is never possible to rotate or move it in a way that superimposes it exactly on itself. Despite this lack of perfect regularity and order, the pattern (when built from atoms) is orderly enough to produce bright spots in the reflected X-rays. The International Union of Crystallography has, in fact, now broadened the very definition of a crystal so that it can include quasicrystals.
 这种材料是第一个所谓的“准晶”。在接下来的十年左右，科学家们认识到，有可能把原子组织成五倍（和八倍、十倍、十二倍）对称的图案，它们不象晶体一样被精确地重复。
 这些模式看起来是偶然的一瞥，好像它们是五边形的格，但是图案经常滑动，所以它永远不可能旋转或移动它，使它完全叠加在自己身上。尽管缺乏完美的规律性和有序性，图案（当由原子构建时）是有序的，足以在反射的X射线中产生亮点。事实上，国际晶体学联合会扩大了对晶体的定义，使它可以包括准晶。
 
+这种材料是第一个所谓的“准晶体”。在接下来的十年左右，科学家们意识到有可能将原子组织成具有五重（和八倍，十倍，十二倍）对称性的模式，这些模式并不完全重复， 正如晶体所知。
+这些图案看起来随意一瞥，好像它们是五边形的格子，但每隔一段时间，图案就会滑动，因此永远不可能以一种将其完全叠加在自身上的方式旋转或移动它。 尽管缺乏完美的规律性和有序性，但是模式（当从原子构建时）有序地足以在反射的X射线中产生亮点。 事实上，国际晶体学联合会现在扩大了晶体的定义，使其可以包括准晶体。
+
 The easiest way to understand quasicrystal patterns is again to think of tilings in two dimensions, although the actual crystals are threedimensional. You can’t tile pentagons, but in the 1970s the mathematical physicist Roger Penrose discovered a set of two rhombus-shaped tiles that can be fitted together without gaps to create a lattice filled with fivefold symmetric shapes:
 five-pointed stars and decagons, for example.
 了解准晶体模式最简单的方法是重新考虑两个维度的倾斜，尽管实际晶体是三维的。你不能瓦解五边形，但在20世纪70年代，数学物理学家罗杰·彭罗斯发现了一组两个菱形瓦片，它们可以在没有间隙的情况下装配在一起，形成一个充满五重对称形状的格子：
 例如，五尖星和十面格。
+
+理解准晶体图案的最简单方法是再次考虑二维倾斜，尽管实际的晶体是三维的。 你不能平铺五边形，但在20世纪70年代，数学物理学家罗杰彭罗斯发现了一组两个菱形瓦片，它们可以无间隙地装配在一起，形成一个充满五重对称形状的格子：
+例如，五角星和十边形。
 
 This tiling never quite repeats its pattern exactly, but if it is built up while applying a few simple rules about which tile can lie next to which, it can be extended forever. If you imagine putting an atom at the corner of each tile (or the equivalent rhomboids in three dimensions), you end up with an array that appears to be very much like the atomic lattice of a quasicrystal.
 Such patterns, which seem to bend the rules of geometry, were already known to Islamic artists hundreds of years ago, who explored them in complex designs and mosaic tilings. Both because of religious restrictions on depictions of the natural world and because Islamic philosophers were deeply interested in mathematics, these tiling patterns were developed into a highly sophisticated art that can be found decorating shrines, mosques, and palaces throughout the Islamic world. One design on the Darb-i-Imam shrine in Isfahan, Iran, made in 1453, is almost identical to a Penrose tiling, with its mesmeric, never-quite-repeating pattern. The tiling patterns were constructed from conceptual building blocks called girih according to strict assembly rules similar (but not identical) to those used to make Penrose tilings.

@@ -91,55 +91,38 @@ Cracks form in materials to relieve stress: with 120 degree joints in elastic m
 |![](res/001/31a80a41.jpg)|
 |:---:|
 |干裂的土地|
+|![](res/001/timg.jpg)|
+|陶瓷釉面开片|
 
+#### Spots, stripes
+Alan Turing,and later the mathematical biologist James D. Murray and other scientists, described a mechanism that spontaneously creates spotted or striped patterns, for example in the skin of mammals or the plumage of birds: a reaction-diffusion system involving two counter-acting chemical mechanisms, one that activates and one that inhibits a development, such as of dark pigment in the skin. These spatiotemporal patterns slowly drift, the animals' appearance changing imperceptibly as Turing predicted.
 
-Spots, stripes
+#### 斑点，条纹
+Alan Turing，以及后来数学生物学家James D.Murray和其他科学家描述了一种自发产生斑点或条纹图案的机制，例如在哺乳动物的皮肤或鸟类的羽毛中：一种包含两种反作用化学物质的反应-扩散系统。反作用化学机制，一种激活和抑制发育的机制，如皮肤中的黑色色素。这些时空模式缓慢漂移，动物的外观如图灵所预测的那样在不知不觉中发生变化（可参见“细胞自动机”）。
 
-Giant pufferfish skin
-Alan Turing,[16] and later the mathematical biologist James D. Murray and other scientists, described a mechanism that spontaneously creates spotted or striped patterns, for example in the skin of mammals or the plumage of birds: a reaction-diffusion system involving two counter-acting chemical mechanisms, one that activates and one that inhibits a development, such as of dark pigment in the skin. These spatiotemporal patterns slowly drift, the animals' appearance changing imperceptibly as Turing predicted.
+|![](res/001/Tetraodon_mbu_2.jpg)|
+|:---:|
+|河豚的斑纹|
 
-斑点，条纹
-巨型河豚鱼皮
-Alan Turing[16]后来数学生物学家James D.Murray和其他科学家描述了一种自发产生斑点或条纹图案的机制，例如在哺乳动物的皮肤或鸟类的羽毛中：一种包含两种反作用化学物质的反应-扩散系统。l机制，一种激活和抑制发育的机制，如皮肤中的黑色色素。这些时空模式缓慢漂移，动物的外观如图灵所预测的那样在不知不觉中发生变化。
-
---
-斑点，条纹
-
-巨型河豚皮
-主要文章：模式形成
-Alan Turing，[16]以及后来的数学生物学家James D. Murray和其他科学家描述了一种自发产生斑点或条纹图案的机制，例如在哺乳动物的皮肤或鸟类的羽毛中：一种涉及两个的反应 - 扩散系统 反作用化学机制，一种激活，一种抑制发育，如皮肤中的暗色素。 这些时空模式慢慢漂移，动物的外观在图灵预测中不知不觉地变化。
-
-
-Tilings
+#### Tilings
 
 In visual art, pattern consists in regularity which in some way "organizes surfaces or structures in a consistent, regular manner." At its simplest, a pattern in art may be a geometric or other repeating shape in a painting, drawing, tapestry, ceramic tiling or carpet, but a pattern need not necessarily repeat exactly as long as it provides some form or organizing "skeleton" in the artwork. In mathematics, a tessellation is the tiling of a plane using one or more geometric shapes (which mathematicians call tiles), with no overlaps and no gaps.
 
-瓷砖
+#### 镶嵌拼装
+在视觉艺术中，图案是有规律的，在某种程度上“以一致、规则的方式组织表面或结构”。最简单的说，艺术中的图案可以是一幅油画、水彩、挂毯、瓷砖或地毯中的几何或其他重复形状，但只要图案提供某种形式或组织“骨架”，图案就不一定完全重复。在数学中，“镶嵌”是指使用一个或多个几何图形（数学家称之为“铺砖”）对平面进行平铺，没有重叠和间隙。
 
-在视觉艺术中，图案是有规律的，在某种程度上“以一致、规则的方式组织表面或结构”。最简单的说，艺术中的图案可以是一幅绘画绘画挂毯瓷砖或地毯中的几何或其他重复形状，但图案不必重复，只要它提供艺术作品中的某种形式或组织“骨架”。在数学中，“镶嵌”是指使用一个或多个几何图形（数学家称之为“瓷砖”）对平面进行平铺，没有重叠和间隙。
+#### In architecture
+In architecture, motifs are repeated in various ways to form patterns. Most simply, structures such as windows can be repeated horizontally and vertically (see leading picture). Architects can use and repeat decorative and structural elements such as columns, pediments, and lintels. Repetitions need not be identical; for example, temples in South India have a roughly pyramidal form, where elements of the pattern repeat in a fractal-like way at different sizes.
+
+#### 在建筑中
+在建筑中，装饰图案以各种方式重复以形成样式。最简单的是，像窗口这样的结构可以水平和垂直地重复（参见主图片）。建筑师可以使用和重复装饰和结构元素，如柱、山脚和过梁[21]重复不需要相同；例如，印度南部的寺庙有一个大致的金字塔形，图案元素以分形的方式以不同尺寸重复。
 
 --
-拼接
-在视觉艺术中，模式包含规律性，以某种方式“以一致，规则的方式组织表面或结构”。 最简单的是，艺术中的图案可以是绘画，绘画，挂毯，陶瓷瓷砖或地毯中的几何或其他重复形状，但只要图案提供某种形式或组织“骨架”，图案就不一定完全重复。 艺术品。 在数学中，曲面细分是使用一个或多个几何形状（数学家称为瓦片）平面的平铺，没有重叠且没有间隙。
-
-In architecture
-Patterns in architecture: the Virupaksha temple at Hampi has a fractal-like structure where the parts resemble the whole.
-Main articles: Pattern (architecture) and Mathematics and architecture
-In architecture, motifs are repeated in various ways to form patterns. Most simply, structures such as windows can be repeated horizontally and vertically (see leading picture). Architects can use and repeat decorative and structural elements such as columns, pediments, and lintels.[21] Repetitions need not be identical; for example, temples in South India have a roughly pyramidal form, where elements of the pattern repeat in a fractal-like way at different sizes.
-
 在建筑中
+在建筑中，图案以各种方式重复以形成图案。 最简单的是，窗户等结构可以水平和垂直重复（见前图）。 建筑师可以使用和重复装饰和结构元素，如柱子，山形墙和门楣。[21] 重复不必相同; 例如，印度南部的寺庙具有大致金字塔形状，其中图案的元素以不同尺寸的分形方式重复。
 
 建筑图案：汉普的Virupaksha神庙具有分形结构，各部分与整体相似。
-
-主要文章：模式（建筑学）和数学与建筑学
-
-在建筑中，图案以各种方式重复以形成图案。最简单的是，像窗口这样的结构可以水平和垂直地重复（参见主图片）。建筑师可以使用和重复装饰和结构元素，如柱、山脚和过梁[21]重复不需要相同；例如，印度南部的寺庙有一个大致的金字塔形，图案元素以分形的方式以不同尺寸重复。
-
---
-在建筑中
-建筑中的图案：亨比的Virupaksha寺有一个分形的结构，其中的部分类似于整体。
-主要文章：模式（建筑）和数学与建筑
-在建筑中，图案以各种方式重复以形成图案。 最简单的是，窗户等结构可以水平和垂直重复（见前图）。 建筑师可以使用和重复装饰和结构元素，如柱子，山形墙和门楣。[21] 重复不必相同; 例如，印度南部的寺庙具有大致金字塔形状，其中图案的元素以不同尺寸的分形方式重复。
+[插入东南亚、印度佛教宗教塔的建筑]
 
 Science and mathematics
 Fractal model of a fern illustrating self-similarity
