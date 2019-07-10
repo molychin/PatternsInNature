@@ -113,27 +113,109 @@ Bedau指出，弱出现并不是一种普遍的形而上学的解决方案，因
 However, "the debate about whether or not the whole can be predicted from the properties of the parts misses the point. Wholes produce unique combined effects, but many of these effects may be co-determined by the context and the interactions between the whole and its environment(s)" (Corning 2002). In accordance with his Synergism Hypothesis, (Corning 1983 2005) Corning also stated, "It is the synergistic effects produced by wholes that are the very cause of the evolution of complexity in nature." Novelist Arthur Koestler used the metaphor of Janus (a symbol of the unity underlying complements like open/shut, peace/war) to illustrate how the two perspectives (strong vs. weak orholistic vs. reductionistic) should be treated as non-exclusive, and should work together to address the issues of emergence.(Koestler 1969) Further,
 The ability to reduce everything to simple fundamental laws does not imply the ability to start from those laws and reconstruct the universe. The constructionist hypothesis breaks down when confronted with the twin difficulties of scale and complexity. At each level of complexity entirely new properties appear. Psychology is not applied biology, nor is biology applied chemistry. We can now see that the whole becomes not merely more, but very different from the sum of its parts.(Anderson 1972)
 The plausibility of strong emergence is questioned by some as contravening our usual understanding of physics. Mark A. Bedau observes:
+
+然而，“关于是否可以从零件的性质来预测整体的争论没有抓住要点。整体产生独特的组合效应，但其中许多效应可能是由环境和整体与其环境之间的相互作用共同决定的”（康宁，2002年）。根据他的协同假设，（康宁1983年，2005年），康宁还说，“正是整体产生的协同效应才是自然界复杂性进化的原因。”小说家亚瑟·考斯特勒使用了Janus（开放/封闭、和平/战争等互补的统一象征）的比喻来说明这两种观点（强与弱或整体与还原论）应被视为非排他性的，并应共同努力解决出现的问题。（Koestler，1969年）。
+
+把一切都简化为简单的基本定律的能力并不意味着有能力从这些定律出发，重建宇宙。建构主义假设在面临规模和复杂性的双重困难时被打破。在每一个复杂程度上，都会出现全新的属性。心理学不是应用生物学，生物学也不是应用化学。我们现在可以看到，整体不仅变得更多，而且与各部分的总和大不相同。
+
+强烈出现的可能性受到一些人的质疑，因为这与我们通常对物理学的理解相悖。Mark A.Bedau观察到：
+
+--
+然而，“关于是否可以从部件的属性预测整体的争论忽略了这一点。整体产生了独特的组合效应，但是这些效果中的许多可能是由上下文和整体之间的相互作用共同决定的。它的环境“（Corning 2002）。根据他的协同假设（Corning 1983 2005），康宁还指出，“整体产生的协同效应是导致自然复杂性演变的原因。”小说家亚瑟·凯斯特勒（Arthur Koestler）使用了Janus的隐喻（象征着开放/关闭，和平/战争等基础的统一性）来说明两种观点（强与弱or or与减少）应如何被视为非排他性的，应该共同努力解决出现问题。（Koestler 1969）此外，
+将一切都简化为简单基本定律的能力并不意味着从这些定律开始并重建宇宙的能力。当面对规模和复杂性的双重困难时，建构主义假设崩溃了。在每个复杂程度，都会出现新的属性。心理学不是应用生物学，也不是生物学应用化学。我们现在可以看到，整体变得不仅仅是更多，而且与其各部分的总和大不相同。（Anderson 1972）
+一些人质疑强烈出现的可信性违反了我们对物理学的通常理解。 Mark A. Bedau观察到：
+
 Although strong emergence is logically possible, it is uncomfortably like magic. How does an irreducible but supervenient downward causal power arise, since by definition it cannot be due to the aggregation of the micro-level potentialities? Such causal powers would be quite unlike anything within our scientific ken. This not only indicates how they will discomfort reasonable forms of materialism. Their mysteriousness will only heighten the traditional worry that emergence entails illegitimately getting something from nothing.
 Strong emergence can be criticized for being causally overdetermined. The canonical example concerns emergent mental states (M and M∗) that supervene on physical states (P and P∗) respectively. Let M and M∗ be emergent properties. Let M∗ supervene on base property P∗. What happens when M causes M∗? Jaegwon Kim says:
+
+虽然强大的出现在逻辑上是可能的，但它就像魔术一样令人不安。一个不可约但超方便的向下因果力是如何产生的，因为从定义上讲，它不可能是由于微观层面潜力的聚集？这种因果关系的力量在我们的科学知识范围内是完全不同的。这不仅表明他们将如何不适的合理形式的唯物主义。它们的神秘性只会加剧传统的担忧，即出现需要从虚无中非法获得某些东西。
+
+强烈的出现可以被批评为因果关系过于确定。典型的例子涉及紧急的精神状态（M和M），它们分别在物理状态（P和P）上发生。设m和m为紧急性质。让M Supervene位于基础地产P。当m引起m时会发生什么？杰金说：
+
+--
+虽然强大的出现在逻辑上是可能的，但令人不安的是像魔术一样。 如何产生不可简化但超常的向下因果力量，因为根据定义，它不能归因于微观层面潜力的聚合？ 这种因果关系与我们的科学内容完全不同。 这不仅表明他们将如何使不合理的唯物主义形式感到不适。 他们的神秘感只会加剧传统的担忧，即出现非法从无到有。
+强烈的出现可能会因为因果关系过度而受到批评。 规范的例子涉及分别对物理状态（P和P）进行超越的紧急心理状态（M和M）。 设M和M 是紧急属性。 让M 对基本属性P进行监督。 当M导致M时会发生什么？ Jaegwon Kim说：
+
 In our schematic example above, we concluded that M causes M∗ by causing P∗. So M causes P∗. Now, M, as an emergent, must itself have an emergence base property, say P. Now we face a critical question: if an emergent, M, emerges from basal condition P, why cannot P displace M as a cause of any putative effect of M? Why cannot P do all the work in explaining why any alleged effect of M occurred? If causation is understood as nomological (law-based) sufficiency, P, as M’s emergence base, is nomologically sufficient for it, and M, as P∗’s cause, is nomologically sufficient for P∗. It follows that P is nomologically sufficient for P∗ and hence qualifies as its cause…If M is somehow retained as a cause, we are faced with the highly implausible consequence that every case of downward causation involves overdetermination (since P remains a cause of P∗ as well). Moreover, this goes against the spirit of emergentism in any case: emergents are supposed to make distinctive and novel causal contributions.
 If M is the cause of M∗, then M∗ is overdetermined because M∗ can also be thought of as being determined by P. One escape route that a strong emergentist could take would be to deny downward causation. However, this would deny that emergent mental states must supervene on physical states, which in turn would deny physicalism, and thus be unpalatable for some philosophers and physicists.
+
+在上面的示意图示例中，我们得出结论，M通过引起P而引起M。所以m导致p。现在，m，作为一个紧急事件，必须有一个紧急事件的基本性质，比如p，现在我们面临一个关键问题：如果一个紧急事件m，从基本条件p中出现，为什么p不能取代m作为m的任何假定效果的原因？为什么P不能做所有的工作来解释为什么M产生了所谓的效果？如果因果关系被理解为法理上（基于法律）的充分性，P，作为M的出现基础，在法理上对其足够，而M，作为P的原因，在法理上对P足够。由此可知，从理论上讲，P对P来说是足够的，因此可以认定为其原因……如果以某种方式将M保留为原因，我们将面临一个极不可信的后果，即每一个向下因果关系的案例都涉及过度确定（因为P仍然是P的原因）。而且，在任何情况下，这都违背了应急精神：应急人员应该做出独特的和新颖的因果关系贡献。
+
+如果m是m的原因，那么m就被过度确定了，因为m也可以被认为是由p决定的。一个强大的应急主义者可以采取的一条逃跑路线就是否定向下的因果关系。然而，这将否定紧急的精神状态必须超越物理状态，而物理状态反过来又否定物理主义，因此对一些哲学家和物理学家来说是不可接受的。
+
+--
+在上面的示意图中，我们得出结论，M通过引起P 引起M 。所以M导致P 。现在，M作为一个新兴人，必须拥有一个出现基础属性，比如P.现在我们面临一个关键问题：如果一个紧急的，M，从基础条件P中出现，为什么P不能取代M作为任何假定效应的原因M？为什么P不能做所有的工作来解释为什么M的任何所谓的影响发生？如果因果关系被理解为法律（基于法律）的充分性，那么作为M的出现基础的P在理论上是足够的，而作为P*的原因，M在术语上对于P*是足够的。由此得出P对于P*而言在理论上是足够的，因此有资格作为其原因......如果M以某种方式被保留为原因，我们面临着非常难以置信的后果，即每一个向下因果关系都涉及过度确定（因为P仍然是P的原因*以及）。而且，这无论如何都违背了新兴主义的精神：应该让新兴人士做出独特而新颖的因果贡献。
+如果M是M*的原因，那么M*是超定的，因为M*也可以被认为是由P确定的。一个强大的突现者可以采取的逃避路线将是否定向下的因果关系。然而，这将否认新兴的心理状态必须超越物理状态，这反过来会否定物理主义，因此对于一些哲学家和物理学家来说是不可接受的。
+
+
 Meanwhile, others have worked towards developing analytical evidence of strong emergence. In 2009, Gu et al. presented a class of physical systems that exhibits non-computable macroscopic properties. More precisely, if one could compute certain macroscopic properties of these systems from the microscopic description of these systems, then one would be able to solve computational problems known to be undecidable in computer science. They concluded that Although macroscopic concepts are essential for understanding our world, much of fundamental physics has been devoted to the search for a 'theory of everything', a set of equations that perfectly describe the behavior of all fundamental particles. The view that this is the goal of science rests in part on the rationale that such a theory would allow us to derive the behavior of all macroscopic concepts, at least in principle. The evidence we have presented suggests that this view may be overly optimistic. A 'theory of everything' is one of many components necessary for complete understanding of the universe, but is not necessarily the only one. The development of macroscopic laws from first principles may involve more than just systematic logic, and could require conjectures suggested by experiments, simulations or insight.
 Emergent structures are patterns that emerge via collective actions of many individual entities. To explain such patterns, one might conclude, per Aristotle,[2] that emergent structures are other than the sum of their parts on the assumption that the emergent order will not arise if the various parts simply interact independently of one another. However, there are those who disagree.[14] According to this argument, the interaction of each part with its immediate surroundings causes a complex chain of processes that can lead to order in some form. In fact, some systems in nature are observed to exhibit emergence based upon the interactions of autonomous parts, and some others exhibit emergence that at least at present cannot be reduced in this way. In particular renormalization are methods in theoretical physics which enables scientists to study systems that are not tractable as the combination of their parts.
+
+同时，其他人也致力于开发强有力的分析证据。2009年，Gu等人给出了一类具有不可计算宏观性质的物理系统。更准确地说，如果我们能从这些系统的微观描述中计算出这些系统的某些宏观性质，那么我们就能够解决计算机科学中已知不可决定的计算问题。他们得出的结论是，尽管宏观概念对于理解我们的世界是必不可少的，但许多基础物理学都致力于寻找“万有论”，一套完美描述所有基本粒子行为的方程。认为这是科学的目标的观点部分基于这样一个理论的基本原理，即至少在原则上，这样一个理论将允许我们推导出所有宏观概念的行为。我们提出的证据表明，这种观点可能过于乐观。“万物论”是完全理解宇宙所必需的许多组成部分之一，但不一定是唯一的组成部分。从第一原理发展宏观规律可能不仅仅涉及系统逻辑，而且可能需要实验、模拟或洞察提出的推测。
+
+紧急结构是通过许多个体的集体行动形成的模式。为了解释这种模式，我们可以根据亚里士多德的理论，得出这样的结论，即如果各部分之间相互独立，那么就不会出现紧急顺序，而非各部分的总和。然而，也有人不同意这一观点。根据这一论点，每一部分与其周围环境的相互作用都会导致一个复杂的过程链，从而导致某种形式的秩序。事实上，在自然界中，一些系统是根据自治部分的相互作用而出现的，而另一些系统则是至少目前不能以这种方式减少的出现。尤其是重正化是理论物理学中的方法，它使科学家能够研究那些不能作为其组成部分的组合来处理的系统。
+
+--
+与此同时，其他人一直致力于开发出强势出现的分析证据。 2009年，顾等人。提出了一类具有不可计算的宏观特性的物理系统。更准确地说，如果可以从这些系统的微观描述中计算出这些系统的某些宏观特性，那么人们就能够解决计算机科学中已知不可判断的计算问题。他们的结论是，尽管宏观概念对于理解我们的世界至关重要，但许多基础物理学一直致力于寻找“一切理论”，这是一套完美描述所有基本粒子行为的方程。认为这是科学的目标，部分取决于这样一种理论，即这种理论可以让我们得出所有宏观概念的行为，至少在原则上是这样。我们提出的证据表明，这种观点可能过于乐观。 “一切理论”是完全理解宇宙所必需的许多组成部分之一，但不一定是唯一的。从第一原理开发宏观规律可能不仅仅涉及系统逻辑，而且可能需要通过实验，模拟或洞察力提出的猜想。
+紧急结构是通过许多个体实体的集体行动产生的模式。为了解释这样的模式，人们可以得出结论，按照亚里士多德的说法，[2]出现的结构不是它们各部分的总和，假设如果各部分只是相互独立地相互作用，则不会出现紧急顺序。但是，有些人不同意。[14]根据这一论点，每个部分与其周围环境的相互作用会导致复杂的过程链，从而导致某种形式的秩序。实际上，观察到自然界中的一些系统基于自主部分的相互作用而呈现出现，并且一些其他系统表现出至少目前不能以这种方式减少的出现。特别是重整化是理论物理学中的方法，它使科学家能够研究不易处理的系统作为其各部分的组合。
 
 Objective or subjective quality
 The properties of complexity and organization of any system are considered by Crutchfield to be subjective qualities determined by the observer.
 Defining structure and detecting the emergence of complexity in nature are inherently subjective, though essential, scientific activities. Despite the difficulties, these problems can be analysed in terms of how model-building observers infer from measurements the computational capabilities embedded in non-linear processes. An observer’s notion of what is ordered, what is random, and what is complex in its environment depends directly on its computational resources: the amount of raw measurement data, of memory, and of time available for estimation and inference. The discovery of structure in an environment depends more critically and subtly, though, on how those resources are organized. The descriptive power of the observer’s chosen (or implicit) computational model class, for example, can be an overwhelming determinant in finding regularity in data.(Crutchfield 1994)
 On the other hand, Peter Corning argues "Must the synergies be perceived/observed in order to qualify as emergent effects, as some theorists claim? Most emphatically not. The synergies associated with emergence are real and measurable, even if nobody is there to observe them."(Corning 2002)
 
+客观或主观品质
+
+Crutchfield认为任何系统的复杂性和组织特性都是由观察者确定的主观品质。
+
+定义结构和发现自然界中复杂性的出现，本质上是主观的，尽管是必要的，科学的活动。尽管困难重重，但这些问题可以通过模型构建观察员如何从测量中推断非线性过程中嵌入的计算能力来分析。观察者对于什么是有序的，什么是随机的，什么是复杂的，在其环境中的概念直接依赖于其计算资源：原始测量数据的数量，内存，以及可用于估计和推断的时间。然而，在一个环境中发现结构更加关键和微妙地依赖于这些资源的组织方式。例如，观察者选择的（或隐含的）计算模型类的描述性能力可以成为发现数据规律性的压倒性决定因素。
+
+另一方面，彼得科宁认为，“必须感知/观察协同效应，才能符合一些理论家所说的紧急效应吗？最明显的不是。与出现有关的协同效应是真实的和可测量的，即使没有人在那里观察它们。
+
+--
+客观或主观质量
+Crutchfield认为任何系统的复杂性和组织属性都是由观察者确定的主观质量。
+定义结构和检测自然界中复杂性的出现本质上是主观的，尽管是必不可少的科学活动。尽管存在困难，但可以根据模型构建观察者如何从测量中推断嵌入非线性过程中的计算能力来分析这些问题。观察者关于什么是有序的，随机的以及什么是复杂的环境的概念直接取决于其计算资源：原始测量数据的量，存储器的数量以及可用于估计和推断的时间。然而，环境中结构的发现更加关键和巧妙地取决于这些资源的组织方式。例如，观察者所选（或隐含）计算模型类的描述能力可能是发现数据规律性的压倒性决定因素。（Crutchfield 1994）
+另一方面，彼得·科宁认为“必须认识/观察协同作用，以便有资格作为紧急效应，正如一些理论家所说的那样？最重要的是没有。与出现相关的协同作用是真实的和可衡量的，即使没有人在那里观察他们。“（Corning 2002）
+
 In religion, art and humanities
 In religion, emergence grounds expressions of religious naturalism and syntheism in which a sense of the sacred is perceived in the workings of entirely naturalistic processes by which more complex forms arise or evolve from simpler forms. Examples are detailed in The Sacred Emergence of Nature by Ursula Goodenough & Terrence Deacon and Beyond Reductionism: Reinventing the Sacred by Stuart Kauffman, both from 2006, and in Syntheism – Creating God in The Internet Age by Alexander Bard & Jan Söderqvist from 2014. An early argument (1904–05) for the emergence of social formations, in part stemming from religion, can be found in Max Weber's most famous work, The Protestant Ethic and the Spirit of Capitalism.
-In art, emergence is used to explore the origins of novelty, creativity, and authorship. Some art/literary theorists (Wheeler, 2006;[17] Alexander, 2011[18] have proposed alternatives to postmodern understandings of "authorship" using the complexity sciences and emergence theory. They contend that artistic selfhood and meaning are emergent, relatively objective phenomena. Michael J. Pearce has used emergence to describe the experience of works of art in relation to contemporary neuroscience.[19])
+In art, emergence is used to explore the origins of novelty, creativity, and authorship. Some art/literary theorists (Wheeler, 2006;[17] Alexander, 2011[18] have proposed alternatives to postmodern understandings of "authorship" using the complexity sciences and emergence theory. They contend that artistic selfhood and meaning are emergent, relatively objective phenomena. Michael J. Pearce has used emergence to describe the experience of works of art in relation to contemporary neuroscience.)
 In international development, concepts of emergence have been used within a theory of social change termed SEED-SCALE to show how standard principles interact to bring forward socio-economic development fitted to cultural values, community economics, and natural environment (local solutions emerging from the larger socio-econo-biosphere). These principles can be implemented utilizing a sequence of standardized tasks that self-assemble in individually specific ways utilizing recursive evaluative criteria.[20]
 In postcolonial studies, the term "Emerging Literature" refers to a contemporary body of texts that is gaining momentum in the global literary landscape (v. esp.: J.M. Grassin, ed. Emerging Literatures, Bern, Berlin, etc. : Peter Lang, 1996). By opposition, "emergent literature" is rather a concept used in the theory of literature.
+
+宗教、艺术和人文学科
+
+在宗教中，出现的基础是宗教自然主义和综合主义的表达，其中神圣的感觉被感知为完全自然主义过程的运作，通过这种过程，更复杂的形式从更简单的形式产生或演变。例子在乌苏拉·古德索莱&特伦斯·迪肯和超越还原主义的自然的神圣出现中有详细描述：2006年和2014年亚历山大·巴德&扬·S德克维斯特的创造神圣中。关于社会形态出现的早期争论（1904-2005），部分源于宗教，可以在马克斯韦伯最著名的著作新教伦理和资本主义精神中找到。
+
+在艺术中，出现被用来探索新颖性、创造性和作者身份的起源。一些艺术/文学理论家（Wheeler，2006；[17]Alexander，2011[18]利用复杂性科学和出现理论提出了“作者”后现代理解的替代方案。他们认为艺术的自我意识和意义是一种新兴的、相对客观的现象。
+
+在国际发展中，出现的概念被用于一种称为“种子尺度”的社会变化理论中，以展示标准原则是如何相互作用的，以促进与文化价值观、社区经济和自然环境相适应的社会经济发展（从更大的社会经济生物圈中产生的当地解决方案）。这些原则可以使用一系列标准化任务来实现，这些任务使用递归评估标准以单独的特定方式自组装。
+
+在后殖民地研究中，“新兴文学”一词指的是在全球文学景观中获得势头的当代文本体（V.esp.：J.M.Grassin，ed.新兴文学，Bern，Berlin等，：Peter Lang，1996）。“新兴文学”是文学理论中比较常用的一个概念。
+
+--
+在宗教，艺术和人文学科
+在宗教中，崛起是宗教自然主义和综合主义的表达，其中神圣感在完全自然主义过程的运作中被感知，更复杂的形式从更简单的形式出现或演变。自2006年以来，Ursula Goodenough和Terrence Deacon以及Beyond Reductionism：Stvent Kauffman重塑神圣的神圣诞生，以及2014年Alexander Bard和JanSöderqvist在综合主义 - 互联网时代创造上帝。关于社会形态出现的早期论证（1904-05），部分源于宗教，可以在马克斯韦伯最着名的着作“新教伦理与资本主义精神”中找到。
+在艺术中​​，出现用于探索新颖性，创造性和作者身份的起源。一些艺术/文学理论家（Wheeler，2006; [17] Alexander，2011 [18]使用复杂性科学和出现理论提出了对“作者身份”的后现代理解的替代方案。他们认为艺术自我和意义是紧急的，相对客观的现象迈克尔·皮尔斯（Michael J. Pearce）用崛起来描述与当代神经科学相关的艺术作品的经验。）
+在国际发展中，出现的概念被用于称为SEED-SCALE的社会变革理论中，以显示标准原则如何相互作用，以促进符合文化价值观，社区经济学和自然环境的社会经济发展（当地解决方案来自于更大的社会经济 - 生物圈）。这些原则可以利用一系列标准化任务来实施，这些任务利用递归评估标准以各自特定的方式自我组装。[20]
+在后殖民研究中，“新兴文学”一词指的是在全球文学领域中获得动力的当代文本体系（v.esp。：JM Grassin，ed。Emerging Literatures，Bern，Berlin等：Peter Lang， 1996年）。通过反对，“新兴文学”更像是文学理论中使用的概念。
 
 Emergent properties and processes
 An emergent behavior or emergent property can appear when a number of simple entities (agents) operate in an environment, forming more complex behaviors as a collective. If emergence happens over disparate size scales, then the reason is usually a causal relation across different scales. In other words, there is often a form of top-down feedback in systems with emergent properties.[21] The processes from which emergent properties result may occur in either the observed or observing system, and can commonly be identified by their patterns of accumulating change, most generally called 'growth'. Emergent behaviours can occur because of intricate causal relations across different scales and feedback, known as interconnectivity. The emergent property itself may be either very predictable or unpredictable and unprecedented, and represent a new level of the system's evolution. The complex behaviour or properties are not a property of any single such entity, nor can they easily be predicted or deduced from behaviour in the lower-level entities, and might in fact be irreducible to such behavior. The shape and behaviour of a flock of birds [3] or school of fish are good examples of emergent properties.
 One reason why emergent behaviour is hard to predict is that the number of interactions between components of a system increases exponentially with the number of components, thus potentially allowing for many new and subtle types of behaviour to emerge. Emergence is often a product of particular patterns of interaction. Negative feedback introduces constraints that serve to fix structures or behaviours. In contrast, positive feedback promotes change, allowing local variations to grow into global patterns. Another way in which interactions leads to emergent properties is dual-phase evolution. This occurs where interactions are applied intermittently, leading to two phases: one in which patterns form or grow, the other in which they are refined or removed.
+
+突发性和过程
+
+当一些简单的实体（代理）在一个环境中操作，形成更复杂的集体行为时，可能会出现紧急行为或紧急财产。如果出现在不同的尺度上，那么原因通常是不同尺度之间的因果关系。换句话说，在具有紧急特性的系统中，通常有一种自上而下的反馈形式。【21】紧急特性产生的过程可能发生在观察或观察系统中，并且通常可以通过它们的累积变化模式来识别，通常称为“增长”。由于跨不同尺度和反馈的错综复杂的因果关系，紧急行为可能发生，称为相互联系。紧急状态本身可能是非常可预测的，也可能是不可预测和前所未有的，并且代表着系统进化的新水平。复杂的行为或属性不是任何一个这样的实体的属性，也不能轻易地从低级实体的行为中预测或推断出来，事实上，这些行为可能是不可简化的。鸟群或鱼群的形状和行为是很好的紧急特性的例子。
+
+紧急行为难以预测的一个原因是，系统各组成部分之间的交互作用数量随着组成部分的数量呈指数级增加，因此可能允许出现许多新的和微妙的行为类型。出现通常是特定交互模式的产物。负反馈引入了用于固定结构或行为的约束。相反，正反馈促进变化，允许局部变化发展为全球模式。另一种交互作用导致出现性质的方法是双相演化。这种情况发生在相互作用被间歇性地应用，导致两个阶段：一个阶段是模式形成或生长，另一个阶段是模式被精炼或去除。
+
+--
+紧急属性和流程
+当许多简单实体（代理）在环境中运行时，可以出现紧急行为或紧急属性，从而形成更复杂的行为。如果出现在不同的大小尺度上，那么原因通常是不同尺度的因果关系。换句话说，在具有紧急属性的系统中通常存在一种自上而下的反馈形式。[21]出现紧急特性的过程可能发生在观察或观察系统中，并且通常可以通过其积累变化的模式来识别，最常被称为“增长”。由于跨越不同尺度和反馈的错综复杂的因果关系（称为互连），可能会出现紧急行为。新兴财产本身可能是非常可预测的，也可能是不可预测的，也是前所未有的，并代表了系统发展的新水平。复杂的行为或属性不是任何单个此类实体的属性，也不能轻易地从较低级别实体中的行为进行预测或推断，并且实际上可能对此类行为不可降低。一群鸟[3]或鱼群的形状和行为是新兴属性的良好例子。
+紧急行为难以预测的一个原因是系统组件之间的交互数量随着组件数量呈指数增长，因此可能会出现许多新的和微妙的行为类型。出现通常是特定交互模式的产物。负反馈引入了用于修复结构或行为的约束。相比之下，积极的反馈促进了变革，使当地的变化成为全球模式。交互导致紧急属性的另一种方式是双阶段演化。这种情况发生在间歇性地应用相互作用的情况下，导致两个阶段：一个是图案形成或生长，另一个是细化或去除。
+
 On the other hand, merely having a large number of interactions is not enough by itself to guarantee emergent behaviour; many of the interactions may be negligible or irrelevant, or may cancel each other out. In some cases, a large number of interactions can in fact work against the emergence of interesting behaviour, by creating a lot of "noise" to drown out any emerging "signal"; the emergent behaviour may need to be temporarily isolated from other interactions before it reaches enough critical mass to be self-supporting. Thus it is not just the sheer number of connections between components which encourages emergence; it is also how these connections are organised. A hierarchical organisation is one example that can generate emergent behaviour (a bureaucracy may behave in a way quite different from that of the individual humans in that bureaucracy); but perhaps more interestingly, emergent behaviour can also arise from more decentralized organisational structures, such as a marketplace. In some cases, the system has to reach a combined threshold of diversity, organisation, and connectivity before emergent behaviour appears.
 Unintended consequences and side effects are closely related to emergent properties. Luc Steels writes: "A component has a particular functionality but this is not recognizable as a subfunction of the global functionality. Instead a component implements a behaviour whose side effect contributes to the global functionality [...] Each behaviour has a side effect and the sum of the side effects gives the desired functionality".(Steels 1990) In other words, the global or macroscopic functionality of a system with "emergent functionality" is the sum of all "side effects", of all emergent properties and functionalities.
 Systems with emergent properties or emergent structures may appear to defy entropic principles and the second law of thermodynamics, because they form and increase order despite the lack of command and central control. This is possible because open systems can extract information and order out of the environment.
