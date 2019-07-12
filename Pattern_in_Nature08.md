@@ -8,23 +8,21 @@ Pattern in Nature Author：Philip Ball
 自然模式：涌现
 
 
-The formation of complex symmetrical and fractal patterns in snowflakesexemplifies emergence in a physical system.
+The formation of complex symmetrical and fractal patterns in snowflakes exemplifies emergence in a physical system.
 
 A termite "cathedral" mound produced by a termite colony offers a classic example of emergence innature.
 In philosophy, systems theory, science, and art, emergence is a phenomenon whereby larger entities arise through interactions among smaller or simpler entities such that the larger entities exhibit properties the smaller/simpler entities do not exhibit.
 Emergence is central in theories of integrative levels and of complex systems. For instance, the phenomenon of life as studied in biology is an emergent property of chemistry, and psychological phenomena emerge from the neurobiological phenomena of living things.
 In philosophy, theories that emphasize emergent properties have been called emergentism. Almost all accounts of emergentism include a form of epistemic or ontological irreducibility to the lower levels.
 
-在雪花湖中形成复杂的对称和分形图案，使物理系统的出现更为明显。
-一个由白蚁聚居区制作的“大教堂”土丘提供了一个典型的出现自然的例子。
+雪花是在物理系统中涌现出复杂的对称和分形图案的很好的例证。由白蚁群体建造的白蚁“大教堂”土墩也是自然界中涌现的典型例子。
+
 在哲学、系统理论、科学和艺术中，出现是一种现象，即较大实体通过较小或较简单实体之间的相互作用而产生，从而使较大实体表现出较小/较简单实体不表现出的特性。
 出现是综合水平和复杂系统理论的核心。例如，《生物学》所研究的生命现象是化学的一个新兴属性，而心理现象则是从生物的神经生物学现象中产生的。
 在哲学中，强调紧急属性的理论被称为应急主义。几乎所有关于Emergencism的描述都包含了一种形式，即认识论的或本体论的，不可简化到较低层次。
 
 --
-在雪花中形成复杂的对称和分形图案，简化了物理系统中的出现。
 
-由白蚁群体产生的白蚁“大教堂”土墩提供了出现自然的典型例子。
 在哲学，系统理论，科学和艺术中，出现是一种现象，其中较大的实体通过较小或较简单的实体之间的相互作用而产生，使得较大的实体表现出较小/较简单的实体不具有的性质。
 出现是综合水平和复杂系统理论的核心。 例如，生物学中研究的生命现象是化学的一种新兴属性，心理现象从生物的神经生物学现象中浮现出来。
 在哲学中，强调新兴属性的理论被称为突现主义。 几乎所有关于突现主义的叙述都包括对较低层次的认识或本体论不可约性的形式。
